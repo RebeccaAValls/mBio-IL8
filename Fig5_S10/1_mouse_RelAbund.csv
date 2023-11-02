@@ -1,0 +1,2466 @@
+"","Sample","MTaxa","Proportion","Day","Condition","Experiment"
+"1","26_1A_S1","Escherichia-Shigella",0,"Baseline","Plus",1
+"2","26_1A_S1","Bacteroides",9.96926366430576,"Baseline","Plus",1
+"3","26_1A_S1","HT002",1.48336228785247,"Baseline","Plus",1
+"4","26_1A_S1","[Clostridium] innocuum group",0,"Baseline","Plus",1
+"5","26_1A_S1","Ligilactobacillus",11.6664439395964,"Baseline","Plus",1
+"6","26_1A_S1","Dubosiella",0.614726713884806,"Baseline","Plus",1
+"7","26_1A_S1","Blautia",0,"Baseline","Plus",1
+"8","26_1A_S1","Faecalibaculum",0.721635707603902,"Baseline","Plus",1
+"9","26_1A_S1","Lactobacillus",10.410263263397,"Baseline","Plus",1
+"10","26_1A_S1","Enterococcus",0,"Baseline","Plus",1
+"11","26_1A_S1","Turicibacter",6.22744888413738,"Baseline","Plus",1
+"12","26_1A_S1","Clostridium sensu stricto 1",2.485634103969,"Baseline","Plus",1
+"13","26_1A_S1","Paraclostridium",0,"Baseline","Plus",1
+"14","26_1A_S1","Ileibacterium",0,"Baseline","Plus",1
+"15","26_1A_S1","Klebsiella",0,"Baseline","Plus",1
+"16","26_1A_S1","Lachnospiraceae UCG-001",1.30963517305893,"Baseline","Plus",1
+"17","26_1A_S1","Lachnospiraceae NK4A136 group",2.47227047975411,"Baseline","Plus",1
+"18","26_1A_S1","Streptococcus",0,"Baseline","Plus",1
+"19","26_1A_S1","Romboutsia",2.09808900173727,"Baseline","Plus",1
+"20","26_1A_S1","Erysipelatoclostridium",0.0534544968595483,"Baseline","Plus",1
+"21","26_1A_S1","Bifidobacterium",0.280636108512629,"Baseline","Plus",1
+"22","26_1A_S1","Lachnoclostridium",0.240545235867967,"Baseline","Plus",1
+"23","26_1A_S1","Anaerostipes",0,"Baseline","Plus",1
+"24","26_1A_S1","Lachnospiraceae UCG-006",1.1359080582654,"Baseline","Plus",1
+"25","26_1A_S1","Salmonella",0,"Baseline","Plus",1
+"26","26_1A_S1","Parabacteroides",2.11145262595216,"Baseline","Plus",1
+"27","26_1A_S1","Cutibacterium",0,"Baseline","Plus",1
+"28","26_1A_S1","Unclassified",30.3755178404383,"Baseline","Plus",1
+"29","26_1A_S1","Other",16.3437124148069,"Baseline","Plus",1
+"30","26_1H_S8","Escherichia-Shigella",2.13358070500928,"Day4","Plus",1
+"31","26_1H_S8","Bacteroides",28.2815398886827,"Day4","Plus",1
+"32","26_1H_S8","HT002",0,"Day4","Plus",1
+"33","26_1H_S8","[Clostridium] innocuum group",0.73051948051948,"Day4","Plus",1
+"34","26_1H_S8","Ligilactobacillus",7.4095547309833,"Day4","Plus",1
+"35","26_1H_S8","Dubosiella",0,"Day4","Plus",1
+"36","26_1H_S8","Blautia",3.40909090909091,"Day4","Plus",1
+"37","26_1H_S8","Faecalibaculum",0,"Day4","Plus",1
+"38","26_1H_S8","Lactobacillus",0,"Day4","Plus",1
+"39","26_1H_S8","Enterococcus",0.788497217068646,"Day4","Plus",1
+"40","26_1H_S8","Turicibacter",3.35111317254174,"Day4","Plus",1
+"41","26_1H_S8","Clostridium sensu stricto 1",0.0695732838589981,"Day4","Plus",1
+"42","26_1H_S8","Paraclostridium",0,"Day4","Plus",1
+"43","26_1H_S8","Ileibacterium",34.7402597402597,"Day4","Plus",1
+"44","26_1H_S8","Klebsiella",0,"Day4","Plus",1
+"45","26_1H_S8","Lachnospiraceae UCG-001",0,"Day4","Plus",1
+"46","26_1H_S8","Lachnospiraceae NK4A136 group",0,"Day4","Plus",1
+"47","26_1H_S8","Streptococcus",0,"Day4","Plus",1
+"48","26_1H_S8","Romboutsia",0,"Day4","Plus",1
+"49","26_1H_S8","Erysipelatoclostridium",0,"Day4","Plus",1
+"50","26_1H_S8","Bifidobacterium",2.40027829313544,"Day4","Plus",1
+"51","26_1H_S8","Lachnoclostridium",0,"Day4","Plus",1
+"52","26_1H_S8","Anaerostipes",0,"Day4","Plus",1
+"53","26_1H_S8","Lachnospiraceae UCG-006",0,"Day4","Plus",1
+"54","26_1H_S8","Salmonella",0,"Day4","Plus",1
+"55","26_1H_S8","Parabacteroides",0,"Day4","Plus",1
+"56","26_1H_S8","Cutibacterium",0,"Day4","Plus",1
+"57","26_1H_S8","Unclassified",13.8798701298701,"Day4","Plus",1
+"58","26_1H_S8","Other",2.80612244897958,"Day4","Plus",1
+"59","26_1L_S15","Escherichia-Shigella",0.293387497178966,"Day12","Plus",1
+"60","26_1L_S15","Bacteroides",33.0963665086888,"Day12","Plus",1
+"61","26_1L_S15","HT002",0,"Day12","Plus",1
+"62","26_1L_S15","[Clostridium] innocuum group",0.530354321823516,"Day12","Plus",1
+"63","26_1L_S15","Ligilactobacillus",2.4373730534868,"Day12","Plus",1
+"64","26_1L_S15","Dubosiella",0,"Day12","Plus",1
+"65","26_1L_S15","Blautia",2.15526969081471,"Day12","Plus",1
+"66","26_1L_S15","Faecalibaculum",0,"Day12","Plus",1
+"67","26_1L_S15","Lactobacillus",0,"Day12","Plus",1
+"68","26_1L_S15","Enterococcus",0.214398555630783,"Day12","Plus",1
+"69","26_1L_S15","Turicibacter",0.665763935906116,"Day12","Plus",1
+"70","26_1L_S15","Clostridium sensu stricto 1",0,"Day12","Plus",1
+"71","26_1L_S15","Paraclostridium",0,"Day12","Plus",1
+"72","26_1L_S15","Ileibacterium",26.6531257052584,"Day12","Plus",1
+"73","26_1L_S15","Klebsiella",0,"Day12","Plus",1
+"74","26_1L_S15","Lachnospiraceae UCG-001",0,"Day12","Plus",1
+"75","26_1L_S15","Lachnospiraceae NK4A136 group",2.96772737531031,"Day12","Plus",1
+"76","26_1L_S15","Streptococcus",0,"Day12","Plus",1
+"77","26_1L_S15","Romboutsia",0,"Day12","Plus",1
+"78","26_1L_S15","Erysipelatoclostridium",0,"Day12","Plus",1
+"79","26_1L_S15","Bifidobacterium",0.643195666892349,"Day12","Plus",1
+"80","26_1L_S15","Lachnoclostridium",1.18483412322275,"Day12","Plus",1
+"81","26_1L_S15","Anaerostipes",0,"Day12","Plus",1
+"82","26_1L_S15","Lachnospiraceae UCG-006",1.79417738659445,"Day12","Plus",1
+"83","26_1L_S15","Salmonella",0,"Day12","Plus",1
+"84","26_1L_S15","Parabacteroides",0,"Day12","Plus",1
+"85","26_1L_S15","Cutibacterium",0,"Day12","Plus",1
+"86","26_1L_S15","Unclassified",20.9433536447754,"Day12","Plus",1
+"87","26_1L_S15","Other",6.42067253441661,"Day12","Plus",1
+"88","26_2A_S2","Escherichia-Shigella",0,"Baseline","Minus",1
+"89","26_2A_S2","Bacteroides",7.76807125727989,"Baseline","Minus",1
+"90","26_2A_S2","HT002",2.99760191846523,"Baseline","Minus",1
+"91","26_2A_S2","[Clostridium] innocuum group",0,"Baseline","Minus",1
+"92","26_2A_S2","Ligilactobacillus",14.6968139773895,"Baseline","Minus",1
+"93","26_2A_S2","Dubosiella",2.20109626584447,"Baseline","Minus",1
+"94","26_2A_S2","Blautia",0,"Baseline","Minus",1
+"95","26_2A_S2","Faecalibaculum",1.12195957519699,"Baseline","Minus",1
+"96","26_2A_S2","Lactobacillus",14.4912641315519,"Baseline","Minus",1
+"97","26_2A_S2","Enterococcus",0,"Baseline","Minus",1
+"98","26_2A_S2","Turicibacter",5.07879410757109,"Baseline","Minus",1
+"99","26_2A_S2","Clostridium sensu stricto 1",3.61425145597808,"Baseline","Minus",1
+"100","26_2A_S2","Paraclostridium",0,"Baseline","Minus",1
+"101","26_2A_S2","Ileibacterium",0,"Baseline","Minus",1
+"102","26_2A_S2","Klebsiella",0,"Baseline","Minus",1
+"103","26_2A_S2","Lachnospiraceae UCG-001",0.668036998972251,"Baseline","Minus",1
+"104","26_2A_S2","Lachnospiraceae NK4A136 group",2.74922918807811,"Baseline","Minus",1
+"105","26_2A_S2","Streptococcus",0,"Baseline","Minus",1
+"106","26_2A_S2","Romboutsia",1.67009249743063,"Baseline","Minus",1
+"107","26_2A_S2","Erysipelatoclostridium",0,"Baseline","Minus",1
+"108","26_2A_S2","Bifidobacterium",0.385405960945529,"Baseline","Minus",1
+"109","26_2A_S2","Lachnoclostridium",0.205549845837616,"Baseline","Minus",1
+"110","26_2A_S2","Anaerostipes",0,"Baseline","Minus",1
+"111","26_2A_S2","Lachnospiraceae UCG-006",0.239808153477218,"Baseline","Minus",1
+"112","26_2A_S2","Salmonella",0,"Baseline","Minus",1
+"113","26_2A_S2","Parabacteroides",1.17334703665639,"Baseline","Minus",1
+"114","26_2A_S2","Cutibacterium",0,"Baseline","Minus",1
+"115","26_2A_S2","Unclassified",26.2161699212059,"Baseline","Minus",1
+"116","26_2A_S2","Other",14.7225077081192,"Baseline","Minus",1
+"117","26_2H_S9","Escherichia-Shigella",0,"Day4","Minus",1
+"118","26_2H_S9","Bacteroides",0.367693673133004,"Day4","Minus",1
+"119","26_2H_S9","HT002",0,"Day4","Minus",1
+"120","26_2H_S9","[Clostridium] innocuum group",6.60580702421707,"Day4","Minus",1
+"121","26_2H_S9","Ligilactobacillus",0,"Day4","Minus",1
+"122","26_2H_S9","Dubosiella",0,"Day4","Minus",1
+"123","26_2H_S9","Blautia",0,"Day4","Minus",1
+"124","26_2H_S9","Faecalibaculum",0,"Day4","Minus",1
+"125","26_2H_S9","Lactobacillus",0,"Day4","Minus",1
+"126","26_2H_S9","Enterococcus",30.7594776214023,"Day4","Minus",1
+"127","26_2H_S9","Turicibacter",0,"Day4","Minus",1
+"128","26_2H_S9","Clostridium sensu stricto 1",1.07772283504501,"Day4","Minus",1
+"129","26_2H_S9","Paraclostridium",5.95917332319006,"Day4","Minus",1
+"130","26_2H_S9","Ileibacterium",0,"Day4","Minus",1
+"131","26_2H_S9","Klebsiella",2.73868391023203,"Day4","Minus",1
+"132","26_2H_S9","Lachnospiraceae UCG-001",0,"Day4","Minus",1
+"133","26_2H_S9","Lachnospiraceae NK4A136 group",0,"Day4","Minus",1
+"134","26_2H_S9","Streptococcus",0,"Day4","Minus",1
+"135","26_2H_S9","Romboutsia",0,"Day4","Minus",1
+"136","26_2H_S9","Erysipelatoclostridium",0,"Day4","Minus",1
+"137","26_2H_S9","Bifidobacterium",0,"Day4","Minus",1
+"138","26_2H_S9","Lachnoclostridium",7.02421706605807,"Day4","Minus",1
+"139","26_2H_S9","Anaerostipes",0,"Day4","Minus",1
+"140","26_2H_S9","Lachnospiraceae UCG-006",0,"Day4","Minus",1
+"141","26_2H_S9","Salmonella",0,"Day4","Minus",1
+"142","26_2H_S9","Parabacteroides",44.3768226195004,"Day4","Minus",1
+"143","26_2H_S9","Cutibacterium",0,"Day4","Minus",1
+"144","26_2H_S9","Unclassified",0.684670977558,"Day4","Minus",1
+"145","26_2H_S9","Other",0.405730949664004,"Day4","Minus",1
+"146","26_2L_S16","Escherichia-Shigella",0,"Day12","Minus",1
+"147","26_2L_S16","Bacteroides",0,"Day12","Minus",1
+"148","26_2L_S16","HT002",0,"Day12","Minus",1
+"149","26_2L_S16","[Clostridium] innocuum group",2.23861612821165,"Day12","Minus",1
+"150","26_2L_S16","Ligilactobacillus",0,"Day12","Minus",1
+"151","26_2L_S16","Dubosiella",0,"Day12","Minus",1
+"152","26_2L_S16","Blautia",0,"Day12","Minus",1
+"153","26_2L_S16","Faecalibaculum",0,"Day12","Minus",1
+"154","26_2L_S16","Lactobacillus",0,"Day12","Minus",1
+"155","26_2L_S16","Enterococcus",4.57898753497838,"Day12","Minus",1
+"156","26_2L_S16","Turicibacter",0,"Day12","Minus",1
+"157","26_2L_S16","Clostridium sensu stricto 1",0.52149580259476,"Day12","Minus",1
+"158","26_2L_S16","Paraclostridium",0,"Day12","Minus",1
+"159","26_2L_S16","Ileibacterium",0,"Day12","Minus",1
+"160","26_2L_S16","Klebsiella",0,"Day12","Minus",1
+"161","26_2L_S16","Lachnospiraceae UCG-001",0,"Day12","Minus",1
+"162","26_2L_S16","Lachnospiraceae NK4A136 group",21.3177308572882,"Day12","Minus",1
+"163","26_2L_S16","Streptococcus",0,"Day12","Minus",1
+"164","26_2L_S16","Romboutsia",0,"Day12","Minus",1
+"165","26_2L_S16","Erysipelatoclostridium",0,"Day12","Minus",1
+"166","26_2L_S16","Bifidobacterium",6.15619435258204,"Day12","Minus",1
+"167","26_2L_S16","Lachnoclostridium",1.48817094886797,"Day12","Minus",1
+"168","26_2L_S16","Anaerostipes",0,"Day12","Minus",1
+"169","26_2L_S16","Lachnospiraceae UCG-006",0.686848130246757,"Day12","Minus",1
+"170","26_2L_S16","Salmonella",0,"Day12","Minus",1
+"171","26_2L_S16","Parabacteroides",53.9811752734673,"Day12","Minus",1
+"172","26_2L_S16","Cutibacterium",0,"Day12","Minus",1
+"173","26_2L_S16","Unclassified",3.28160773340117,"Day12","Minus",1
+"174","26_2L_S16","Other",5.74917323836173,"Day12","Minus",1
+"175","26_3A_S3","Escherichia-Shigella",0,"Baseline","Minus",1
+"176","26_3A_S3","Bacteroides",3.58946112182135,"Baseline","Minus",1
+"177","26_3A_S3","HT002",0.0550812448361333,"Baseline","Minus",1
+"178","26_3A_S3","[Clostridium] innocuum group",0,"Baseline","Minus",1
+"179","26_3A_S3","Ligilactobacillus",17.6351785550353,"Baseline","Minus",1
+"180","26_3A_S3","Dubosiella",2.54291746993482,"Baseline","Minus",1
+"181","26_3A_S3","Blautia",0,"Baseline","Minus",1
+"182","26_3A_S3","Faecalibaculum",2.40521435784449,"Baseline","Minus",1
+"183","26_3A_S3","Lactobacillus",1.45965298815753,"Baseline","Minus",1
+"184","26_3A_S3","Enterococcus",0,"Baseline","Minus",1
+"185","26_3A_S3","Turicibacter",0,"Baseline","Minus",1
+"186","26_3A_S3","Clostridium sensu stricto 1",6.18745983659231,"Baseline","Minus",1
+"187","26_3A_S3","Paraclostridium",0,"Baseline","Minus",1
+"188","26_3A_S3","Ileibacterium",0,"Baseline","Minus",1
+"189","26_3A_S3","Klebsiella",0,"Baseline","Minus",1
+"190","26_3A_S3","Lachnospiraceae UCG-001",1.66161755255669,"Baseline","Minus",1
+"191","26_3A_S3","Lachnospiraceae NK4A136 group",7.14220141375195,"Baseline","Minus",1
+"192","26_3A_S3","Streptococcus",0,"Baseline","Minus",1
+"193","26_3A_S3","Romboutsia",1.16588634903149,"Baseline","Minus",1
+"194","26_3A_S3","Erysipelatoclostridium",0,"Baseline","Minus",1
+"195","26_3A_S3","Bifidobacterium",0.358028091434866,"Baseline","Minus",1
+"196","26_3A_S3","Lachnoclostridium",1.30358946112182,"Baseline","Minus",1
+"197","26_3A_S3","Anaerostipes",0,"Baseline","Minus",1
+"198","26_3A_S3","Lachnospiraceae UCG-006",0.633434315615533,"Baseline","Minus",1
+"199","26_3A_S3","Salmonella",0,"Baseline","Minus",1
+"200","26_3A_S3","Parabacteroides",0.587533278252088,"Baseline","Minus",1
+"201","26_3A_S3","Cutibacterium",0,"Baseline","Minus",1
+"202","26_3A_S3","Unclassified",35.793628936014,"Baseline","Minus",1
+"203","26_3A_S3","Other",17.4791150279996,"Baseline","Minus",1
+"204","26_3H_S10","Escherichia-Shigella",6.55756018544378,"Day4","Minus",1
+"205","26_3H_S10","Bacteroides",46.9753672568843,"Day4","Minus",1
+"206","26_3H_S10","HT002",0.625593475953751,"Day4","Minus",1
+"207","26_3H_S10","[Clostridium] innocuum group",3.75914651175781,"Day4","Minus",1
+"208","26_3H_S10","Ligilactobacillus",0,"Day4","Minus",1
+"209","26_3H_S10","Dubosiella",0,"Day4","Minus",1
+"210","26_3H_S10","Blautia",4.31212645925264,"Day4","Minus",1
+"211","26_3H_S10","Faecalibaculum",0,"Day4","Minus",1
+"212","26_3H_S10","Lactobacillus",0,"Day4","Minus",1
+"213","26_3H_S10","Enterococcus",2.57498743227392,"Day4","Minus",1
+"214","26_3H_S10","Turicibacter",10.7077026196727,"Day4","Minus",1
+"215","26_3H_S10","Clostridium sensu stricto 1",0.893704965648215,"Day4","Minus",1
+"216","26_3H_S10","Paraclostridium",0.106127464670726,"Day4","Minus",1
+"217","26_3H_S10","Ileibacterium",0,"Day4","Minus",1
+"218","26_3H_S10","Klebsiella",0,"Day4","Minus",1
+"219","26_3H_S10","Lachnospiraceae UCG-001",0,"Day4","Minus",1
+"220","26_3H_S10","Lachnospiraceae NK4A136 group",4.87069206278277,"Day4","Minus",1
+"221","26_3H_S10","Streptococcus",0,"Day4","Minus",1
+"222","26_3H_S10","Romboutsia",0,"Day4","Minus",1
+"223","26_3H_S10","Erysipelatoclostridium",0,"Day4","Minus",1
+"224","26_3H_S10","Bifidobacterium",0,"Day4","Minus",1
+"225","26_3H_S10","Lachnoclostridium",0,"Day4","Minus",1
+"226","26_3H_S10","Anaerostipes",0.134055744847232,"Day4","Minus",1
+"227","26_3H_S10","Lachnospiraceae UCG-006",0,"Day4","Minus",1
+"228","26_3H_S10","Salmonella",0.189912305200246,"Day4","Minus",1
+"229","26_3H_S10","Parabacteroides",10.3725632575546,"Day4","Minus",1
+"230","26_3H_S10","Cutibacterium",0,"Day4","Minus",1
+"231","26_3H_S10","Unclassified",0.139641400882539,"Day4","Minus",1
+"232","26_3H_S10","Other",7.78081885717476,"Day4","Minus",1
+"233","26_3L_S17","Escherichia-Shigella",1.68467526431974,"Day12","Minus",1
+"234","26_3L_S17","Bacteroides",49.5178343209016,"Day12","Minus",1
+"235","26_3L_S17","HT002",0,"Day12","Minus",1
+"236","26_3L_S17","[Clostridium] innocuum group",2.28883466945509,"Day12","Minus",1
+"237","26_3L_S17","Ligilactobacillus",0,"Day12","Minus",1
+"238","26_3L_S17","Dubosiella",0,"Day12","Minus",1
+"239","26_3L_S17","Blautia",3.64819333100964,"Day12","Minus",1
+"240","26_3L_S17","Faecalibaculum",0,"Day12","Minus",1
+"241","26_3L_S17","Lactobacillus",0,"Day12","Minus",1
+"242","26_3L_S17","Enterococcus",1.38259556175206,"Day12","Minus",1
+"243","26_3L_S17","Turicibacter",5.76275124898339,"Day12","Minus",1
+"244","26_3L_S17","Clostridium sensu stricto 1",0.139421401185082,"Day12","Minus",1
+"245","26_3L_S17","Paraclostridium",0,"Day12","Minus",1
+"246","26_3L_S17","Ileibacterium",0,"Day12","Minus",1
+"247","26_3L_S17","Klebsiella",0,"Day12","Minus",1
+"248","26_3L_S17","Lachnospiraceae UCG-001",0,"Day12","Minus",1
+"249","26_3L_S17","Lachnospiraceae NK4A136 group",4.57766933891019,"Day12","Minus",1
+"250","26_3L_S17","Streptococcus",0,"Day12","Minus",1
+"251","26_3L_S17","Romboutsia",0,"Day12","Minus",1
+"252","26_3L_S17","Erysipelatoclostridium",0,"Day12","Minus",1
+"253","26_3L_S17","Bifidobacterium",3.02079702567677,"Day12","Minus",1
+"254","26_3L_S17","Lachnoclostridium",0,"Day12","Minus",1
+"255","26_3L_S17","Anaerostipes",2.00999186708493,"Day12","Minus",1
+"256","26_3L_S17","Lachnospiraceae UCG-006",0,"Day12","Minus",1
+"257","26_3L_S17","Salmonella",0,"Day12","Minus",1
+"258","26_3L_S17","Parabacteroides",14.3023120715697,"Day12","Minus",1
+"259","26_3L_S17","Cutibacterium",0,"Day12","Minus",1
+"260","26_3L_S17","Unclassified",0.56930405483908,"Day12","Minus",1
+"261","26_3L_S17","Other",11.0956198443128,"Day12","Minus",1
+"262","26_4A_S4","Escherichia-Shigella",0,"Baseline","Plus",1
+"263","26_4A_S4","Bacteroides",2.06370034593821,"Baseline","Plus",1
+"264","26_4A_S4","HT002",2.30227842061315,"Baseline","Plus",1
+"265","26_4A_S4","[Clostridium] innocuum group",0,"Baseline","Plus",1
+"266","26_4A_S4","Ligilactobacillus",5.26064654658237,"Baseline","Plus",1
+"267","26_4A_S4","Dubosiella",5.46343791005607,"Baseline","Plus",1
+"268","26_4A_S4","Blautia",0,"Baseline","Plus",1
+"269","26_4A_S4","Faecalibaculum",5.45150900632232,"Baseline","Plus",1
+"270","26_4A_S4","Lactobacillus",14.0641775020876,"Baseline","Plus",1
+"271","26_4A_S4","Enterococcus",0,"Baseline","Plus",1
+"272","26_4A_S4","Turicibacter",0,"Baseline","Plus",1
+"273","26_4A_S4","Clostridium sensu stricto 1",6.02409638554217,"Baseline","Plus",1
+"274","26_4A_S4","Paraclostridium",0,"Baseline","Plus",1
+"275","26_4A_S4","Ileibacterium",0,"Baseline","Plus",1
+"276","26_4A_S4","Klebsiella",0,"Baseline","Plus",1
+"277","26_4A_S4","Lachnospiraceae UCG-001",1.20481927710843,"Baseline","Plus",1
+"278","26_4A_S4","Lachnospiraceae NK4A136 group",3.82917809853274,"Baseline","Plus",1
+"279","26_4A_S4","Streptococcus",0,"Baseline","Plus",1
+"280","26_4A_S4","Romboutsia",1.49111296671836,"Baseline","Plus",1
+"281","26_4A_S4","Erysipelatoclostridium",0.0357867112012406,"Baseline","Plus",1
+"282","26_4A_S4","Bifidobacterium",0.405582726947394,"Baseline","Plus",1
+"283","26_4A_S4","Lachnoclostridium",0.870809972563521,"Baseline","Plus",1
+"284","26_4A_S4","Anaerostipes",0,"Baseline","Plus",1
+"285","26_4A_S4","Lachnospiraceae UCG-006",0.584516282953597,"Baseline","Plus",1
+"286","26_4A_S4","Salmonella",0,"Baseline","Plus",1
+"287","26_4A_S4","Parabacteroides",0.286293689609925,"Baseline","Plus",1
+"288","26_4A_S4","Cutibacterium",0,"Baseline","Plus",1
+"289","26_4A_S4","Unclassified",37.4448288202314,"Baseline","Plus",1
+"290","26_4A_S4","Other",13.2172253369915,"Baseline","Plus",1
+"291","26_4H_S11","Escherichia-Shigella",5.89489068875221,"Day4","Plus",1
+"292","26_4H_S11","Bacteroides",67.7851531575422,"Day4","Plus",1
+"293","26_4H_S11","HT002",0.633335363254369,"Day4","Plus",1
+"294","26_4H_S11","[Clostridium] innocuum group",8.71445100785579,"Day4","Plus",1
+"295","26_4H_S11","Ligilactobacillus",0,"Day4","Plus",1
+"296","26_4H_S11","Dubosiella",0,"Day4","Plus",1
+"297","26_4H_S11","Blautia",0,"Day4","Plus",1
+"298","26_4H_S11","Faecalibaculum",0,"Day4","Plus",1
+"299","26_4H_S11","Lactobacillus",0,"Day4","Plus",1
+"300","26_4H_S11","Enterococcus",6.455148894708,"Day4","Plus",1
+"301","26_4H_S11","Turicibacter",0,"Day4","Plus",1
+"302","26_4H_S11","Clostridium sensu stricto 1",1.613787223677,"Day4","Plus",1
+"303","26_4H_S11","Paraclostridium",1.50417148772913,"Day4","Plus",1
+"304","26_4H_S11","Ileibacterium",0,"Day4","Plus",1
+"305","26_4H_S11","Klebsiella",0,"Day4","Plus",1
+"306","26_4H_S11","Lachnospiraceae UCG-001",0,"Day4","Plus",1
+"307","26_4H_S11","Lachnospiraceae NK4A136 group",0.414103891358626,"Day4","Plus",1
+"308","26_4H_S11","Streptococcus",0,"Day4","Plus",1
+"309","26_4H_S11","Romboutsia",0,"Day4","Plus",1
+"310","26_4H_S11","Erysipelatoclostridium",6.12021192375617,"Day4","Plus",1
+"311","26_4H_S11","Bifidobacterium",0,"Day4","Plus",1
+"312","26_4H_S11","Lachnoclostridium",0,"Day4","Plus",1
+"313","26_4H_S11","Anaerostipes",0,"Day4","Plus",1
+"314","26_4H_S11","Lachnospiraceae UCG-006",0,"Day4","Plus",1
+"315","26_4H_S11","Salmonella",0,"Day4","Plus",1
+"316","26_4H_S11","Parabacteroides",0,"Day4","Plus",1
+"317","26_4H_S11","Cutibacterium",0,"Day4","Plus",1
+"318","26_4H_S11","Unclassified",0.347116497168258,"Day4","Plus",1
+"319","26_4H_S11","Other",0.517629864198284,"Day4","Plus",1
+"320","26_4L_S18","Escherichia-Shigella",0,"Day12","Plus",1
+"321","26_4L_S18","Bacteroides",47.0755154042159,"Day12","Plus",1
+"322","26_4L_S18","HT002",0,"Day12","Plus",1
+"323","26_4L_S18","[Clostridium] innocuum group",0.231642344220524,"Day12","Plus",1
+"324","26_4L_S18","Ligilactobacillus",0,"Day12","Plus",1
+"325","26_4L_S18","Dubosiella",0,"Day12","Plus",1
+"326","26_4L_S18","Blautia",0.0579105860551309,"Day12","Plus",1
+"327","26_4L_S18","Faecalibaculum",0,"Day12","Plus",1
+"328","26_4L_S18","Lactobacillus",0,"Day12","Plus",1
+"329","26_4L_S18","Enterococcus",0.196895992587445,"Day12","Plus",1
+"330","26_4L_S18","Turicibacter",1.36089877229558,"Day12","Plus",1
+"331","26_4L_S18","Clostridium sensu stricto 1",0,"Day12","Plus",1
+"332","26_4L_S18","Paraclostridium",0,"Day12","Plus",1
+"333","26_4L_S18","Ileibacterium",37.2654621264767,"Day12","Plus",1
+"334","26_4L_S18","Klebsiella",0,"Day12","Plus",1
+"335","26_4L_S18","Lachnospiraceae UCG-001",0.86286773222145,"Day12","Plus",1
+"336","26_4L_S18","Lachnospiraceae NK4A136 group",5.22932592077832,"Day12","Plus",1
+"337","26_4L_S18","Streptococcus",0,"Day12","Plus",1
+"338","26_4L_S18","Romboutsia",0,"Day12","Plus",1
+"339","26_4L_S18","Erysipelatoclostridium",0.115821172110262,"Day12","Plus",1
+"340","26_4L_S18","Bifidobacterium",0,"Day12","Plus",1
+"341","26_4L_S18","Lachnoclostridium",0.440120454018995,"Day12","Plus",1
+"342","26_4L_S18","Anaerostipes",0.0347463516330785,"Day12","Plus",1
+"343","26_4L_S18","Lachnospiraceae UCG-006",0.15056752374334,"Day12","Plus",1
+"344","26_4L_S18","Salmonella",0,"Day12","Plus",1
+"345","26_4L_S18","Parabacteroides",0,"Day12","Plus",1
+"346","26_4L_S18","Cutibacterium",0,"Day12","Plus",1
+"347","26_4L_S18","Unclassified",4.27380125086866,"Day12","Plus",1
+"348","26_4L_S18","Other",2.70442436877461,"Day12","Plus",1
+"349","26_5A_S5","Escherichia-Shigella",0,"Baseline","Minus",1
+"350","26_5A_S5","Bacteroides",5.1957409334721,"Baseline","Minus",1
+"351","26_5A_S5","HT002",0,"Baseline","Minus",1
+"352","26_5A_S5","[Clostridium] innocuum group",0,"Baseline","Minus",1
+"353","26_5A_S5","Ligilactobacillus",16.6840124889921,"Baseline","Minus",1
+"354","26_5A_S5","Dubosiella",10.6236490272997,"Baseline","Minus",1
+"355","26_5A_S5","Blautia",0,"Baseline","Minus",1
+"356","26_5A_S5","Faecalibaculum",5.2597870466736,"Baseline","Minus",1
+"357","26_5A_S5","Lactobacillus",0.904651348971259,"Baseline","Minus",1
+"358","26_5A_S5","Enterococcus",0,"Baseline","Minus",1
+"359","26_5A_S5","Turicibacter",0.448322792410536,"Baseline","Minus",1
+"360","26_5A_S5","Clostridium sensu stricto 1",2.65791369786246,"Baseline","Minus",1
+"361","26_5A_S5","Paraclostridium",0,"Baseline","Minus",1
+"362","26_5A_S5","Ileibacterium",0,"Baseline","Minus",1
+"363","26_5A_S5","Klebsiella",0,"Baseline","Minus",1
+"364","26_5A_S5","Lachnospiraceae UCG-001",0.400288207509407,"Baseline","Minus",1
+"365","26_5A_S5","Lachnospiraceae NK4A136 group",1.44103754703386,"Baseline","Minus",1
+"366","26_5A_S5","Streptococcus",0,"Baseline","Minus",1
+"367","26_5A_S5","Romboutsia",1.56112400928669,"Baseline","Minus",1
+"368","26_5A_S5","Erysipelatoclostridium",0.0720518773516932,"Baseline","Minus",1
+"369","26_5A_S5","Bifidobacterium",0.376270915058842,"Baseline","Minus",1
+"370","26_5A_S5","Lachnoclostridium",0.296213273556961,"Baseline","Minus",1
+"371","26_5A_S5","Anaerostipes",0,"Baseline","Minus",1
+"372","26_5A_S5","Lachnospiraceae UCG-006",0.144103754703386,"Baseline","Minus",1
+"373","26_5A_S5","Salmonella",0,"Baseline","Minus",1
+"374","26_5A_S5","Parabacteroides",0.824593707469378,"Baseline","Minus",1
+"375","26_5A_S5","Cutibacterium",0,"Baseline","Minus",1
+"376","26_5A_S5","Unclassified",42.1743655431911,"Baseline","Minus",1
+"377","26_5A_S5","Other",10.935873829157,"Baseline","Minus",1
+"378","26_5H_S12","Escherichia-Shigella",7.43986954749287,"Day4","Minus",1
+"379","26_5H_S12","Bacteroides",51.6612311455361,"Day4","Minus",1
+"380","26_5H_S12","HT002",0.652262535670607,"Day4","Minus",1
+"381","26_5H_S12","[Clostridium] innocuum group",6.16591928251121,"Day4","Minus",1
+"382","26_5H_S12","Ligilactobacillus",0,"Day4","Minus",1
+"383","26_5H_S12","Dubosiella",0,"Day4","Minus",1
+"384","26_5H_S12","Blautia",7.53159396657155,"Day4","Minus",1
+"385","26_5H_S12","Faecalibaculum",0,"Day4","Minus",1
+"386","26_5H_S12","Lactobacillus",0,"Day4","Minus",1
+"387","26_5H_S12","Enterococcus",5.13656746840603,"Day4","Minus",1
+"388","26_5H_S12","Turicibacter",9.23359152058704,"Day4","Minus",1
+"389","26_5H_S12","Clostridium sensu stricto 1",1.07011822258459,"Day4","Minus",1
+"390","26_5H_S12","Paraclostridium",0.183448838157358,"Day4","Minus",1
+"391","26_5H_S12","Ileibacterium",0,"Day4","Minus",1
+"392","26_5H_S12","Klebsiella",0,"Day4","Minus",1
+"393","26_5H_S12","Lachnospiraceae UCG-001",0,"Day4","Minus",1
+"394","26_5H_S12","Lachnospiraceae NK4A136 group",0.570729718711782,"Day4","Minus",1
+"395","26_5H_S12","Streptococcus",0,"Day4","Minus",1
+"396","26_5H_S12","Romboutsia",0,"Day4","Minus",1
+"397","26_5H_S12","Erysipelatoclostridium",0,"Day4","Minus",1
+"398","26_5H_S12","Bifidobacterium",0,"Day4","Minus",1
+"399","26_5H_S12","Lachnoclostridium",0,"Day4","Minus",1
+"400","26_5H_S12","Anaerostipes",0,"Day4","Minus",1
+"401","26_5H_S12","Lachnospiraceae UCG-006",0,"Day4","Minus",1
+"402","26_5H_S12","Salmonella",0,"Day4","Minus",1
+"403","26_5H_S12","Parabacteroides",3.63840195678761,"Day4","Minus",1
+"404","26_5H_S12","Cutibacterium",0,"Day4","Minus",1
+"405","26_5H_S12","Unclassified",0.652262535670616,"Day4","Minus",1
+"406","26_5H_S12","Other",6.06400326131268,"Day4","Minus",1
+"407","26_5L_S19","Escherichia-Shigella",1.15930027947417,"Day12","Minus",1
+"408","26_5L_S19","Bacteroides",42.5318290032088,"Day12","Minus",1
+"409","26_5L_S19","HT002",0,"Day12","Minus",1
+"410","26_5L_S19","[Clostridium] innocuum group",2.50491667529241,"Day12","Minus",1
+"411","26_5L_S19","Ligilactobacillus",0,"Day12","Minus",1
+"412","26_5L_S19","Dubosiella",0,"Day12","Minus",1
+"413","26_5L_S19","Blautia",3.77807680364352,"Day12","Minus",1
+"414","26_5L_S19","Faecalibaculum",0,"Day12","Minus",1
+"415","26_5L_S19","Lactobacillus",0,"Day12","Minus",1
+"416","26_5L_S19","Enterococcus",0.931580581720319,"Day12","Minus",1
+"417","26_5L_S19","Turicibacter",3.69526964082393,"Day12","Minus",1
+"418","26_5L_S19","Clostridium sensu stricto 1",0.0931580581720319,"Day12","Minus",1
+"419","26_5L_S19","Paraclostridium",0,"Day12","Minus",1
+"420","26_5L_S19","Ileibacterium",0,"Day12","Minus",1
+"421","26_5L_S19","Klebsiella",0,"Day12","Minus",1
+"422","26_5L_S19","Lachnospiraceae UCG-001",0,"Day12","Minus",1
+"423","26_5L_S19","Lachnospiraceae NK4A136 group",0.652106407204223,"Day12","Minus",1
+"424","26_5L_S19","Streptococcus",0,"Day12","Minus",1
+"425","26_5L_S19","Romboutsia",0,"Day12","Minus",1
+"426","26_5L_S19","Erysipelatoclostridium",0,"Day12","Minus",1
+"427","26_5L_S19","Bifidobacterium",3.0845668150295,"Day12","Minus",1
+"428","26_5L_S19","Lachnoclostridium",0,"Day12","Minus",1
+"429","26_5L_S19","Anaerostipes",1.15930027947417,"Day12","Minus",1
+"430","26_5L_S19","Lachnospiraceae UCG-006",0,"Day12","Minus",1
+"431","26_5L_S19","Salmonella",0,"Day12","Minus",1
+"432","26_5L_S19","Parabacteroides",25.3079391367353,"Day12","Minus",1
+"433","26_5L_S19","Cutibacterium",0,"Day12","Minus",1
+"434","26_5L_S19","Unclassified",1.20070386088396,"Day12","Minus",1
+"435","26_5L_S19","Other",13.9012524583377,"Day12","Minus",1
+"436","26_6A_S6","Escherichia-Shigella",0,"Baseline","Plus",1
+"437","26_6A_S6","Bacteroides",14.498695490123,"Baseline","Plus",1
+"438","26_6A_S6","HT002",0.0993912287240651,"Baseline","Plus",1
+"439","26_6A_S6","[Clostridium] innocuum group",0,"Baseline","Plus",1
+"440","26_6A_S6","Ligilactobacillus",14.7471735619332,"Baseline","Plus",1
+"441","26_6A_S6","Dubosiella",0.509380047210834,"Baseline","Plus",1
+"442","26_6A_S6","Blautia",0,"Baseline","Plus",1
+"443","26_6A_S6","Faecalibaculum",0.236054168219655,"Baseline","Plus",1
+"444","26_6A_S6","Lactobacillus",0.086967325133557,"Baseline","Plus",1
+"445","26_6A_S6","Enterococcus",0,"Baseline","Plus",1
+"446","26_6A_S6","Turicibacter",0.186358553857622,"Baseline","Plus",1
+"447","26_6A_S6","Clostridium sensu stricto 1",1.47844452727047,"Baseline","Plus",1
+"448","26_6A_S6","Paraclostridium",0,"Baseline","Plus",1
+"449","26_6A_S6","Ileibacterium",0,"Baseline","Plus",1
+"450","26_6A_S6","Klebsiella",0,"Baseline","Plus",1
+"451","26_6A_S6","Lachnospiraceae UCG-001",1.00633619083116,"Baseline","Plus",1
+"452","26_6A_S6","Lachnospiraceae NK4A136 group",4.07504037768667,"Baseline","Plus",1
+"453","26_6A_S6","Streptococcus",0,"Baseline","Plus",1
+"454","26_6A_S6","Romboutsia",1.61510746676606,"Baseline","Plus",1
+"455","26_6A_S6","Erysipelatoclostridium",0.0621195179525407,"Baseline","Plus",1
+"456","26_6A_S6","Bifidobacterium",0,"Baseline","Plus",1
+"457","26_6A_S6","Lachnoclostridium",0.571499565163374,"Baseline","Plus",1
+"458","26_6A_S6","Anaerostipes",0,"Baseline","Plus",1
+"459","26_6A_S6","Lachnospiraceae UCG-006",0.422412722077277,"Baseline","Plus",1
+"460","26_6A_S6","Salmonella",0,"Baseline","Plus",1
+"461","26_6A_S6","Parabacteroides",3.08112809044602,"Baseline","Plus",1
+"462","26_6A_S6","Cutibacterium",0,"Baseline","Plus",1
+"463","26_6A_S6","Unclassified",39.706795875264,"Baseline","Plus",1
+"464","26_6A_S6","Other",17.6170952913405,"Baseline","Plus",1
+"465","26_6H_S13","Escherichia-Shigella",6.77083333333333,"Day4","Plus",1
+"466","26_6H_S13","Bacteroides",66.6666666666667,"Day4","Plus",1
+"467","26_6H_S13","HT002",0,"Day4","Plus",1
+"468","26_6H_S13","[Clostridium] innocuum group",5.79668209876543,"Day4","Plus",1
+"469","26_6H_S13","Ligilactobacillus",0,"Day4","Plus",1
+"470","26_6H_S13","Dubosiella",0,"Day4","Plus",1
+"471","26_6H_S13","Blautia",0,"Day4","Plus",1
+"472","26_6H_S13","Faecalibaculum",0,"Day4","Plus",1
+"473","26_6H_S13","Lactobacillus",0,"Day4","Plus",1
+"474","26_6H_S13","Enterococcus",9.43287037037037,"Day4","Plus",1
+"475","26_6H_S13","Turicibacter",0,"Day4","Plus",1
+"476","26_6H_S13","Clostridium sensu stricto 1",0.540123456790123,"Day4","Plus",1
+"477","26_6H_S13","Paraclostridium",0,"Day4","Plus",1
+"478","26_6H_S13","Ileibacterium",0,"Day4","Plus",1
+"479","26_6H_S13","Klebsiella",1.3599537037037,"Day4","Plus",1
+"480","26_6H_S13","Lachnospiraceae UCG-001",0,"Day4","Plus",1
+"481","26_6H_S13","Lachnospiraceae NK4A136 group",0,"Day4","Plus",1
+"482","26_6H_S13","Streptococcus",0,"Day4","Plus",1
+"483","26_6H_S13","Romboutsia",0,"Day4","Plus",1
+"484","26_6H_S13","Erysipelatoclostridium",9.04706790123457,"Day4","Plus",1
+"485","26_6H_S13","Bifidobacterium",0,"Day4","Plus",1
+"486","26_6H_S13","Lachnoclostridium",0,"Day4","Plus",1
+"487","26_6H_S13","Anaerostipes",0,"Day4","Plus",1
+"488","26_6H_S13","Lachnospiraceae UCG-006",0,"Day4","Plus",1
+"489","26_6H_S13","Salmonella",0,"Day4","Plus",1
+"490","26_6H_S13","Parabacteroides",0,"Day4","Plus",1
+"491","26_6H_S13","Cutibacterium",0,"Day4","Plus",1
+"492","26_6H_S13","Unclassified",0.135030864197532,"Day4","Plus",1
+"493","26_6H_S13","Other",0.250771604938265,"Day4","Plus",1
+"494","26_6L_S20","Escherichia-Shigella",0.249014318323304,"Day12","Plus",1
+"495","26_6L_S20","Bacteroides",52.386387217265,"Day12","Plus",1
+"496","26_6L_S20","HT002",0,"Day12","Plus",1
+"497","26_6L_S20","[Clostridium] innocuum group",0.394272670678564,"Day12","Plus",1
+"498","26_6L_S20","Ligilactobacillus",0,"Day12","Plus",1
+"499","26_6L_S20","Dubosiella",0,"Day12","Plus",1
+"500","26_6L_S20","Blautia",0.155633948952065,"Day12","Plus",1
+"501","26_6L_S20","Faecalibaculum",0,"Day12","Plus",1
+"502","26_6L_S20","Lactobacillus",0,"Day12","Plus",1
+"503","26_6L_S20","Enterococcus",0.446150653662586,"Day12","Plus",1
+"504","26_6L_S20","Turicibacter",0,"Day12","Plus",1
+"505","26_6L_S20","Clostridium sensu stricto 1",0,"Day12","Plus",1
+"506","26_6L_S20","Paraclostridium",0,"Day12","Plus",1
+"507","26_6L_S20","Ileibacterium",39.5725254202117,"Day12","Plus",1
+"508","26_6L_S20","Klebsiella",0,"Day12","Plus",1
+"509","26_6L_S20","Lachnospiraceae UCG-001",0.394272670678564,"Day12","Plus",1
+"510","26_6L_S20","Lachnospiraceae NK4A136 group",2.57314795600747,"Day12","Plus",1
+"511","26_6L_S20","Streptococcus",0,"Day12","Plus",1
+"512","26_6L_S20","Romboutsia",0.0622535795808259,"Day12","Plus",1
+"513","26_6L_S20","Erysipelatoclostridium",0.155633948952065,"Day12","Plus",1
+"514","26_6L_S20","Bifidobacterium",0,"Day12","Plus",1
+"515","26_6L_S20","Lachnoclostridium",0.103755965968043,"Day12","Plus",1
+"516","26_6L_S20","Anaerostipes",0,"Day12","Plus",1
+"517","26_6L_S20","Lachnospiraceae UCG-006",0.0622535795808259,"Day12","Plus",1
+"518","26_6L_S20","Salmonella",0,"Day12","Plus",1
+"519","26_6L_S20","Parabacteroides",0,"Day12","Plus",1
+"520","26_6L_S20","Cutibacterium",0,"Day12","Plus",1
+"521","26_6L_S20","Unclassified",2.01286573978004,"Day12","Plus",1
+"522","26_6L_S20","Other",1.431832330359,"Day12","Plus",1
+"523","26_7A_S7","Escherichia-Shigella",0,"Baseline","Plus",1
+"524","26_7A_S7","Bacteroides",4.41386704789135,"Baseline","Plus",1
+"525","26_7A_S7","HT002",0.428877769835597,"Baseline","Plus",1
+"526","26_7A_S7","[Clostridium] innocuum group",0,"Baseline","Plus",1
+"527","26_7A_S7","Ligilactobacillus",2.662616154396,"Baseline","Plus",1
+"528","26_7A_S7","Dubosiella",3.50250178699071,"Baseline","Plus",1
+"529","26_7A_S7","Blautia",0,"Baseline","Plus",1
+"530","26_7A_S7","Faecalibaculum",0,"Baseline","Plus",1
+"531","26_7A_S7","Lactobacillus",10.6683345246605,"Baseline","Plus",1
+"532","26_7A_S7","Enterococcus",0,"Baseline","Plus",1
+"533","26_7A_S7","Turicibacter",3.21658327376698,"Baseline","Plus",1
+"534","26_7A_S7","Clostridium sensu stricto 1",3.00214438884918,"Baseline","Plus",1
+"535","26_7A_S7","Paraclostridium",0,"Baseline","Plus",1
+"536","26_7A_S7","Ileibacterium",0,"Baseline","Plus",1
+"537","26_7A_S7","Klebsiella",0,"Baseline","Plus",1
+"538","26_7A_S7","Lachnospiraceae UCG-001",1.57255182273052,"Baseline","Plus",1
+"539","26_7A_S7","Lachnospiraceae NK4A136 group",9.13152251608292,"Baseline","Plus",1
+"540","26_7A_S7","Streptococcus",0,"Baseline","Plus",1
+"541","26_7A_S7","Romboutsia",0.142959256611866,"Baseline","Plus",1
+"542","26_7A_S7","Erysipelatoclostridium",0,"Baseline","Plus",1
+"543","26_7A_S7","Bifidobacterium",0.732666190135811,"Baseline","Plus",1
+"544","26_7A_S7","Lachnoclostridium",0.929235167977127,"Baseline","Plus",1
+"545","26_7A_S7","Anaerostipes",0,"Baseline","Plus",1
+"546","26_7A_S7","Lachnospiraceae UCG-006",0.285918513223731,"Baseline","Plus",1
+"547","26_7A_S7","Salmonella",0,"Baseline","Plus",1
+"548","26_7A_S7","Parabacteroides",0.518227305218013,"Baseline","Plus",1
+"549","26_7A_S7","Cutibacterium",0,"Baseline","Plus",1
+"550","26_7A_S7","Unclassified",43.6204431736955,"Baseline","Plus",1
+"551","26_7A_S7","Other",15.1715511079342,"Baseline","Plus",1
+"552","26_7H_S14","Escherichia-Shigella",2.69681568302043,"Day4","Plus",1
+"553","26_7H_S14","Bacteroides",60.3671818276112,"Day4","Plus",1
+"554","26_7H_S14","HT002",0,"Day4","Plus",1
+"555","26_7H_S14","[Clostridium] innocuum group",5.19655637382014,"Day4","Plus",1
+"556","26_7H_S14","Ligilactobacillus",0,"Day4","Plus",1
+"557","26_7H_S14","Dubosiella",0,"Day4","Plus",1
+"558","26_7H_S14","Blautia",9.76039829893165,"Day4","Plus",1
+"559","26_7H_S14","Faecalibaculum",0,"Day4","Plus",1
+"560","26_7H_S14","Lactobacillus",0,"Day4","Plus",1
+"561","26_7H_S14","Enterococcus",14.8221138886008,"Day4","Plus",1
+"562","26_7H_S14","Turicibacter",0,"Day4","Plus",1
+"563","26_7H_S14","Clostridium sensu stricto 1",0.663831552743491,"Day4","Plus",1
+"564","26_7H_S14","Paraclostridium",0,"Day4","Plus",1
+"565","26_7H_S14","Ileibacterium",0,"Day4","Plus",1
+"566","26_7H_S14","Klebsiella",0,"Day4","Plus",1
+"567","26_7H_S14","Lachnospiraceae UCG-001",0,"Day4","Plus",1
+"568","26_7H_S14","Lachnospiraceae NK4A136 group",0.0622342080697023,"Day4","Plus",1
+"569","26_7H_S14","Streptococcus",0,"Day4","Plus",1
+"570","26_7H_S14","Romboutsia",0,"Day4","Plus",1
+"571","26_7H_S14","Erysipelatoclostridium",0,"Day4","Plus",1
+"572","26_7H_S14","Bifidobacterium",0.0414894720464682,"Day4","Plus",1
+"573","26_7H_S14","Lachnoclostridium",1.28617363344051,"Day4","Plus",1
+"574","26_7H_S14","Anaerostipes",0,"Day4","Plus",1
+"575","26_7H_S14","Lachnospiraceae UCG-006",0,"Day4","Plus",1
+"576","26_7H_S14","Salmonella",0,"Day4","Plus",1
+"577","26_7H_S14","Parabacteroides",0,"Day4","Plus",1
+"578","26_7H_S14","Cutibacterium",0,"Day4","Plus",1
+"579","26_7H_S14","Unclassified",0.850534176952607,"Day4","Plus",1
+"580","26_7H_S14","Other",4.25267088476299,"Day4","Plus",1
+"581","26_7L_S21","Escherichia-Shigella",0,"Day12","Plus",1
+"582","26_7L_S21","Bacteroides",65.4553561475867,"Day12","Plus",1
+"583","26_7L_S21","HT002",0,"Day12","Plus",1
+"584","26_7L_S21","[Clostridium] innocuum group",0.969791550551778,"Day12","Plus",1
+"585","26_7L_S21","Ligilactobacillus",0,"Day12","Plus",1
+"586","26_7L_S21","Dubosiella",0,"Day12","Plus",1
+"587","26_7L_S21","Blautia",0.390146026084049,"Day12","Plus",1
+"588","26_7L_S21","Faecalibaculum",0,"Day12","Plus",1
+"589","26_7L_S21","Lactobacillus",0,"Day12","Plus",1
+"590","26_7L_S21","Enterococcus",0.635380671051165,"Day12","Plus",1
+"591","26_7L_S21","Turicibacter",0,"Day12","Plus",1
+"592","26_7L_S21","Clostridium sensu stricto 1",0,"Day12","Plus",1
+"593","26_7L_S21","Paraclostridium",0,"Day12","Plus",1
+"594","26_7L_S21","Ileibacterium",0,"Day12","Plus",1
+"595","26_7L_S21","Klebsiella",0,"Day12","Plus",1
+"596","26_7L_S21","Lachnospiraceae UCG-001",1.80581874930331,"Day12","Plus",1
+"597","26_7L_S21","Lachnospiraceae NK4A136 group",10.7122951733363,"Day12","Plus",1
+"598","26_7L_S21","Streptococcus",0,"Day12","Plus",1
+"599","26_7L_S21","Romboutsia",0,"Day12","Plus",1
+"600","26_7L_S21","Erysipelatoclostridium",0,"Day12","Plus",1
+"601","26_7L_S21","Bifidobacterium",0.646527700367852,"Day12","Plus",1
+"602","26_7L_S21","Lachnoclostridium",1.24846728346896,"Day12","Plus",1
+"603","26_7L_S21","Anaerostipes",0,"Day12","Plus",1
+"604","26_7L_S21","Lachnospiraceae UCG-006",0.757997993534723,"Day12","Plus",1
+"605","26_7L_S21","Salmonella",0,"Day12","Plus",1
+"606","26_7L_S21","Parabacteroides",0,"Day12","Plus",1
+"607","26_7L_S21","Cutibacterium",0,"Day12","Plus",1
+"608","26_7L_S21","Unclassified",8.4605952513655,"Day12","Plus",1
+"609","26_7L_S21","Other",8.91762345334969,"Day12","Plus",1
+"610","26_Bt_neg_S23","Escherichia-Shigella",2.1505376344086,"Ctrl","Ctrl",1
+"611","26_Bt_neg_S23","Bacteroides",0.65284178187404,"Ctrl","Ctrl",1
+"612","26_Bt_neg_S23","HT002",0.729646697388633,"Ctrl","Ctrl",1
+"613","26_Bt_neg_S23","[Clostridium] innocuum group",0,"Ctrl","Ctrl",1
+"614","26_Bt_neg_S23","Ligilactobacillus",0,"Ctrl","Ctrl",1
+"615","26_Bt_neg_S23","Dubosiella",0,"Ctrl","Ctrl",1
+"616","26_Bt_neg_S23","Blautia",20.5453149001536,"Ctrl","Ctrl",1
+"617","26_Bt_neg_S23","Faecalibaculum",0,"Ctrl","Ctrl",1
+"618","26_Bt_neg_S23","Lactobacillus",0.422427035330261,"Ctrl","Ctrl",1
+"619","26_Bt_neg_S23","Enterococcus",0.422427035330261,"Ctrl","Ctrl",1
+"620","26_Bt_neg_S23","Turicibacter",0,"Ctrl","Ctrl",1
+"621","26_Bt_neg_S23","Clostridium sensu stricto 1",3.72503840245776,"Ctrl","Ctrl",1
+"622","26_Bt_neg_S23","Paraclostridium",0,"Ctrl","Ctrl",1
+"623","26_Bt_neg_S23","Ileibacterium",0,"Ctrl","Ctrl",1
+"624","26_Bt_neg_S23","Klebsiella",0,"Ctrl","Ctrl",1
+"625","26_Bt_neg_S23","Lachnospiraceae UCG-001",0,"Ctrl","Ctrl",1
+"626","26_Bt_neg_S23","Lachnospiraceae NK4A136 group",0,"Ctrl","Ctrl",1
+"627","26_Bt_neg_S23","Streptococcus",21.2749615975422,"Ctrl","Ctrl",1
+"628","26_Bt_neg_S23","Romboutsia",3.60983102918587,"Ctrl","Ctrl",1
+"629","26_Bt_neg_S23","Erysipelatoclostridium",0,"Ctrl","Ctrl",1
+"630","26_Bt_neg_S23","Bifidobacterium",8.60215053763441,"Ctrl","Ctrl",1
+"631","26_Bt_neg_S23","Lachnoclostridium",0,"Ctrl","Ctrl",1
+"632","26_Bt_neg_S23","Anaerostipes",9.7542242703533,"Ctrl","Ctrl",1
+"633","26_Bt_neg_S23","Lachnospiraceae UCG-006",0,"Ctrl","Ctrl",1
+"634","26_Bt_neg_S23","Salmonella",0,"Ctrl","Ctrl",1
+"635","26_Bt_neg_S23","Parabacteroides",0,"Ctrl","Ctrl",1
+"636","26_Bt_neg_S23","Cutibacterium",0,"Ctrl","Ctrl",1
+"637","26_Bt_neg_S23","Unclassified",0.384024577572958,"Ctrl","Ctrl",1
+"638","26_Bt_neg_S23","Other",27.7265745007681,"Ctrl","Ctrl",1
+"639","26_Bt_pos_S22","Escherichia-Shigella",0.161953407250529,"Ctrl","Ctrl",1
+"640","26_Bt_pos_S22","Bacteroides",94.1696773389809,"Ctrl","Ctrl",1
+"641","26_Bt_pos_S22","HT002",0.0747477264233213,"Ctrl","Ctrl",1
+"642","26_Bt_pos_S22","[Clostridium] innocuum group",0,"Ctrl","Ctrl",1
+"643","26_Bt_pos_S22","Ligilactobacillus",0,"Ctrl","Ctrl",1
+"644","26_Bt_pos_S22","Dubosiella",0,"Ctrl","Ctrl",1
+"645","26_Bt_pos_S22","Blautia",1.17104771396537,"Ctrl","Ctrl",1
+"646","26_Bt_pos_S22","Faecalibaculum",0,"Ctrl","Ctrl",1
+"647","26_Bt_pos_S22","Lactobacillus",0,"Ctrl","Ctrl",1
+"648","26_Bt_pos_S22","Enterococcus",0,"Ctrl","Ctrl",1
+"649","26_Bt_pos_S22","Turicibacter",0,"Ctrl","Ctrl",1
+"650","26_Bt_pos_S22","Clostridium sensu stricto 1",0.19932727046219,"Ctrl","Ctrl",1
+"651","26_Bt_pos_S22","Paraclostridium",0,"Ctrl","Ctrl",1
+"652","26_Bt_pos_S22","Ileibacterium",0,"Ctrl","Ctrl",1
+"653","26_Bt_pos_S22","Klebsiella",0,"Ctrl","Ctrl",1
+"654","26_Bt_pos_S22","Lachnospiraceae UCG-001",0,"Ctrl","Ctrl",1
+"655","26_Bt_pos_S22","Lachnospiraceae NK4A136 group",0,"Ctrl","Ctrl",1
+"656","26_Bt_pos_S22","Streptococcus",1.2333374859848,"Ctrl","Ctrl",1
+"657","26_Bt_pos_S22","Romboutsia",0.249159088077738,"Ctrl","Ctrl",1
+"658","26_Bt_pos_S22","Erysipelatoclostridium",0,"Ctrl","Ctrl",1
+"659","26_Bt_pos_S22","Bifidobacterium",0.286532951289398,"Ctrl","Ctrl",1
+"660","26_Bt_pos_S22","Lachnoclostridium",0,"Ctrl","Ctrl",1
+"661","26_Bt_pos_S22","Anaerostipes",0.510776130559362,"Ctrl","Ctrl",1
+"662","26_Bt_pos_S22","Lachnospiraceae UCG-006",0,"Ctrl","Ctrl",1
+"663","26_Bt_pos_S22","Salmonella",0,"Ctrl","Ctrl",1
+"664","26_Bt_pos_S22","Parabacteroides",0,"Ctrl","Ctrl",1
+"665","26_Bt_pos_S22","Cutibacterium",0,"Ctrl","Ctrl",1
+"666","26_Bt_pos_S22","Unclassified",0.386196586520484,"Ctrl","Ctrl",1
+"667","26_Bt_pos_S22","Other",1.55724430048586,"Ctrl","Ctrl",1
+"668","m18_10B_S9","Escherichia-Shigella",0,"Baseline","Minus",2
+"669","m18_10B_S9","Bacteroides",2.19459188798011,"Baseline","Minus",2
+"670","m18_10B_S9","HT002",0.877007153830314,"Baseline","Minus",2
+"671","m18_10B_S9","[Clostridium] innocuum group",0,"Baseline","Minus",2
+"672","m18_10B_S9","Ligilactobacillus",1.57402044078498,"Baseline","Minus",2
+"673","m18_10B_S9","Dubosiella",11.3602055041087,"Baseline","Minus",2
+"674","m18_10B_S9","Blautia",0.00962930152009635,"Baseline","Minus",2
+"675","m18_10B_S9","Faecalibaculum",0.843971242461368,"Baseline","Minus",2
+"676","m18_10B_S9","Lactobacillus",6.79117600437318,"Baseline","Minus",2
+"677","m18_10B_S9","Enterococcus",0,"Baseline","Minus",2
+"678","m18_10B_S9","Turicibacter",1.86364020188942,"Baseline","Minus",2
+"679","m18_10B_S9","Clostridium sensu stricto 1",1.77845791921164,"Baseline","Minus",2
+"680","m18_10B_S9","Paraclostridium",0,"Baseline","Minus",2
+"681","m18_10B_S9","Ileibacterium",2.08792885575751,"Baseline","Minus",2
+"682","m18_10B_S9","Klebsiella",0,"Baseline","Minus",2
+"683","m18_10B_S9","Lachnospiraceae UCG-001",2.52924715157854,"Baseline","Minus",2
+"684","m18_10B_S9","Lachnospiraceae NK4A136 group",7.39100741752503,"Baseline","Minus",2
+"685","m18_10B_S9","Streptococcus",0.00148143100309175,"Baseline","Minus",2
+"686","m18_10B_S9","Romboutsia",1.2981779880093,"Baseline","Minus",2
+"687","m18_10B_S9","Erysipelatoclostridium",0,"Baseline","Minus",2
+"688","m18_10B_S9","Bifidobacterium",1.35002807311751,"Baseline","Minus",2
+"689","m18_10B_S9","Lachnoclostridium",1.04263113997597,"Baseline","Minus",2
+"690","m18_10B_S9","Anaerostipes",0,"Baseline","Minus",2
+"691","m18_10B_S9","Lachnospiraceae UCG-006",0.118662623347649,"Baseline","Minus",2
+"692","m18_10B_S9","Salmonella",0,"Baseline","Minus",2
+"693","m18_10B_S9","Parabacteroides",0.641904053639654,"Baseline","Minus",2
+"694","m18_10B_S9","Cutibacterium",0,"Baseline","Minus",2
+"695","m18_10B_S9","Unclassified",41.0895628741539,"Baseline","Minus",2
+"696","m18_10B_S9","Other",15.156668735732,"Baseline","Minus",2
+"697","m18_10F_S22","Escherichia-Shigella",66.4176806739248,"Day2","Minus",2
+"698","m18_10F_S22","Bacteroides",0.000769742351839992,"Day2","Minus",2
+"699","m18_10F_S22","HT002",0.000615793881471994,"Day2","Minus",2
+"700","m18_10F_S22","[Clostridium] innocuum group",0,"Day2","Minus",2
+"701","m18_10F_S22","Ligilactobacillus",0.00508029952214395,"Day2","Minus",2
+"702","m18_10F_S22","Dubosiella",0,"Day2","Minus",2
+"703","m18_10F_S22","Blautia",0.00246317552588797,"Day2","Minus",2
+"704","m18_10F_S22","Faecalibaculum",0,"Day2","Minus",2
+"705","m18_10F_S22","Lactobacillus",0.0283265185477117,"Day2","Minus",2
+"706","m18_10F_S22","Enterococcus",0,"Day2","Minus",2
+"707","m18_10F_S22","Turicibacter",0,"Day2","Minus",2
+"708","m18_10F_S22","Clostridium sensu stricto 1",0.201210650770974,"Day2","Minus",2
+"709","m18_10F_S22","Paraclostridium",0,"Day2","Minus",2
+"710","m18_10F_S22","Ileibacterium",0,"Day2","Minus",2
+"711","m18_10F_S22","Klebsiella",26.8427631903049,"Day2","Minus",2
+"712","m18_10F_S22","Lachnospiraceae UCG-001",0,"Day2","Minus",2
+"713","m18_10F_S22","Lachnospiraceae NK4A136 group",0,"Day2","Minus",2
+"714","m18_10F_S22","Streptococcus",0.00677373269619193,"Day2","Minus",2
+"715","m18_10F_S22","Romboutsia",0,"Day2","Minus",2
+"716","m18_10F_S22","Erysipelatoclostridium",0,"Day2","Minus",2
+"717","m18_10F_S22","Bifidobacterium",0,"Day2","Minus",2
+"718","m18_10F_S22","Lachnoclostridium",0,"Day2","Minus",2
+"719","m18_10F_S22","Anaerostipes",0.00446450564067195,"Day2","Minus",2
+"720","m18_10F_S22","Lachnospiraceae UCG-006",0,"Day2","Minus",2
+"721","m18_10F_S22","Salmonella",0,"Day2","Minus",2
+"722","m18_10F_S22","Parabacteroides",0,"Day2","Minus",2
+"723","m18_10F_S22","Cutibacterium",0.00384871175919996,"Day2","Minus",2
+"724","m18_10F_S22","Unclassified",5.90315409626091,"Day2","Minus",2
+"725","m18_10F_S22","Other",0.582848908813247,"Day2","Minus",2
+"726","m18_10N_S34","Escherichia-Shigella",0.177632655057868,"Day13","Minus",2
+"727","m18_10N_S34","Bacteroides",0,"Day13","Minus",2
+"728","m18_10N_S34","HT002",0.234652431595377,"Day13","Minus",2
+"729","m18_10N_S34","[Clostridium] innocuum group",0,"Day13","Minus",2
+"730","m18_10N_S34","Ligilactobacillus",0,"Day13","Minus",2
+"731","m18_10N_S34","Dubosiella",25.4462600071236,"Day13","Minus",2
+"732","m18_10N_S34","Blautia",0,"Day13","Minus",2
+"733","m18_10N_S34","Faecalibaculum",0.714505189105401,"Day13","Minus",2
+"734","m18_10N_S34","Lactobacillus",0.128714884301829,"Day13","Minus",2
+"735","m18_10N_S34","Enterococcus",0.0426501813779219,"Day13","Minus",2
+"736","m18_10N_S34","Turicibacter",1.90121973404019,"Day13","Minus",2
+"737","m18_10N_S34","Clostridium sensu stricto 1",0,"Day13","Minus",2
+"738","m18_10N_S34","Paraclostridium",0,"Day13","Minus",2
+"739","m18_10N_S34","Ileibacterium",4.86181494101587,"Day13","Minus",2
+"740","m18_10N_S34","Klebsiella",0.0065733254453428,"Day13","Minus",2
+"741","m18_10N_S34","Lachnospiraceae UCG-001",4.36239507520343,"Day13","Minus",2
+"742","m18_10N_S34","Lachnospiraceae NK4A136 group",1.63201912684837,"Day13","Minus",2
+"743","m18_10N_S34","Streptococcus",0,"Day13","Minus",2
+"744","m18_10N_S34","Romboutsia",1.17968261538861,"Day13","Minus",2
+"745","m18_10N_S34","Erysipelatoclostridium",0.113580948974179,"Day13","Minus",2
+"746","m18_10N_S34","Bifidobacterium",4.10236655002836,"Day13","Minus",2
+"747","m18_10N_S34","Lachnoclostridium",0.262780149780099,"Day13","Minus",2
+"748","m18_10N_S34","Anaerostipes",0,"Day13","Minus",2
+"749","m18_10N_S34","Lachnospiraceae UCG-006",0,"Day13","Minus",2
+"750","m18_10N_S34","Salmonella",0,"Day13","Minus",2
+"751","m18_10N_S34","Parabacteroides",0,"Day13","Minus",2
+"752","m18_10N_S34","Cutibacterium",0.000305736067225246,"Day13","Minus",2
+"753","m18_10N_S34","Unclassified",48.3153178355721,"Day13","Minus",2
+"754","m18_10N_S34","Other",6.51752861307419,"Day13","Minus",2
+"755","m18_11B_S10","Escherichia-Shigella",0,"Baseline","Plus",2
+"756","m18_11B_S10","Bacteroides",2.80372221264863,"Baseline","Plus",2
+"757","m18_11B_S10","HT002",0.158538686886093,"Baseline","Plus",2
+"758","m18_11B_S10","[Clostridium] innocuum group",0,"Baseline","Plus",2
+"759","m18_11B_S10","Ligilactobacillus",3.26117790532748,"Baseline","Plus",2
+"760","m18_11B_S10","Dubosiella",15.7873248584949,"Baseline","Plus",2
+"761","m18_11B_S10","Blautia",0.0224022057556436,"Baseline","Plus",2
+"762","m18_11B_S10","Faecalibaculum",4.17608929068519,"Baseline","Plus",2
+"763","m18_11B_S10","Lactobacillus",2.61933482681372,"Baseline","Plus",2
+"764","m18_11B_S10","Enterococcus",0,"Baseline","Plus",2
+"765","m18_11B_S10","Turicibacter",0.783016742003473,"Baseline","Plus",2
+"766","m18_11B_S10","Clostridium sensu stricto 1",5.22117207280054,"Baseline","Plus",2
+"767","m18_11B_S10","Paraclostridium",0,"Baseline","Plus",2
+"768","m18_11B_S10","Ileibacterium",0.225347631861504,"Baseline","Plus",2
+"769","m18_11B_S10","Klebsiella",0,"Baseline","Plus",2
+"770","m18_11B_S10","Lachnospiraceae UCG-001",0.764458701732526,"Baseline","Plus",2
+"771","m18_11B_S10","Lachnospiraceae NK4A136 group",2.6268906003526,"Baseline","Plus",2
+"772","m18_11B_S10","Streptococcus",0.0011930168745609,"Baseline","Plus",2
+"773","m18_11B_S10","Romboutsia",2.6797810151248,"Baseline","Plus",2
+"774","m18_11B_S10","Erysipelatoclostridium",0,"Baseline","Plus",2
+"775","m18_11B_S10","Bifidobacterium",3.45921870650459,"Baseline","Plus",2
+"776","m18_11B_S10","Lachnoclostridium",1.34585559193521,"Baseline","Plus",2
+"777","m18_11B_S10","Anaerostipes",0,"Baseline","Plus",2
+"778","m18_11B_S10","Lachnospiraceae UCG-006",0.0921274142022031,"Baseline","Plus",2
+"779","m18_11B_S10","Salmonella",0,"Baseline","Plus",2
+"780","m18_11B_S10","Parabacteroides",1.00849693129548,"Baseline","Plus",2
+"781","m18_11B_S10","Cutibacterium",0,"Baseline","Plus",2
+"782","m18_11B_S10","Unclassified",40.6775010273201,"Baseline","Plus",2
+"783","m18_11B_S10","Other",12.2863505613807,"Baseline","Plus",2
+"784","m18_11F_S23","Escherichia-Shigella",17.8966640681535,"Day2","Plus",2
+"785","m18_11F_S23","Bacteroides",53.2099919559971,"Day2","Plus",2
+"786","m18_11F_S23","HT002",18.1729243211514,"Day2","Plus",2
+"787","m18_11F_S23","[Clostridium] innocuum group",0.00885150894934142,"Day2","Plus",2
+"788","m18_11F_S23","Ligilactobacillus",0,"Day2","Plus",2
+"789","m18_11F_S23","Dubosiella",0,"Day2","Plus",2
+"790","m18_11F_S23","Blautia",0,"Day2","Plus",2
+"791","m18_11F_S23","Faecalibaculum",0,"Day2","Plus",2
+"792","m18_11F_S23","Lactobacillus",0,"Day2","Plus",2
+"793","m18_11F_S23","Enterococcus",0,"Day2","Plus",2
+"794","m18_11F_S23","Turicibacter",0,"Day2","Plus",2
+"795","m18_11F_S23","Clostridium sensu stricto 1",0.00326108224449421,"Day2","Plus",2
+"796","m18_11F_S23","Paraclostridium",0.0114914326710748,"Day2","Plus",2
+"797","m18_11F_S23","Ileibacterium",0,"Day2","Plus",2
+"798","m18_11F_S23","Klebsiella",0.207156367340727,"Day2","Plus",2
+"799","m18_11F_S23","Lachnospiraceae UCG-001",0,"Day2","Plus",2
+"800","m18_11F_S23","Lachnospiraceae NK4A136 group",0,"Day2","Plus",2
+"801","m18_11F_S23","Streptococcus",0.000621158522760801,"Day2","Plus",2
+"802","m18_11F_S23","Romboutsia",0,"Day2","Plus",2
+"803","m18_11F_S23","Erysipelatoclostridium",0,"Day2","Plus",2
+"804","m18_11F_S23","Bifidobacterium",0,"Day2","Plus",2
+"805","m18_11F_S23","Lachnoclostridium",0,"Day2","Plus",2
+"806","m18_11F_S23","Anaerostipes",0,"Day2","Plus",2
+"807","m18_11F_S23","Lachnospiraceae UCG-006",0,"Day2","Plus",2
+"808","m18_11F_S23","Salmonella",0,"Day2","Plus",2
+"809","m18_11F_S23","Parabacteroides",0,"Day2","Plus",2
+"810","m18_11F_S23","Cutibacterium",0.000310579261380401,"Day2","Plus",2
+"811","m18_11F_S23","Unclassified",6.80743154056631,"Day2","Plus",2
+"812","m18_11F_S23","Other",3.68129598514189,"Day2","Plus",2
+"813","m18_11N_S35","Escherichia-Shigella",0.0532129512136646,"Day13","Plus",2
+"814","m18_11N_S35","Bacteroides",27.9175023828877,"Day13","Plus",2
+"815","m18_11N_S35","HT002",2.10366584605669,"Day13","Plus",2
+"816","m18_11N_S35","[Clostridium] innocuum group",0.0944383694616136,"Day13","Plus",2
+"817","m18_11N_S35","Ligilactobacillus",0,"Day13","Plus",2
+"818","m18_11N_S35","Dubosiella",0,"Day13","Plus",2
+"819","m18_11N_S35","Blautia",0,"Day13","Plus",2
+"820","m18_11N_S35","Faecalibaculum",0,"Day13","Plus",2
+"821","m18_11N_S35","Lactobacillus",0,"Day13","Plus",2
+"822","m18_11N_S35","Enterococcus",0,"Day13","Plus",2
+"823","m18_11N_S35","Turicibacter",9.51780879592541,"Day13","Plus",2
+"824","m18_11N_S35","Clostridium sensu stricto 1",0.57525539292794,"Day13","Plus",2
+"825","m18_11N_S35","Paraclostridium",0,"Day13","Plus",2
+"826","m18_11N_S35","Ileibacterium",0,"Day13","Plus",2
+"827","m18_11N_S35","Klebsiella",0,"Day13","Plus",2
+"828","m18_11N_S35","Lachnospiraceae UCG-001",6.50235949734228,"Day13","Plus",2
+"829","m18_11N_S35","Lachnospiraceae NK4A136 group",10.5309015209548,"Day13","Plus",2
+"830","m18_11N_S35","Streptococcus",0,"Day13","Plus",2
+"831","m18_11N_S35","Romboutsia",2.68082170152797,"Day13","Plus",2
+"832","m18_11N_S35","Erysipelatoclostridium",0,"Day13","Plus",2
+"833","m18_11N_S35","Bifidobacterium",4.73536790031051,"Day13","Plus",2
+"834","m18_11N_S35","Lachnoclostridium",4.79223558718445,"Day13","Plus",2
+"835","m18_11N_S35","Anaerostipes",0,"Day13","Plus",2
+"836","m18_11N_S35","Lachnospiraceae UCG-006",1.37140300916315,"Day13","Plus",2
+"837","m18_11N_S35","Salmonella",0,"Day13","Plus",2
+"838","m18_11N_S35","Parabacteroides",0,"Day13","Plus",2
+"839","m18_11N_S35","Cutibacterium",0,"Day13","Plus",2
+"840","m18_11N_S35","Unclassified",13.8198712363532,"Day13","Plus",2
+"841","m18_11N_S35","Other",15.3051558086907,"Day13","Plus",2
+"842","m18_12B_S11","Escherichia-Shigella",0,"Baseline","Plus",2
+"843","m18_12B_S11","Bacteroides",1.30994494015493,"Baseline","Plus",2
+"844","m18_12B_S11","HT002",0,"Baseline","Plus",2
+"845","m18_12B_S11","[Clostridium] innocuum group",0,"Baseline","Plus",2
+"846","m18_12B_S11","Ligilactobacillus",2.07439113738783,"Baseline","Plus",2
+"847","m18_12B_S11","Dubosiella",7.44472341734819,"Baseline","Plus",2
+"848","m18_12B_S11","Blautia",0.00866950323746449,"Baseline","Plus",2
+"849","m18_12B_S11","Faecalibaculum",0.780425281631362,"Baseline","Plus",2
+"850","m18_12B_S11","Lactobacillus",0.14976141867071,"Baseline","Plus",2
+"851","m18_12B_S11","Enterococcus",0,"Baseline","Plus",2
+"852","m18_12B_S11","Turicibacter",0.142281847250153,"Baseline","Plus",2
+"853","m18_12B_S11","Clostridium sensu stricto 1",0.876809758800821,"Baseline","Plus",2
+"854","m18_12B_S11","Paraclostridium",0,"Baseline","Plus",2
+"855","m18_12B_S11","Ileibacterium",19.1439630509172,"Baseline","Plus",2
+"856","m18_12B_S11","Klebsiella",0,"Baseline","Plus",2
+"857","m18_12B_S11","Lachnospiraceae UCG-001",2.59065155566586,"Baseline","Plus",2
+"858","m18_12B_S11","Lachnospiraceae NK4A136 group",4.74731797867982,"Baseline","Plus",2
+"859","m18_12B_S11","Streptococcus",0.00662962012276697,"Baseline","Plus",2
+"860","m18_12B_S11","Romboutsia",0.442654635889363,"Baseline","Plus",2
+"861","m18_12B_S11","Erysipelatoclostridium",0,"Baseline","Plus",2
+"862","m18_12B_S11","Bifidobacterium",0.7697158952792,"Baseline","Plus",2
+"863","m18_12B_S11","Lachnoclostridium",0.965374684030605,"Baseline","Plus",2
+"864","m18_12B_S11","Anaerostipes",0,"Baseline","Plus",2
+"865","m18_12B_S11","Lachnospiraceae UCG-006",0.101484184956202,"Baseline","Plus",2
+"866","m18_12B_S11","Salmonella",0,"Baseline","Plus",2
+"867","m18_12B_S11","Parabacteroides",0.394717382693972,"Baseline","Plus",2
+"868","m18_12B_S11","Cutibacterium",0,"Baseline","Plus",2
+"869","m18_12B_S11","Unclassified",44.4718317640399,"Baseline","Plus",2
+"870","m18_12B_S11","Other",13.5786519432437,"Baseline","Plus",2
+"871","m18_12F_S24","Escherichia-Shigella",16.8721929538285,"Day2","Plus",2
+"872","m18_12F_S24","Bacteroides",54.0350236478261,"Day2","Plus",2
+"873","m18_12F_S24","HT002",14.9829569884118,"Day2","Plus",2
+"874","m18_12F_S24","[Clostridium] innocuum group",0,"Day2","Plus",2
+"875","m18_12F_S24","Ligilactobacillus",0,"Day2","Plus",2
+"876","m18_12F_S24","Dubosiella",0,"Day2","Plus",2
+"877","m18_12F_S24","Blautia",0,"Day2","Plus",2
+"878","m18_12F_S24","Faecalibaculum",0,"Day2","Plus",2
+"879","m18_12F_S24","Lactobacillus",0.000647530835418383,"Day2","Plus",2
+"880","m18_12F_S24","Enterococcus",0,"Day2","Plus",2
+"881","m18_12F_S24","Turicibacter",0,"Day2","Plus",2
+"882","m18_12F_S24","Clostridium sensu stricto 1",2.6355800063199,"Day2","Plus",2
+"883","m18_12F_S24","Paraclostridium",0,"Day2","Plus",2
+"884","m18_12F_S24","Ileibacterium",0,"Day2","Plus",2
+"885","m18_12F_S24","Klebsiella",5.42151667262395,"Day2","Plus",2
+"886","m18_12F_S24","Lachnospiraceae UCG-001",0,"Day2","Plus",2
+"887","m18_12F_S24","Lachnospiraceae NK4A136 group",0,"Day2","Plus",2
+"888","m18_12F_S24","Streptococcus",0.00181308633917147,"Day2","Plus",2
+"889","m18_12F_S24","Romboutsia",0.000259012334167353,"Day2","Plus",2
+"890","m18_12F_S24","Erysipelatoclostridium",0,"Day2","Plus",2
+"891","m18_12F_S24","Bifidobacterium",0,"Day2","Plus",2
+"892","m18_12F_S24","Lachnoclostridium",0,"Day2","Plus",2
+"893","m18_12F_S24","Anaerostipes",0,"Day2","Plus",2
+"894","m18_12F_S24","Lachnospiraceae UCG-006",0,"Day2","Plus",2
+"895","m18_12F_S24","Salmonella",0,"Day2","Plus",2
+"896","m18_12F_S24","Parabacteroides",0,"Day2","Plus",2
+"897","m18_12F_S24","Cutibacterium",0.00038851850125103,"Day2","Plus",2
+"898","m18_12F_S24","Unclassified",3.08677949243943,"Day2","Plus",2
+"899","m18_12F_S24","Other",2.96284209054035,"Day2","Plus",2
+"900","m18_12N_S36","Escherichia-Shigella",0.00863366993134506,"Day13","Plus",2
+"901","m18_12N_S36","Bacteroides",26.4834371676037,"Day13","Plus",2
+"902","m18_12N_S36","HT002",0.0119144645052562,"Day13","Plus",2
+"903","m18_12N_S36","[Clostridium] innocuum group",0.033153292536365,"Day13","Plus",2
+"904","m18_12N_S36","Ligilactobacillus",0,"Day13","Plus",2
+"905","m18_12N_S36","Dubosiella",0,"Day13","Plus",2
+"906","m18_12N_S36","Blautia",0,"Day13","Plus",2
+"907","m18_12N_S36","Faecalibaculum",0,"Day13","Plus",2
+"908","m18_12N_S36","Lactobacillus",0,"Day13","Plus",2
+"909","m18_12N_S36","Enterococcus",0,"Day13","Plus",2
+"910","m18_12N_S36","Turicibacter",4.30871931593706,"Day13","Plus",2
+"911","m18_12N_S36","Clostridium sensu stricto 1",0.16214032131066,"Day13","Plus",2
+"912","m18_12N_S36","Paraclostridium",0,"Day13","Plus",2
+"913","m18_12N_S36","Ileibacterium",0,"Day13","Plus",2
+"914","m18_12N_S36","Klebsiella",0.00448950836429943,"Day13","Plus",2
+"915","m18_12N_S36","Lachnospiraceae UCG-001",12.487049495103,"Day13","Plus",2
+"916","m18_12N_S36","Lachnospiraceae NK4A136 group",12.9613833211311,"Day13","Plus",2
+"917","m18_12N_S36","Streptococcus",0,"Day13","Plus",2
+"918","m18_12N_S36","Romboutsia",2.39377132516473,"Day13","Plus",2
+"919","m18_12N_S36","Erysipelatoclostridium",0,"Day13","Plus",2
+"920","m18_12N_S36","Bifidobacterium",1.55043444627095,"Day13","Plus",2
+"921","m18_12N_S36","Lachnoclostridium",3.7029810335539,"Day13","Plus",2
+"922","m18_12N_S36","Anaerostipes",0,"Day13","Plus",2
+"923","m18_12N_S36","Lachnospiraceae UCG-006",2.40240499509608,"Day13","Plus",2
+"924","m18_12N_S36","Salmonella",0,"Day13","Plus",2
+"925","m18_12N_S36","Parabacteroides",0,"Day13","Plus",2
+"926","m18_12N_S36","Cutibacterium",0,"Day13","Plus",2
+"927","m18_12N_S36","Unclassified",16.8598306419306,"Day13","Plus",2
+"928","m18_12N_S36","Other",16.629657001561,"Day13","Plus",2
+"929","m18_1B_S1","Escherichia-Shigella",0,"Baseline","Plus",2
+"930","m18_1B_S1","Bacteroides",4.87036565014356,"Baseline","Plus",2
+"931","m18_1B_S1","HT002",1.74072168171172,"Baseline","Plus",2
+"932","m18_1B_S1","[Clostridium] innocuum group",0,"Baseline","Plus",2
+"933","m18_1B_S1","Ligilactobacillus",4.48802727827981,"Baseline","Plus",2
+"934","m18_1B_S1","Dubosiella",1.35357402215158,"Baseline","Plus",2
+"935","m18_1B_S1","Blautia",0,"Baseline","Plus",2
+"936","m18_1B_S1","Faecalibaculum",0.308996734493654,"Baseline","Plus",2
+"937","m18_1B_S1","Lactobacillus",15.3555746858333,"Baseline","Plus",2
+"938","m18_1B_S1","Enterococcus",0,"Baseline","Plus",2
+"939","m18_1B_S1","Turicibacter",0.026691546715016,"Baseline","Plus",2
+"940","m18_1B_S1","Clostridium sensu stricto 1",0.590340064733012,"Baseline","Plus",2
+"941","m18_1B_S1","Paraclostridium",0,"Baseline","Plus",2
+"942","m18_1B_S1","Ileibacterium",0,"Baseline","Plus",2
+"943","m18_1B_S1","Klebsiella",0,"Baseline","Plus",2
+"944","m18_1B_S1","Lachnospiraceae UCG-001",0.829602127628877,"Baseline","Plus",2
+"945","m18_1B_S1","Lachnospiraceae NK4A136 group",7.91079733180719,"Baseline","Plus",2
+"946","m18_1B_S1","Streptococcus",0.0899336799226667,"Baseline","Plus",2
+"947","m18_1B_S1","Romboutsia",1.48967686395968,"Baseline","Plus",2
+"948","m18_1B_S1","Erysipelatoclostridium",0.0105804329320784,"Baseline","Plus",2
+"949","m18_1B_S1","Bifidobacterium",0.867835964815251,"Baseline","Plus",2
+"950","m18_1B_S1","Lachnoclostridium",1.0972389879335,"Baseline","Plus",2
+"951","m18_1B_S1","Anaerostipes",0,"Baseline","Plus",2
+"952","m18_1B_S1","Lachnospiraceae UCG-006",0.387388123944963,"Baseline","Plus",2
+"953","m18_1B_S1","Salmonella",0,"Baseline","Plus",2
+"954","m18_1B_S1","Parabacteroides",0.692296963896677,"Baseline","Plus",2
+"955","m18_1B_S1","Cutibacterium",0,"Baseline","Plus",2
+"956","m18_1B_S1","Unclassified",42.0112922075111,"Baseline","Plus",2
+"957","m18_1B_S1","Other",15.8790656515863,"Baseline","Plus",2
+"958","m18_1F_S13","Escherichia-Shigella",18.0317813936437,"Day2","Plus",2
+"959","m18_1F_S13","Bacteroides",55.5911776317645,"Day2","Plus",2
+"960","m18_1F_S13","HT002",2.69027946194411,"Day2","Plus",2
+"961","m18_1F_S13","[Clostridium] innocuum group",12.4547037590592,"Day2","Plus",2
+"962","m18_1F_S13","Ligilactobacillus",0,"Day2","Plus",2
+"963","m18_1F_S13","Dubosiella",0,"Day2","Plus",2
+"964","m18_1F_S13","Blautia",0,"Day2","Plus",2
+"965","m18_1F_S13","Faecalibaculum",0,"Day2","Plus",2
+"966","m18_1F_S13","Lactobacillus",0,"Day2","Plus",2
+"967","m18_1F_S13","Enterococcus",0,"Day2","Plus",2
+"968","m18_1F_S13","Turicibacter",0,"Day2","Plus",2
+"969","m18_1F_S13","Clostridium sensu stricto 1",2.60515072896985,"Day2","Plus",2
+"970","m18_1F_S13","Paraclostridium",7.70212345957531,"Day2","Plus",2
+"971","m18_1F_S13","Ileibacterium",0,"Day2","Plus",2
+"972","m18_1F_S13","Klebsiella",0,"Day2","Plus",2
+"973","m18_1F_S13","Lachnospiraceae UCG-001",0,"Day2","Plus",2
+"974","m18_1F_S13","Lachnospiraceae NK4A136 group",0,"Day2","Plus",2
+"975","m18_1F_S13","Streptococcus",0,"Day2","Plus",2
+"976","m18_1F_S13","Romboutsia",0.00229124954175009,"Day2","Plus",2
+"977","m18_1F_S13","Erysipelatoclostridium",0,"Day2","Plus",2
+"978","m18_1F_S13","Bifidobacterium",0.000352499929500014,"Day2","Plus",2
+"979","m18_1F_S13","Lachnoclostridium",0.0190349961930008,"Day2","Plus",2
+"980","m18_1F_S13","Anaerostipes",0,"Day2","Plus",2
+"981","m18_1F_S13","Lachnospiraceae UCG-006",0,"Day2","Plus",2
+"982","m18_1F_S13","Salmonella",0,"Day2","Plus",2
+"983","m18_1F_S13","Parabacteroides",0,"Day2","Plus",2
+"984","m18_1F_S13","Cutibacterium",0,"Day2","Plus",2
+"985","m18_1F_S13","Unclassified",0.372944925411019,"Day2","Plus",2
+"986","m18_1F_S13","Other",0.530159893968019,"Day2","Plus",2
+"987","m18_1N_S25","Escherichia-Shigella",0.0550064224950365,"Day13","Plus",2
+"988","m18_1N_S25","Bacteroides",47.1526938671648,"Day13","Plus",2
+"989","m18_1N_S25","HT002",0.0600347104239456,"Day13","Plus",2
+"990","m18_1N_S25","[Clostridium] innocuum group",1.0339988450175,"Day13","Plus",2
+"991","m18_1N_S25","Ligilactobacillus",0,"Day13","Plus",2
+"992","m18_1N_S25","Dubosiella",0,"Day13","Plus",2
+"993","m18_1N_S25","Blautia",0.693141872382052,"Day13","Plus",2
+"994","m18_1N_S25","Faecalibaculum",0,"Day13","Plus",2
+"995","m18_1N_S25","Lactobacillus",0.000457117084446286,"Day13","Plus",2
+"996","m18_1N_S25","Enterococcus",0.043121378299433,"Day13","Plus",2
+"997","m18_1N_S25","Turicibacter",5.16176611756747,"Day13","Plus",2
+"998","m18_1N_S25","Clostridium sensu stricto 1",6.57090571655389,"Day13","Plus",2
+"999","m18_1N_S25","Paraclostridium",0,"Day13","Plus",2
+"1000","m18_1N_S25","Ileibacterium",0,"Day13","Plus",2
+"1001","m18_1N_S25","Klebsiella",0,"Day13","Plus",2
+"1002","m18_1N_S25","Lachnospiraceae UCG-001",6.29739732769352,"Day13","Plus",2
+"1003","m18_1N_S25","Lachnospiraceae NK4A136 group",11.2146058050822,"Day13","Plus",2
+"1004","m18_1N_S25","Streptococcus",0,"Day13","Plus",2
+"1005","m18_1N_S25","Romboutsia",2.68876269071306,"Day13","Plus",2
+"1006","m18_1N_S25","Erysipelatoclostridium",0,"Day13","Plus",2
+"1007","m18_1N_S25","Bifidobacterium",0,"Day13","Plus",2
+"1008","m18_1N_S25","Lachnoclostridium",3.09239707627913,"Day13","Plus",2
+"1009","m18_1N_S25","Anaerostipes",0,"Day13","Plus",2
+"1010","m18_1N_S25","Lachnospiraceae UCG-006",0,"Day13","Plus",2
+"1011","m18_1N_S25","Salmonella",0,"Day13","Plus",2
+"1012","m18_1N_S25","Parabacteroides",0,"Day13","Plus",2
+"1013","m18_1N_S25","Cutibacterium",0.00121897889185676,"Day13","Plus",2
+"1014","m18_1N_S25","Unclassified",7.32758686367397,"Day13","Plus",2
+"1015","m18_1N_S25","Other",8.60690521067764,"Day13","Plus",2
+"1016","m18_2B_S2","Escherichia-Shigella",0.000364252281129911,"Baseline","Plus",2
+"1017","m18_2B_S2","Bacteroides",5.44611798131386,"Baseline","Plus",2
+"1018","m18_2B_S2","HT002",1.90303604276322,"Baseline","Plus",2
+"1019","m18_2B_S2","[Clostridium] innocuum group",0,"Baseline","Plus",2
+"1020","m18_2B_S2","Ligilactobacillus",6.90822663776932,"Baseline","Plus",2
+"1021","m18_2B_S2","Dubosiella",3.8068005900887,"Baseline","Plus",2
+"1022","m18_2B_S2","Blautia",0,"Baseline","Plus",2
+"1023","m18_2B_S2","Faecalibaculum",1.88081665361429,"Baseline","Plus",2
+"1024","m18_2B_S2","Lactobacillus",12.3361320050267,"Baseline","Plus",2
+"1025","m18_2B_S2","Enterococcus",0.00200338754621451,"Baseline","Plus",2
+"1026","m18_2B_S2","Turicibacter",0.0316899484583022,"Baseline","Plus",2
+"1027","m18_2B_S2","Clostridium sensu stricto 1",0.224379405176025,"Baseline","Plus",2
+"1028","m18_2B_S2","Paraclostridium",0,"Baseline","Plus",2
+"1029","m18_2B_S2","Ileibacterium",0,"Baseline","Plus",2
+"1030","m18_2B_S2","Klebsiella",0,"Baseline","Plus",2
+"1031","m18_2B_S2","Lachnospiraceae UCG-001",0.0220372630083596,"Baseline","Plus",2
+"1032","m18_2B_S2","Lachnospiraceae NK4A136 group",2.86229442511884,"Baseline","Plus",2
+"1033","m18_2B_S2","Streptococcus",0.107636549073889,"Baseline","Plus",2
+"1034","m18_2B_S2","Romboutsia",6.02582548673211,"Baseline","Plus",2
+"1035","m18_2B_S2","Erysipelatoclostridium",0.000728504562259821,"Baseline","Plus",2
+"1036","m18_2B_S2","Bifidobacterium",0.886590052270202,"Baseline","Plus",2
+"1037","m18_2B_S2","Lachnoclostridium",0.599741380880398,"Baseline","Plus",2
+"1038","m18_2B_S2","Anaerostipes",0,"Baseline","Plus",2
+"1039","m18_2B_S2","Lachnospiraceae UCG-006",0.139508623672756,"Baseline","Plus",2
+"1040","m18_2B_S2","Salmonella",0,"Baseline","Plus",2
+"1041","m18_2B_S2","Parabacteroides",0.898610377547489,"Baseline","Plus",2
+"1042","m18_2B_S2","Cutibacterium",0.000728504562259821,"Baseline","Plus",2
+"1043","m18_2B_S2","Unclassified",45.6646693499918,"Baseline","Plus",2
+"1044","m18_2B_S2","Other",10.2520625785419,"Baseline","Plus",2
+"1045","m18_2F_S14","Escherichia-Shigella",20.4449338870152,"Day2","Plus",2
+"1046","m18_2F_S14","Bacteroides",38.4844104893661,"Day2","Plus",2
+"1047","m18_2F_S14","HT002",15.9157546975015,"Day2","Plus",2
+"1048","m18_2F_S14","[Clostridium] innocuum group",7.96460718409923,"Day2","Plus",2
+"1049","m18_2F_S14","Ligilactobacillus",0,"Day2","Plus",2
+"1050","m18_2F_S14","Dubosiella",0,"Day2","Plus",2
+"1051","m18_2F_S14","Blautia",0,"Day2","Plus",2
+"1052","m18_2F_S14","Faecalibaculum",0,"Day2","Plus",2
+"1053","m18_2F_S14","Lactobacillus",0.000458852410122284,"Day2","Plus",2
+"1054","m18_2F_S14","Enterococcus",0,"Day2","Plus",2
+"1055","m18_2F_S14","Turicibacter",0,"Day2","Plus",2
+"1056","m18_2F_S14","Clostridium sensu stricto 1",2.70065233517639,"Day2","Plus",2
+"1057","m18_2F_S14","Paraclostridium",10.5598764157509,"Day2","Plus",2
+"1058","m18_2F_S14","Ileibacterium",0,"Day2","Plus",2
+"1059","m18_2F_S14","Klebsiella",0,"Day2","Plus",2
+"1060","m18_2F_S14","Lachnospiraceae UCG-001",0,"Day2","Plus",2
+"1061","m18_2F_S14","Lachnospiraceae NK4A136 group",0,"Day2","Plus",2
+"1062","m18_2F_S14","Streptococcus",0.00198836044386323,"Day2","Plus",2
+"1063","m18_2F_S14","Romboutsia",0.000764754016870474,"Day2","Plus",2
+"1064","m18_2F_S14","Erysipelatoclostridium",0,"Day2","Plus",2
+"1065","m18_2F_S14","Bifidobacterium",0.00137655723036685,"Day2","Plus",2
+"1066","m18_2F_S14","Lachnoclostridium",0,"Day2","Plus",2
+"1067","m18_2F_S14","Anaerostipes",0,"Day2","Plus",2
+"1068","m18_2F_S14","Lachnospiraceae UCG-006",0,"Day2","Plus",2
+"1069","m18_2F_S14","Salmonella",0,"Day2","Plus",2
+"1070","m18_2F_S14","Parabacteroides",0,"Day2","Plus",2
+"1071","m18_2F_S14","Cutibacterium",0.000764754016870474,"Day2","Plus",2
+"1072","m18_2F_S14","Unclassified",0.82822860027072,"Day2","Plus",2
+"1073","m18_2F_S14","Other",3.09618311270181,"Day2","Plus",2
+"1074","m18_2N_S26","Escherichia-Shigella",0.170780968500399,"Day13","Plus",2
+"1075","m18_2N_S26","Bacteroides",42.7909928852169,"Day13","Plus",2
+"1076","m18_2N_S26","HT002",0.118652422559664,"Day13","Plus",2
+"1077","m18_2N_S26","[Clostridium] innocuum group",0.685086873639532,"Day13","Plus",2
+"1078","m18_2N_S26","Ligilactobacillus",0,"Day13","Plus",2
+"1079","m18_2N_S26","Dubosiella",0,"Day13","Plus",2
+"1080","m18_2N_S26","Blautia",1.09557190903896,"Day13","Plus",2
+"1081","m18_2N_S26","Faecalibaculum",0,"Day13","Plus",2
+"1082","m18_2N_S26","Lactobacillus",0,"Day13","Plus",2
+"1083","m18_2N_S26","Enterococcus",0.0567088784292513,"Day13","Plus",2
+"1084","m18_2N_S26","Turicibacter",7.46397895664388,"Day13","Plus",2
+"1085","m18_2N_S26","Clostridium sensu stricto 1",11.0924747318324,"Day13","Plus",2
+"1086","m18_2N_S26","Paraclostridium",0.00261733285058083,"Day13","Plus",2
+"1087","m18_2N_S26","Ileibacterium",0,"Day13","Plus",2
+"1088","m18_2N_S26","Klebsiella",0,"Day13","Plus",2
+"1089","m18_2N_S26","Lachnospiraceae UCG-001",3.11637098075824,"Day13","Plus",2
+"1090","m18_2N_S26","Lachnospiraceae NK4A136 group",10.333448205164,"Day13","Plus",2
+"1091","m18_2N_S26","Streptococcus",0,"Day13","Plus",2
+"1092","m18_2N_S26","Romboutsia",5.97733389751397,"Day13","Plus",2
+"1093","m18_2N_S26","Erysipelatoclostridium",0,"Day13","Plus",2
+"1094","m18_2N_S26","Bifidobacterium",0,"Day13","Plus",2
+"1095","m18_2N_S26","Lachnoclostridium",2.42888488533901,"Day13","Plus",2
+"1096","m18_2N_S26","Anaerostipes",0,"Day13","Plus",2
+"1097","m18_2N_S26","Lachnospiraceae UCG-006",0,"Day13","Plus",2
+"1098","m18_2N_S26","Salmonella",0,"Day13","Plus",2
+"1099","m18_2N_S26","Parabacteroides",0,"Day13","Plus",2
+"1100","m18_2N_S26","Cutibacterium",0,"Day13","Plus",2
+"1101","m18_2N_S26","Unclassified",5.74264638524522,"Day13","Plus",2
+"1102","m18_2N_S26","Other",8.92445068726798,"Day13","Plus",2
+"1103","m18_3B_S3","Escherichia-Shigella",0,"Baseline","Minus",2
+"1104","m18_3B_S3","Bacteroides",1.42693246479253,"Baseline","Minus",2
+"1105","m18_3B_S3","HT002",3.54746560101022,"Baseline","Minus",2
+"1106","m18_3B_S3","[Clostridium] innocuum group",0,"Baseline","Minus",2
+"1107","m18_3B_S3","Ligilactobacillus",8.34830950236,"Baseline","Minus",2
+"1108","m18_3B_S3","Dubosiella",7.89417353876479,"Baseline","Minus",2
+"1109","m18_3B_S3","Blautia",0,"Baseline","Minus",2
+"1110","m18_3B_S3","Faecalibaculum",4.5596852309564,"Baseline","Minus",2
+"1111","m18_3B_S3","Lactobacillus",13.3647486390551,"Baseline","Minus",2
+"1112","m18_3B_S3","Enterococcus",0.00893180260716238,"Baseline","Minus",2
+"1113","m18_3B_S3","Turicibacter",0.00369591832020512,"Baseline","Minus",2
+"1114","m18_3B_S3","Clostridium sensu stricto 1",2.7417554072055,"Baseline","Minus",2
+"1115","m18_3B_S3","Paraclostridium",0,"Baseline","Minus",2
+"1116","m18_3B_S3","Ileibacterium",0,"Baseline","Minus",2
+"1117","m18_3B_S3","Klebsiella",0,"Baseline","Minus",2
+"1118","m18_3B_S3","Lachnospiraceae UCG-001",0.747345483664811,"Baseline","Minus",2
+"1119","m18_3B_S3","Lachnospiraceae NK4A136 group",1.07766818353314,"Baseline","Minus",2
+"1120","m18_3B_S3","Streptococcus",0.059134693123282,"Baseline","Minus",2
+"1121","m18_3B_S3","Romboutsia",3.64340548073888,"Baseline","Minus",2
+"1122","m18_3B_S3","Erysipelatoclostridium",0.0665265297636922,"Baseline","Minus",2
+"1123","m18_3B_S3","Bifidobacterium",0.954470906192973,"Baseline","Minus",2
+"1124","m18_3B_S3","Lachnoclostridium",0.769982983376067,"Baseline","Minus",2
+"1125","m18_3B_S3","Anaerostipes",0,"Baseline","Minus",2
+"1126","m18_3B_S3","Lachnospiraceae UCG-006",0.0639085876202136,"Baseline","Minus",2
+"1127","m18_3B_S3","Salmonella",0,"Baseline","Minus",2
+"1128","m18_3B_S3","Parabacteroides",0.294287496246333,"Baseline","Minus",2
+"1129","m18_3B_S3","Cutibacterium",0,"Baseline","Minus",2
+"1130","m18_3B_S3","Unclassified",41.5120925827539,"Baseline","Minus",2
+"1131","m18_3B_S3","Other",8.91547896791481,"Baseline","Minus",2
+"1132","m18_3F_S15","Escherichia-Shigella",40.2612884104301,"Day2","Minus",2
+"1133","m18_3F_S15","Bacteroides",0,"Day2","Minus",2
+"1134","m18_3F_S15","HT002",25.8362524584115,"Day2","Minus",2
+"1135","m18_3F_S15","[Clostridium] innocuum group",25.5946967664774,"Day2","Minus",2
+"1136","m18_3F_S15","Ligilactobacillus",0.00104682856742819,"Day2","Minus",2
+"1137","m18_3F_S15","Dubosiella",0,"Day2","Minus",2
+"1138","m18_3F_S15","Blautia",0,"Day2","Minus",2
+"1139","m18_3F_S15","Faecalibaculum",0,"Day2","Minus",2
+"1140","m18_3F_S15","Lactobacillus",0.00732779997199734,"Day2","Minus",2
+"1141","m18_3F_S15","Enterococcus",0,"Day2","Minus",2
+"1142","m18_3F_S15","Turicibacter",0,"Day2","Minus",2
+"1143","m18_3F_S15","Clostridium sensu stricto 1",0.105075417455605,"Day2","Minus",2
+"1144","m18_3F_S15","Paraclostridium",0,"Day2","Minus",2
+"1145","m18_3F_S15","Ileibacterium",0,"Day2","Minus",2
+"1146","m18_3F_S15","Klebsiella",0,"Day2","Minus",2
+"1147","m18_3F_S15","Lachnospiraceae UCG-001",0,"Day2","Minus",2
+"1148","m18_3F_S15","Lachnospiraceae NK4A136 group",0,"Day2","Minus",2
+"1149","m18_3F_S15","Streptococcus",0,"Day2","Minus",2
+"1150","m18_3F_S15","Romboutsia",0.48664443028318,"Day2","Minus",2
+"1151","m18_3F_S15","Erysipelatoclostridium",0,"Day2","Minus",2
+"1152","m18_3F_S15","Bifidobacterium",0,"Day2","Minus",2
+"1153","m18_3F_S15","Lachnoclostridium",0,"Day2","Minus",2
+"1154","m18_3F_S15","Anaerostipes",0,"Day2","Minus",2
+"1155","m18_3F_S15","Lachnospiraceae UCG-006",0,"Day2","Minus",2
+"1156","m18_3F_S15","Salmonella",0,"Day2","Minus",2
+"1157","m18_3F_S15","Parabacteroides",0,"Day2","Minus",2
+"1158","m18_3F_S15","Cutibacterium",0.000523414283714095,"Day2","Minus",2
+"1159","m18_3F_S15","Unclassified",2.45638323347025,"Day2","Minus",2
+"1160","m18_3F_S15","Other",5.25076124064888,"Day2","Minus",2
+"1161","m18_3N_S27","Escherichia-Shigella",5.68937188800574,"Day13","Minus",2
+"1162","m18_3N_S27","Bacteroides",0,"Day13","Minus",2
+"1163","m18_3N_S27","HT002",0.645960349961217,"Day13","Minus",2
+"1164","m18_3N_S27","[Clostridium] innocuum group",19.1198425341329,"Day13","Minus",2
+"1165","m18_3N_S27","Ligilactobacillus",0,"Day13","Minus",2
+"1166","m18_3N_S27","Dubosiella",0,"Day13","Minus",2
+"1167","m18_3N_S27","Blautia",0,"Day13","Minus",2
+"1168","m18_3N_S27","Faecalibaculum",0,"Day13","Minus",2
+"1169","m18_3N_S27","Lactobacillus",0.00125105296958273,"Day13","Minus",2
+"1170","m18_3N_S27","Enterococcus",2.06423739981151,"Day13","Minus",2
+"1171","m18_3N_S27","Turicibacter",7.24964344990367,"Day13","Minus",2
+"1172","m18_3N_S27","Clostridium sensu stricto 1",19.1811441296425,"Day13","Minus",2
+"1173","m18_3N_S27","Paraclostridium",0.555467518494733,"Day13","Minus",2
+"1174","m18_3N_S27","Ileibacterium",0,"Day13","Minus",2
+"1175","m18_3N_S27","Klebsiella",0,"Day13","Minus",2
+"1176","m18_3N_S27","Lachnospiraceae UCG-001",0,"Day13","Minus",2
+"1177","m18_3N_S27","Lachnospiraceae NK4A136 group",13.2972335048666,"Day13","Minus",2
+"1178","m18_3N_S27","Streptococcus",0,"Day13","Minus",2
+"1179","m18_3N_S27","Romboutsia",1.76648679305082,"Day13","Minus",2
+"1180","m18_3N_S27","Erysipelatoclostridium",0,"Day13","Minus",2
+"1181","m18_3N_S27","Bifidobacterium",0,"Day13","Minus",2
+"1182","m18_3N_S27","Lachnoclostridium",0,"Day13","Minus",2
+"1183","m18_3N_S27","Anaerostipes",0,"Day13","Minus",2
+"1184","m18_3N_S27","Lachnospiraceae UCG-006",18.3921467234923,"Day13","Minus",2
+"1185","m18_3N_S27","Salmonella",0,"Day13","Minus",2
+"1186","m18_3N_S27","Parabacteroides",0,"Day13","Minus",2
+"1187","m18_3N_S27","Cutibacterium",0,"Day13","Minus",2
+"1188","m18_3N_S27","Unclassified",0.338618337100385,"Day13","Minus",2
+"1189","m18_3N_S27","Other",11.6985963185681,"Day13","Minus",2
+"1190","m18_4F_S16","Escherichia-Shigella",54.0350715095771,"Day2","Minus",2
+"1191","m18_4F_S16","Bacteroides",0,"Day2","Minus",2
+"1192","m18_4F_S16","HT002",30.8527649326631,"Day2","Minus",2
+"1193","m18_4F_S16","[Clostridium] innocuum group",0,"Day2","Minus",2
+"1194","m18_4F_S16","Ligilactobacillus",0,"Day2","Minus",2
+"1195","m18_4F_S16","Dubosiella",0,"Day2","Minus",2
+"1196","m18_4F_S16","Blautia",0.00104317399098996,"Day2","Minus",2
+"1197","m18_4F_S16","Faecalibaculum",0,"Day2","Minus",2
+"1198","m18_4F_S16","Lactobacillus",0.00208634798197991,"Day2","Minus",2
+"1199","m18_4F_S16","Enterococcus",0,"Day2","Minus",2
+"1200","m18_4F_S16","Turicibacter",0,"Day2","Minus",2
+"1201","m18_4F_S16","Clostridium sensu stricto 1",0,"Day2","Minus",2
+"1202","m18_4F_S16","Paraclostridium",0,"Day2","Minus",2
+"1203","m18_4F_S16","Ileibacterium",0,"Day2","Minus",2
+"1204","m18_4F_S16","Klebsiella",0,"Day2","Minus",2
+"1205","m18_4F_S16","Lachnospiraceae UCG-001",0,"Day2","Minus",2
+"1206","m18_4F_S16","Lachnospiraceae NK4A136 group",0,"Day2","Minus",2
+"1207","m18_4F_S16","Streptococcus",0.00640806880179545,"Day2","Minus",2
+"1208","m18_4F_S16","Romboutsia",0.0017882982702685,"Day2","Minus",2
+"1209","m18_4F_S16","Erysipelatoclostridium",0,"Day2","Minus",2
+"1210","m18_4F_S16","Bifidobacterium",0.000894149135134249,"Day2","Minus",2
+"1211","m18_4F_S16","Lachnoclostridium",0,"Day2","Minus",2
+"1212","m18_4F_S16","Anaerostipes",0,"Day2","Minus",2
+"1213","m18_4F_S16","Lachnospiraceae UCG-006",0,"Day2","Minus",2
+"1214","m18_4F_S16","Salmonella",0,"Day2","Minus",2
+"1215","m18_4F_S16","Parabacteroides",0,"Day2","Minus",2
+"1216","m18_4F_S16","Cutibacterium",0.003576596540537,"Day2","Minus",2
+"1217","m18_4F_S16","Unclassified",8.8462644684507,"Day2","Minus",2
+"1218","m18_4F_S16","Other",6.2501024545884,"Day2","Minus",2
+"1219","m18_4N_S28","Escherichia-Shigella",0.0291436806403349,"Day13","Minus",2
+"1220","m18_4N_S28","Bacteroides",0,"Day13","Minus",2
+"1221","m18_4N_S28","HT002",0.348347300882113,"Day13","Minus",2
+"1222","m18_4N_S28","[Clostridium] innocuum group",0,"Day13","Minus",2
+"1223","m18_4N_S28","Ligilactobacillus",0,"Day13","Minus",2
+"1224","m18_4N_S28","Dubosiella",0,"Day13","Minus",2
+"1225","m18_4N_S28","Blautia",0.104412399144507,"Day13","Minus",2
+"1226","m18_4N_S28","Faecalibaculum",0,"Day13","Minus",2
+"1227","m18_4N_S28","Lactobacillus",0,"Day13","Minus",2
+"1228","m18_4N_S28","Enterococcus",0.0087201564120687,"Day13","Minus",2
+"1229","m18_4N_S28","Turicibacter",0.604215048236234,"Day13","Minus",2
+"1230","m18_4N_S28","Clostridium sensu stricto 1",0.163158716025812,"Day13","Minus",2
+"1231","m18_4N_S28","Paraclostridium",0,"Day13","Minus",2
+"1232","m18_4N_S28","Ileibacterium",0,"Day13","Minus",2
+"1233","m18_4N_S28","Klebsiella",0,"Day13","Minus",2
+"1234","m18_4N_S28","Lachnospiraceae UCG-001",5.63299156439606,"Day13","Minus",2
+"1235","m18_4N_S28","Lachnospiraceae NK4A136 group",14.4130416823477,"Day13","Minus",2
+"1236","m18_4N_S28","Streptococcus",0,"Day13","Minus",2
+"1237","m18_4N_S28","Romboutsia",11.5094590749291,"Day13","Minus",2
+"1238","m18_4N_S28","Erysipelatoclostridium",0,"Day13","Minus",2
+"1239","m18_4N_S28","Bifidobacterium",5.63804007600305,"Day13","Minus",2
+"1240","m18_4N_S28","Lachnoclostridium",3.07844469126057,"Day13","Minus",2
+"1241","m18_4N_S28","Anaerostipes",0,"Day13","Minus",2
+"1242","m18_4N_S28","Lachnospiraceae UCG-006",2.21124808386037,"Day13","Minus",2
+"1243","m18_4N_S28","Salmonella",0,"Day13","Minus",2
+"1244","m18_4N_S28","Parabacteroides",0,"Day13","Minus",2
+"1245","m18_4N_S28","Cutibacterium",0,"Day13","Minus",2
+"1246","m18_4N_S28","Unclassified",34.5774854740552,"Day13","Minus",2
+"1247","m18_4N_S28","Other",21.6812920518069,"Day13","Minus",2
+"1248","m18_5B_S4","Escherichia-Shigella",0,"Baseline","Plus",2
+"1249","m18_5B_S4","Bacteroides",9.32680840564214,"Baseline","Plus",2
+"1250","m18_5B_S4","HT002",1.94856821702239,"Baseline","Plus",2
+"1251","m18_5B_S4","[Clostridium] innocuum group",0,"Baseline","Plus",2
+"1252","m18_5B_S4","Ligilactobacillus",3.7120807117106,"Baseline","Plus",2
+"1253","m18_5B_S4","Dubosiella",5.11524859152034,"Baseline","Plus",2
+"1254","m18_5B_S4","Blautia",0.0195336595797179,"Baseline","Plus",2
+"1255","m18_5B_S4","Faecalibaculum",0.331386821291004,"Baseline","Plus",2
+"1256","m18_5B_S4","Lactobacillus",7.72419158065003,"Baseline","Plus",2
+"1257","m18_5B_S4","Enterococcus",0,"Baseline","Plus",2
+"1258","m18_5B_S4","Turicibacter",0,"Baseline","Plus",2
+"1259","m18_5B_S4","Clostridium sensu stricto 1",3.40125563734562,"Baseline","Plus",2
+"1260","m18_5B_S4","Paraclostridium",0,"Baseline","Plus",2
+"1261","m18_5B_S4","Ileibacterium",7.81209304875876,"Baseline","Plus",2
+"1262","m18_5B_S4","Klebsiella",0,"Baseline","Plus",2
+"1263","m18_5B_S4","Lachnospiraceae UCG-001",1.25803621609025,"Baseline","Plus",2
+"1264","m18_5B_S4","Lachnospiraceae NK4A136 group",1.84198982878919,"Baseline","Plus",2
+"1265","m18_5B_S4","Streptococcus",0.0388959712683856,"Baseline","Plus",2
+"1266","m18_5B_S4","Romboutsia",2.10757905991693,"Baseline","Plus",2
+"1267","m18_5B_S4","Erysipelatoclostridium",0,"Baseline","Plus",2
+"1268","m18_5B_S4","Bifidobacterium",0.367541226302587,"Baseline","Plus",2
+"1269","m18_5B_S4","Lachnoclostridium",0.8185288755466,"Baseline","Plus",2
+"1270","m18_5B_S4","Anaerostipes",0,"Baseline","Plus",2
+"1271","m18_5B_S4","Lachnospiraceae UCG-006",0.313395292730737,"Baseline","Plus",2
+"1272","m18_5B_S4","Salmonella",0,"Baseline","Plus",2
+"1273","m18_5B_S4","Parabacteroides",1.76231305945086,"Baseline","Plus",2
+"1274","m18_5B_S4","Cutibacterium",0,"Baseline","Plus",2
+"1275","m18_5B_S4","Unclassified",39.1403133610232,"Baseline","Plus",2
+"1276","m18_5B_S4","Other",12.9602404353607,"Baseline","Plus",2
+"1277","m18_5F_S17","Escherichia-Shigella",19.4648243222194,"Day2","Plus",2
+"1278","m18_5F_S17","Bacteroides",51.5601030261168,"Day2","Plus",2
+"1279","m18_5F_S17","HT002",9.20988660518875,"Day2","Plus",2
+"1280","m18_5F_S17","[Clostridium] innocuum group",3.08370321303655,"Day2","Plus",2
+"1281","m18_5F_S17","Ligilactobacillus",0,"Day2","Plus",2
+"1282","m18_5F_S17","Dubosiella",0,"Day2","Plus",2
+"1283","m18_5F_S17","Blautia",0,"Day2","Plus",2
+"1284","m18_5F_S17","Faecalibaculum",0,"Day2","Plus",2
+"1285","m18_5F_S17","Lactobacillus",0.0014160584171299,"Day2","Plus",2
+"1286","m18_5F_S17","Enterococcus",2.95735933426374,"Day2","Plus",2
+"1287","m18_5F_S17","Turicibacter",0.0144752638195501,"Day2","Plus",2
+"1288","m18_5F_S17","Clostridium sensu stricto 1",2.2180195006978,"Day2","Plus",2
+"1289","m18_5F_S17","Paraclostridium",1.80138364641336,"Day2","Plus",2
+"1290","m18_5F_S17","Ileibacterium",0,"Day2","Plus",2
+"1291","m18_5F_S17","Klebsiella",0.571772920872229,"Day2","Plus",2
+"1292","m18_5F_S17","Lachnospiraceae UCG-001",0,"Day2","Plus",2
+"1293","m18_5F_S17","Lachnospiraceae NK4A136 group",0,"Day2","Plus",2
+"1294","m18_5F_S17","Streptococcus",0,"Day2","Plus",2
+"1295","m18_5F_S17","Romboutsia",0,"Day2","Plus",2
+"1296","m18_5F_S17","Erysipelatoclostridium",5.32028881298116,"Day2","Plus",2
+"1297","m18_5F_S17","Bifidobacterium",0,"Day2","Plus",2
+"1298","m18_5F_S17","Lachnoclostridium",0,"Day2","Plus",2
+"1299","m18_5F_S17","Anaerostipes",0,"Day2","Plus",2
+"1300","m18_5F_S17","Lachnospiraceae UCG-006",0,"Day2","Plus",2
+"1301","m18_5F_S17","Salmonella",0,"Day2","Plus",2
+"1302","m18_5F_S17","Parabacteroides",0,"Day2","Plus",2
+"1303","m18_5F_S17","Cutibacterium",0.000314679648251089,"Day2","Plus",2
+"1304","m18_5F_S17","Unclassified",0.375098140715295,"Day2","Plus",2
+"1305","m18_5F_S17","Other",3.42135447560997,"Day2","Plus",2
+"1306","m18_5N_S29","Escherichia-Shigella",20.4798516822073,"Day13","Plus",2
+"1307","m18_5N_S29","Bacteroides",58.3703738325037,"Day13","Plus",2
+"1308","m18_5N_S29","HT002",0.0422207161942153,"Day13","Plus",2
+"1309","m18_5N_S29","[Clostridium] innocuum group",0.951757768378086,"Day13","Plus",2
+"1310","m18_5N_S29","Ligilactobacillus",0.000778980003583308,"Day13","Plus",2
+"1311","m18_5N_S29","Dubosiella",0,"Day13","Plus",2
+"1312","m18_5N_S29","Blautia",0,"Day13","Plus",2
+"1313","m18_5N_S29","Faecalibaculum",0,"Day13","Plus",2
+"1314","m18_5N_S29","Lactobacillus",0.00140216400644995,"Day13","Plus",2
+"1315","m18_5N_S29","Enterococcus",2.14733627787775,"Day13","Plus",2
+"1316","m18_5N_S29","Turicibacter",0,"Day13","Plus",2
+"1317","m18_5N_S29","Clostridium sensu stricto 1",0.00124636800573329,"Day13","Plus",2
+"1318","m18_5N_S29","Paraclostridium",0.0040506960186332,"Day13","Plus",2
+"1319","m18_5N_S29","Ileibacterium",0,"Day13","Plus",2
+"1320","m18_5N_S29","Klebsiella",0.41301519789987,"Day13","Plus",2
+"1321","m18_5N_S29","Lachnospiraceae UCG-001",0,"Day13","Plus",2
+"1322","m18_5N_S29","Lachnospiraceae NK4A136 group",0,"Day13","Plus",2
+"1323","m18_5N_S29","Streptococcus",0,"Day13","Plus",2
+"1324","m18_5N_S29","Romboutsia",0,"Day13","Plus",2
+"1325","m18_5N_S29","Erysipelatoclostridium",0.619912286851597,"Day13","Plus",2
+"1326","m18_5N_S29","Bifidobacterium",0,"Day13","Plus",2
+"1327","m18_5N_S29","Lachnoclostridium",16.1837769624454,"Day13","Plus",2
+"1328","m18_5N_S29","Anaerostipes",0,"Day13","Plus",2
+"1329","m18_5N_S29","Lachnospiraceae UCG-006",0,"Day13","Plus",2
+"1330","m18_5N_S29","Salmonella",0,"Day13","Plus",2
+"1331","m18_5N_S29","Parabacteroides",0,"Day13","Plus",2
+"1332","m18_5N_S29","Cutibacterium",0.000311592001433323,"Day13","Plus",2
+"1333","m18_5N_S29","Unclassified",0.579405326665267,"Day13","Plus",2
+"1334","m18_5N_S29","Other",0.204560148940971,"Day13","Plus",2
+"1335","m18_6B_S5","Escherichia-Shigella",0,"Baseline","Minus",2
+"1336","m18_6B_S5","Bacteroides",7.00939085711662,"Baseline","Minus",2
+"1337","m18_6B_S5","HT002",1.76719552422719,"Baseline","Minus",2
+"1338","m18_6B_S5","[Clostridium] innocuum group",0,"Baseline","Minus",2
+"1339","m18_6B_S5","Ligilactobacillus",5.2679111274386,"Baseline","Minus",2
+"1340","m18_6B_S5","Dubosiella",3.43413006375374,"Baseline","Minus",2
+"1341","m18_6B_S5","Blautia",0.0234197414644227,"Baseline","Minus",2
+"1342","m18_6B_S5","Faecalibaculum",0.401809289830781,"Baseline","Minus",2
+"1343","m18_6B_S5","Lactobacillus",5.60282873740041,"Baseline","Minus",2
+"1344","m18_6B_S5","Enterococcus",0,"Baseline","Minus",2
+"1345","m18_6B_S5","Turicibacter",0,"Baseline","Minus",2
+"1346","m18_6B_S5","Clostridium sensu stricto 1",0.347010156208145,"Baseline","Minus",2
+"1347","m18_6B_S5","Paraclostridium",0,"Baseline","Minus",2
+"1348","m18_6B_S5","Ileibacterium",4.35469428053177,"Baseline","Minus",2
+"1349","m18_6B_S5","Klebsiella",0,"Baseline","Minus",2
+"1350","m18_6B_S5","Lachnospiraceae UCG-001",3.18278878607673,"Baseline","Minus",2
+"1351","m18_6B_S5","Lachnospiraceae NK4A136 group",4.13258941213387,"Baseline","Minus",2
+"1352","m18_6B_S5","Streptococcus",0.0495947466305421,"Baseline","Minus",2
+"1353","m18_6B_S5","Romboutsia",0.0746982603571128,"Baseline","Minus",2
+"1354","m18_6B_S5","Erysipelatoclostridium",0,"Baseline","Minus",2
+"1355","m18_6B_S5","Bifidobacterium",0.118323268967312,"Baseline","Minus",2
+"1356","m18_6B_S5","Lachnoclostridium",0.893776930789306,"Baseline","Minus",2
+"1357","m18_6B_S5","Anaerostipes",0,"Baseline","Minus",2
+"1358","m18_6B_S5","Lachnospiraceae UCG-006",0.744686550486381,"Baseline","Minus",2
+"1359","m18_6B_S5","Salmonella",0,"Baseline","Minus",2
+"1360","m18_6B_S5","Parabacteroides",1.75005166119441,"Baseline","Minus",2
+"1361","m18_6B_S5","Cutibacterium",0,"Baseline","Minus",2
+"1362","m18_6B_S5","Unclassified",43.5495449988137,"Baseline","Minus",2
+"1363","m18_6B_S5","Other",17.295555606579,"Baseline","Minus",2
+"1364","m18_6F_S18","Escherichia-Shigella",29.5505605884901,"Day2","Minus",2
+"1365","m18_6F_S18","Bacteroides",0.0421080387340144,"Day2","Minus",2
+"1366","m18_6F_S18","HT002",0.0831398336665205,"Day2","Minus",2
+"1367","m18_6F_S18","[Clostridium] innocuum group",0,"Day2","Minus",2
+"1368","m18_6F_S18","Ligilactobacillus",67.2154613184525,"Day2","Minus",2
+"1369","m18_6F_S18","Dubosiella",0.150136010310416,"Day2","Minus",2
+"1370","m18_6F_S18","Blautia",0,"Day2","Minus",2
+"1371","m18_6F_S18","Faecalibaculum",0.013587577994043,"Day2","Minus",2
+"1372","m18_6F_S18","Lactobacillus",0.0550229643521147,"Day2","Minus",2
+"1373","m18_6F_S18","Enterococcus",0,"Day2","Minus",2
+"1374","m18_6F_S18","Turicibacter",0.0178925532000764,"Day2","Minus",2
+"1375","m18_6F_S18","Clostridium sensu stricto 1",0.0203141017534702,"Day2","Minus",2
+"1376","m18_6F_S18","Paraclostridium",0,"Day2","Minus",2
+"1377","m18_6F_S18","Ileibacterium",0.0289240521655371,"Day2","Minus",2
+"1378","m18_6F_S18","Klebsiella",0,"Day2","Minus",2
+"1379","m18_6F_S18","Lachnospiraceae UCG-001",0.0324218445204392,"Day2","Minus",2
+"1380","m18_6F_S18","Lachnospiraceae NK4A136 group",0.10722078872527,"Day2","Minus",2
+"1381","m18_6F_S18","Streptococcus",0.000538121900754178,"Day2","Minus",2
+"1382","m18_6F_S18","Romboutsia",0.0118386818165919,"Day2","Minus",2
+"1383","m18_6F_S18","Erysipelatoclostridium",0,"Day2","Minus",2
+"1384","m18_6F_S18","Bifidobacterium",0.0108969684902721,"Day2","Minus",2
+"1385","m18_6F_S18","Lachnoclostridium",0.015067413221117,"Day2","Minus",2
+"1386","m18_6F_S18","Anaerostipes",0,"Day2","Minus",2
+"1387","m18_6F_S18","Lachnospiraceae UCG-006",0.000672652375942722,"Day2","Minus",2
+"1388","m18_6F_S18","Salmonella",0,"Day2","Minus",2
+"1389","m18_6F_S18","Parabacteroides",0.0142602303699857,"Day2","Minus",2
+"1390","m18_6F_S18","Cutibacterium",0.00376685330527925,"Day2","Minus",2
+"1391","m18_6F_S18","Unclassified",2.13809284217153,"Day2","Minus",2
+"1392","m18_6F_S18","Other",0.488076563984052,"Day2","Minus",2
+"1393","m18_6N_S30","Escherichia-Shigella",0.134333777078543,"Day13","Minus",2
+"1394","m18_6N_S30","Bacteroides",0,"Day13","Minus",2
+"1395","m18_6N_S30","HT002",0.00207465292785394,"Day13","Minus",2
+"1396","m18_6N_S30","[Clostridium] innocuum group",0,"Day13","Minus",2
+"1397","m18_6N_S30","Ligilactobacillus",21.6745906882661,"Day13","Minus",2
+"1398","m18_6N_S30","Dubosiella",0,"Day13","Minus",2
+"1399","m18_6N_S30","Blautia",0.164589132276413,"Day13","Minus",2
+"1400","m18_6N_S30","Faecalibaculum",0,"Day13","Minus",2
+"1401","m18_6N_S30","Lactobacillus",0.000691550975951315,"Day13","Minus",2
+"1402","m18_6N_S30","Enterococcus",0,"Day13","Minus",2
+"1403","m18_6N_S30","Turicibacter",0.503103335004581,"Day13","Minus",2
+"1404","m18_6N_S30","Clostridium sensu stricto 1",0,"Day13","Minus",2
+"1405","m18_6N_S30","Paraclostridium",0,"Day13","Minus",2
+"1406","m18_6N_S30","Ileibacterium",0,"Day13","Minus",2
+"1407","m18_6N_S30","Klebsiella",0,"Day13","Minus",2
+"1408","m18_6N_S30","Lachnospiraceae UCG-001",6.78843726768209,"Day13","Minus",2
+"1409","m18_6N_S30","Lachnospiraceae NK4A136 group",14.4138241040093,"Day13","Minus",2
+"1410","m18_6N_S30","Streptococcus",0,"Day13","Minus",2
+"1411","m18_6N_S30","Romboutsia",0.110993931640186,"Day13","Minus",2
+"1412","m18_6N_S30","Erysipelatoclostridium",0,"Day13","Minus",2
+"1413","m18_6N_S30","Bifidobacterium",0,"Day13","Minus",2
+"1414","m18_6N_S30","Lachnoclostridium",1.97558825054892,"Day13","Minus",2
+"1415","m18_6N_S30","Anaerostipes",0,"Day13","Minus",2
+"1416","m18_6N_S30","Lachnospiraceae UCG-006",0.87031690323473,"Day13","Minus",2
+"1417","m18_6N_S30","Salmonella",0,"Day13","Minus",2
+"1418","m18_6N_S30","Parabacteroides",0,"Day13","Minus",2
+"1419","m18_6N_S30","Cutibacterium",0,"Day13","Minus",2
+"1420","m18_6N_S30","Unclassified",23.1567573174738,"Day13","Minus",2
+"1421","m18_6N_S30","Other",30.2046990888816,"Day13","Minus",2
+"1422","m18_7B_S6","Escherichia-Shigella",0.000558840294620603,"Baseline","Minus",2
+"1423","m18_7B_S6","Bacteroides",5.5006650199506,"Baseline","Minus",2
+"1424","m18_7B_S6","HT002",0.0109532697745638,"Baseline","Minus",2
+"1425","m18_7B_S6","[Clostridium] innocuum group",0,"Baseline","Minus",2
+"1426","m18_7B_S6","Ligilactobacillus",4.16526025192521,"Baseline","Minus",2
+"1427","m18_7B_S6","Dubosiella",1.64924947748432,"Baseline","Minus",2
+"1428","m18_7B_S6","Blautia",0.012965094835198,"Baseline","Minus",2
+"1429","m18_7B_S6","Faecalibaculum",0.754769701914587,"Baseline","Minus",2
+"1430","m18_7B_S6","Lactobacillus",0.0530898279889573,"Baseline","Minus",2
+"1431","m18_7B_S6","Enterococcus",0,"Baseline","Minus",2
+"1432","m18_7B_S6","Turicibacter",0,"Baseline","Minus",2
+"1433","m18_7B_S6","Clostridium sensu stricto 1",0.149322126722625,"Baseline","Minus",2
+"1434","m18_7B_S6","Paraclostridium",0,"Baseline","Minus",2
+"1435","m18_7B_S6","Ileibacterium",8.29184875546266,"Baseline","Minus",2
+"1436","m18_7B_S6","Klebsiella",0,"Baseline","Minus",2
+"1437","m18_7B_S6","Lachnospiraceae UCG-001",14.8615752590225,"Baseline","Minus",2
+"1438","m18_7B_S6","Lachnospiraceae NK4A136 group",4.1879491678868,"Baseline","Minus",2
+"1439","m18_7B_S6","Streptococcus",0.0430307026857865,"Baseline","Minus",2
+"1440","m18_7B_S6","Romboutsia",0.182629008282013,"Baseline","Minus",2
+"1441","m18_7B_S6","Erysipelatoclostridium",0,"Baseline","Minus",2
+"1442","m18_7B_S6","Bifidobacterium",0.36346972762124,"Baseline","Minus",2
+"1443","m18_7B_S6","Lachnoclostridium",1.4197896525131,"Baseline","Minus",2
+"1444","m18_7B_S6","Anaerostipes",0,"Baseline","Minus",2
+"1445","m18_7B_S6","Lachnospiraceae UCG-006",0.131215701176918,"Baseline","Minus",2
+"1446","m18_7B_S6","Salmonella",0,"Baseline","Minus",2
+"1447","m18_7B_S6","Parabacteroides",1.20944216561791,"Baseline","Minus",2
+"1448","m18_7B_S6","Cutibacterium",0.00122944864816533,"Baseline","Minus",2
+"1449","m18_7B_S6","Unclassified",39.3054732818455,"Baseline","Minus",2
+"1450","m18_7B_S6","Other",17.7055135183467,"Baseline","Minus",2
+"1451","m18_7F_S19","Escherichia-Shigella",45.8647744303104,"Day2","Minus",2
+"1452","m18_7F_S19","Bacteroides",0.000749961564469821,"Day2","Minus",2
+"1453","m18_7F_S19","HT002",41.8268563736109,"Day2","Minus",2
+"1454","m18_7F_S19","[Clostridium] innocuum group",0,"Day2","Minus",2
+"1455","m18_7F_S19","Ligilactobacillus",0.0176240967650408,"Day2","Minus",2
+"1456","m18_7F_S19","Dubosiella",0,"Day2","Minus",2
+"1457","m18_7F_S19","Blautia",0.00124993594078303,"Day2","Minus",2
+"1458","m18_7F_S19","Faecalibaculum",0,"Day2","Minus",2
+"1459","m18_7F_S19","Lactobacillus",0.00112494234670473,"Day2","Minus",2
+"1460","m18_7F_S19","Enterococcus",0.00574970532760196,"Day2","Minus",2
+"1461","m18_7F_S19","Turicibacter",0,"Day2","Minus",2
+"1462","m18_7F_S19","Clostridium sensu stricto 1",0,"Day2","Minus",2
+"1463","m18_7F_S19","Paraclostridium",0,"Day2","Minus",2
+"1464","m18_7F_S19","Ileibacterium",0,"Day2","Minus",2
+"1465","m18_7F_S19","Klebsiella",0,"Day2","Minus",2
+"1466","m18_7F_S19","Lachnospiraceae UCG-001",0,"Day2","Minus",2
+"1467","m18_7F_S19","Lachnospiraceae NK4A136 group",0,"Day2","Minus",2
+"1468","m18_7F_S19","Streptococcus",0.00174991031709625,"Day2","Minus",2
+"1469","m18_7F_S19","Romboutsia",0.00212489109933116,"Day2","Minus",2
+"1470","m18_7F_S19","Erysipelatoclostridium",0,"Day2","Minus",2
+"1471","m18_7F_S19","Bifidobacterium",0.00124993594078303,"Day2","Minus",2
+"1472","m18_7F_S19","Lachnoclostridium",0,"Day2","Minus",2
+"1473","m18_7F_S19","Anaerostipes",0.00174991031709625,"Day2","Minus",2
+"1474","m18_7F_S19","Lachnospiraceae UCG-006",0,"Day2","Minus",2
+"1475","m18_7F_S19","Salmonella",0,"Day2","Minus",2
+"1476","m18_7F_S19","Parabacteroides",0,"Day2","Minus",2
+"1477","m18_7F_S19","Cutibacterium",0.00137492953486134,"Day2","Minus",2
+"1478","m18_7F_S19","Unclassified",2.73773469109707,"Day2","Minus",2
+"1479","m18_7F_S19","Other",9.53588628582786,"Day2","Minus",2
+"1480","m18_7N_S31","Escherichia-Shigella",29.4215236696638,"Day13","Minus",2
+"1481","m18_7N_S31","Bacteroides",0.00363669109599479,"Day13","Minus",2
+"1482","m18_7N_S31","HT002",3.70076612959089,"Day13","Minus",2
+"1483","m18_7N_S31","[Clostridium] innocuum group",6.52734099001122,"Day13","Minus",2
+"1484","m18_7N_S31","Ligilactobacillus",0,"Day13","Minus",2
+"1485","m18_7N_S31","Dubosiella",0,"Day13","Minus",2
+"1486","m18_7N_S31","Blautia",40.9162383452709,"Day13","Minus",2
+"1487","m18_7N_S31","Faecalibaculum",0.00346351532951885,"Day13","Minus",2
+"1488","m18_7N_S31","Lactobacillus",0.00658067912608581,"Day13","Minus",2
+"1489","m18_7N_S31","Enterococcus",10.5888322411715,"Day13","Minus",2
+"1490","m18_7N_S31","Turicibacter",0.00069270306590377,"Day13","Minus",2
+"1491","m18_7N_S31","Clostridium sensu stricto 1",0.0488355661462158,"Day13","Minus",2
+"1492","m18_7N_S31","Paraclostridium",0,"Day13","Minus",2
+"1493","m18_7N_S31","Ileibacterium",0,"Day13","Minus",2
+"1494","m18_7N_S31","Klebsiella",0,"Day13","Minus",2
+"1495","m18_7N_S31","Lachnospiraceae UCG-001",0,"Day13","Minus",2
+"1496","m18_7N_S31","Lachnospiraceae NK4A136 group",4.93481664149845,"Day13","Minus",2
+"1497","m18_7N_S31","Streptococcus",0,"Day13","Minus",2
+"1498","m18_7N_S31","Romboutsia",0,"Day13","Minus",2
+"1499","m18_7N_S31","Erysipelatoclostridium",0,"Day13","Minus",2
+"1500","m18_7N_S31","Bifidobacterium",0,"Day13","Minus",2
+"1501","m18_7N_S31","Lachnoclostridium",0.00467574569485044,"Day13","Minus",2
+"1502","m18_7N_S31","Anaerostipes",0,"Day13","Minus",2
+"1503","m18_7N_S31","Lachnospiraceae UCG-006",0.0258031892049154,"Day13","Minus",2
+"1504","m18_7N_S31","Salmonella",0,"Day13","Minus",2
+"1505","m18_7N_S31","Parabacteroides",0.000519527299427827,"Day13","Minus",2
+"1506","m18_7N_S31","Cutibacterium",0.000519527299427827,"Day13","Minus",2
+"1507","m18_7N_S31","Unclassified",1.21205718956513,"Day13","Minus",2
+"1508","m18_7N_S31","Other",2.60369764896579,"Day13","Minus",2
+"1509","m18_8B_S7","Escherichia-Shigella",0,"Baseline","Plus",2
+"1510","m18_8B_S7","Bacteroides",10.333312273798,"Baseline","Plus",2
+"1511","m18_8B_S7","HT002",0,"Baseline","Plus",2
+"1512","m18_8B_S7","[Clostridium] innocuum group",0,"Baseline","Plus",2
+"1513","m18_8B_S7","Ligilactobacillus",8.38410185594676,"Baseline","Plus",2
+"1514","m18_8B_S7","Dubosiella",1.70792831334182,"Baseline","Plus",2
+"1515","m18_8B_S7","Blautia",0.0201569837931833,"Baseline","Plus",2
+"1516","m18_8B_S7","Faecalibaculum",0.995514318979756,"Baseline","Plus",2
+"1517","m18_8B_S7","Lactobacillus",0,"Baseline","Plus",2
+"1518","m18_8B_S7","Enterococcus",0,"Baseline","Plus",2
+"1519","m18_8B_S7","Turicibacter",0,"Baseline","Plus",2
+"1520","m18_8B_S7","Clostridium sensu stricto 1",0.00270765453938284,"Baseline","Plus",2
+"1521","m18_8B_S7","Paraclostridium",0,"Baseline","Plus",2
+"1522","m18_8B_S7","Ileibacterium",8.02789485876573,"Baseline","Plus",2
+"1523","m18_8B_S7","Klebsiella",0,"Baseline","Plus",2
+"1524","m18_8B_S7","Lachnospiraceae UCG-001",5.56964538751049,"Baseline","Plus",2
+"1525","m18_8B_S7","Lachnospiraceae NK4A136 group",4.10089322514749,"Baseline","Plus",2
+"1526","m18_8B_S7","Streptococcus",0.0565598948226637,"Baseline","Plus",2
+"1527","m18_8B_S7","Romboutsia",0.016245927236297,"Baseline","Plus",2
+"1528","m18_8B_S7","Erysipelatoclostridium",0,"Baseline","Plus",2
+"1529","m18_8B_S7","Bifidobacterium",0.260235686285128,"Baseline","Plus",2
+"1530","m18_8B_S7","Lachnoclostridium",1.07614225415249,"Baseline","Plus",2
+"1531","m18_8B_S7","Anaerostipes",0,"Baseline","Plus",2
+"1532","m18_8B_S7","Lachnospiraceae UCG-006",0.121844454272228,"Baseline","Plus",2
+"1533","m18_8B_S7","Salmonella",0,"Baseline","Plus",2
+"1534","m18_8B_S7","Parabacteroides",1.02349341588671,"Baseline","Plus",2
+"1535","m18_8B_S7","Cutibacterium",0.00240680403500696,"Baseline","Plus",2
+"1536","m18_8B_S7","Unclassified",42.4620401876104,"Baseline","Plus",2
+"1537","m18_8B_S7","Other",15.8388765038765,"Baseline","Plus",2
+"1538","m18_8F_S20","Escherichia-Shigella",20.6758195315346,"Day2","Plus",2
+"1539","m18_8F_S20","Bacteroides",44.7485968318638,"Day2","Plus",2
+"1540","m18_8F_S20","HT002",0.0305920715253242,"Day2","Plus",2
+"1541","m18_8F_S20","[Clostridium] innocuum group",8.63722047157767,"Day2","Plus",2
+"1542","m18_8F_S20","Ligilactobacillus",0,"Day2","Plus",2
+"1543","m18_8F_S20","Dubosiella",0,"Day2","Plus",2
+"1544","m18_8F_S20","Blautia",0,"Day2","Plus",2
+"1545","m18_8F_S20","Faecalibaculum",0,"Day2","Plus",2
+"1546","m18_8F_S20","Lactobacillus",0,"Day2","Plus",2
+"1547","m18_8F_S20","Enterococcus",4.65759868153477,"Day2","Plus",2
+"1548","m18_8F_S20","Turicibacter",0.0908920506590558,"Day2","Plus",2
+"1549","m18_8F_S20","Clostridium sensu stricto 1",5.43955324965606,"Day2","Plus",2
+"1550","m18_8F_S20","Paraclostridium",0,"Day2","Plus",2
+"1551","m18_8F_S20","Ileibacterium",0,"Day2","Plus",2
+"1552","m18_8F_S20","Klebsiella",0,"Day2","Plus",2
+"1553","m18_8F_S20","Lachnospiraceae UCG-001",0,"Day2","Plus",2
+"1554","m18_8F_S20","Lachnospiraceae NK4A136 group",0,"Day2","Plus",2
+"1555","m18_8F_S20","Streptococcus",0,"Day2","Plus",2
+"1556","m18_8F_S20","Romboutsia",13.4451270189883,"Day2","Plus",2
+"1557","m18_8F_S20","Erysipelatoclostridium",0,"Day2","Plus",2
+"1558","m18_8F_S20","Bifidobacterium",0,"Day2","Plus",2
+"1559","m18_8F_S20","Lachnoclostridium",0,"Day2","Plus",2
+"1560","m18_8F_S20","Anaerostipes",0,"Day2","Plus",2
+"1561","m18_8F_S20","Lachnospiraceae UCG-006",0,"Day2","Plus",2
+"1562","m18_8F_S20","Salmonella",0,"Day2","Plus",2
+"1563","m18_8F_S20","Parabacteroides",0,"Day2","Plus",2
+"1564","m18_8F_S20","Cutibacterium",0.00123782948368364,"Day2","Plus",2
+"1565","m18_8F_S20","Unclassified",0.917585312976342,"Day2","Plus",2
+"1566","m18_8F_S20","Other",1.35577695020037,"Day2","Plus",2
+"1567","m18_8N_S32","Escherichia-Shigella",1.23880078712814,"Day13","Plus",2
+"1568","m18_8N_S32","Bacteroides",48.7133927537909,"Day13","Plus",2
+"1569","m18_8N_S32","HT002",0,"Day13","Plus",2
+"1570","m18_8N_S32","[Clostridium] innocuum group",0.605046880425975,"Day13","Plus",2
+"1571","m18_8N_S32","Ligilactobacillus",0,"Day13","Plus",2
+"1572","m18_8N_S32","Dubosiella",0,"Day13","Plus",2
+"1573","m18_8N_S32","Blautia",2.5022572056951,"Day13","Plus",2
+"1574","m18_8N_S32","Faecalibaculum",0,"Day13","Plus",2
+"1575","m18_8N_S32","Lactobacillus",0.000810278967473087,"Day13","Plus",2
+"1576","m18_8N_S32","Enterococcus",0.768144461164487,"Day13","Plus",2
+"1577","m18_8N_S32","Turicibacter",1.34888297256627,"Day13","Plus",2
+"1578","m18_8N_S32","Clostridium sensu stricto 1",0.0763977312188911,"Day13","Plus",2
+"1579","m18_8N_S32","Paraclostridium",0,"Day13","Plus",2
+"1580","m18_8N_S32","Ileibacterium",0,"Day13","Plus",2
+"1581","m18_8N_S32","Klebsiella",0,"Day13","Plus",2
+"1582","m18_8N_S32","Lachnospiraceae UCG-001",0,"Day13","Plus",2
+"1583","m18_8N_S32","Lachnospiraceae NK4A136 group",28.8947794883667,"Day13","Plus",2
+"1584","m18_8N_S32","Streptococcus",0,"Day13","Plus",2
+"1585","m18_8N_S32","Romboutsia",0.371918046070147,"Day13","Plus",2
+"1586","m18_8N_S32","Erysipelatoclostridium",1.26750781340433,"Day13","Plus",2
+"1587","m18_8N_S32","Bifidobacterium",2.54913763167033,"Day13","Plus",2
+"1588","m18_8N_S32","Lachnoclostridium",0,"Day13","Plus",2
+"1589","m18_8N_S32","Anaerostipes",0,"Day13","Plus",2
+"1590","m18_8N_S32","Lachnospiraceae UCG-006",0,"Day13","Plus",2
+"1591","m18_8N_S32","Salmonella",0,"Day13","Plus",2
+"1592","m18_8N_S32","Parabacteroides",0,"Day13","Plus",2
+"1593","m18_8N_S32","Cutibacterium",0,"Day13","Plus",2
+"1594","m18_8N_S32","Unclassified",3.43037388586643,"Day13","Plus",2
+"1595","m18_8N_S32","Other",8.23255006366477,"Day13","Plus",2
+"1596","m18_9B_S8","Escherichia-Shigella",0,"Baseline","Minus",2
+"1597","m18_9B_S8","Bacteroides",9.8059267653386,"Baseline","Minus",2
+"1598","m18_9B_S8","HT002",0,"Baseline","Minus",2
+"1599","m18_9B_S8","[Clostridium] innocuum group",0,"Baseline","Minus",2
+"1600","m18_9B_S8","Ligilactobacillus",2.84453411828655,"Baseline","Minus",2
+"1601","m18_9B_S8","Dubosiella",1.50080844653888,"Baseline","Minus",2
+"1602","m18_9B_S8","Blautia",0.0304031177015243,"Baseline","Minus",2
+"1603","m18_9B_S8","Faecalibaculum",0.768369701911251,"Baseline","Minus",2
+"1604","m18_9B_S8","Lactobacillus",0.0179654786418098,"Baseline","Minus",2
+"1605","m18_9B_S8","Enterococcus",0,"Baseline","Minus",2
+"1606","m18_9B_S8","Turicibacter",0,"Baseline","Minus",2
+"1607","m18_9B_S8","Clostridium sensu stricto 1",0.04928990294035,"Baseline","Minus",2
+"1608","m18_9B_S8","Paraclostridium",0,"Baseline","Minus",2
+"1609","m18_9B_S8","Ileibacterium",16.6272808096442,"Baseline","Minus",2
+"1610","m18_9B_S8","Klebsiella",0,"Baseline","Minus",2
+"1611","m18_9B_S8","Lachnospiraceae UCG-001",3.26418927322729,"Baseline","Minus",2
+"1612","m18_9B_S8","Lachnospiraceae NK4A136 group",7.42665247854507,"Baseline","Minus",2
+"1613","m18_9B_S8","Streptococcus",0.0257965847164449,"Baseline","Minus",2
+"1614","m18_9B_S8","Romboutsia",0.0829175937314299,"Baseline","Minus",2
+"1615","m18_9B_S8","Erysipelatoclostridium",0,"Baseline","Minus",2
+"1616","m18_9B_S8","Bifidobacterium",0.895049359000935,"Baseline","Minus",2
+"1617","m18_9B_S8","Lachnoclostridium",0.942957302045761,"Baseline","Minus",2
+"1618","m18_9B_S8","Anaerostipes",0,"Baseline","Minus",2
+"1619","m18_9B_S8","Lachnospiraceae UCG-006",0.126219003791177,"Baseline","Minus",2
+"1620","m18_9B_S8","Salmonella",0,"Baseline","Minus",2
+"1621","m18_9B_S8","Parabacteroides",1.1714413381057,"Baseline","Minus",2
+"1622","m18_9B_S8","Cutibacterium",0,"Baseline","Minus",2
+"1623","m18_9B_S8","Unclassified",37.9882349147561,"Baseline","Minus",2
+"1624","m18_9B_S8","Other",16.4319638110769,"Baseline","Minus",2
+"1625","m18_9F_S21","Escherichia-Shigella",95.5059372004193,"Day2","Minus",2
+"1626","m18_9F_S21","Bacteroides",0,"Day2","Minus",2
+"1627","m18_9F_S21","HT002",0.00814111712741513,"Day2","Minus",2
+"1628","m18_9F_S21","[Clostridium] innocuum group",0,"Day2","Minus",2
+"1629","m18_9F_S21","Ligilactobacillus",0.000996871484989608,"Day2","Minus",2
+"1630","m18_9F_S21","Dubosiella",0,"Day2","Minus",2
+"1631","m18_9F_S21","Blautia",0.00797497187991686,"Day2","Minus",2
+"1632","m18_9F_S21","Faecalibaculum",0,"Day2","Minus",2
+"1633","m18_9F_S21","Lactobacillus",0.00199374296997922,"Day2","Minus",2
+"1634","m18_9F_S21","Enterococcus",0,"Day2","Minus",2
+"1635","m18_9F_S21","Turicibacter",0,"Day2","Minus",2
+"1636","m18_9F_S21","Clostridium sensu stricto 1",0,"Day2","Minus",2
+"1637","m18_9F_S21","Paraclostridium",0,"Day2","Minus",2
+"1638","m18_9F_S21","Ileibacterium",0,"Day2","Minus",2
+"1639","m18_9F_S21","Klebsiella",0,"Day2","Minus",2
+"1640","m18_9F_S21","Lachnospiraceae UCG-001",0,"Day2","Minus",2
+"1641","m18_9F_S21","Lachnospiraceae NK4A136 group",0,"Day2","Minus",2
+"1642","m18_9F_S21","Streptococcus",0.0104671505923909,"Day2","Minus",2
+"1643","m18_9F_S21","Romboutsia",0.0083072623749134,"Day2","Minus",2
+"1644","m18_9F_S21","Erysipelatoclostridium",0,"Day2","Minus",2
+"1645","m18_9F_S21","Bifidobacterium",0.00265832395997229,"Day2","Minus",2
+"1646","m18_9F_S21","Lachnoclostridium",0,"Day2","Minus",2
+"1647","m18_9F_S21","Anaerostipes",0.00598122890993765,"Day2","Minus",2
+"1648","m18_9F_S21","Lachnospiraceae UCG-006",0,"Day2","Minus",2
+"1649","m18_9F_S21","Salmonella",0,"Day2","Minus",2
+"1650","m18_9F_S21","Parabacteroides",0,"Day2","Minus",2
+"1651","m18_9F_S21","Cutibacterium",0.00299061445496882,"Day2","Minus",2
+"1652","m18_9F_S21","Unclassified",4.00410046470826,"Day2","Minus",2
+"1653","m18_9F_S21","Other",0.440451051117904,"Day2","Minus",2
+"1654","m18_9N_S33","Escherichia-Shigella",34.7606086296908,"Day13","Minus",2
+"1655","m18_9N_S33","Bacteroides",0,"Day13","Minus",2
+"1656","m18_9N_S33","HT002",0.976083173441614,"Day13","Minus",2
+"1657","m18_9N_S33","[Clostridium] innocuum group",4.57297755566463,"Day13","Minus",2
+"1658","m18_9N_S33","Ligilactobacillus",0,"Day13","Minus",2
+"1659","m18_9N_S33","Dubosiella",0,"Day13","Minus",2
+"1660","m18_9N_S33","Blautia",37.6904198830931,"Day13","Minus",2
+"1661","m18_9N_S33","Faecalibaculum",0,"Day13","Minus",2
+"1662","m18_9N_S33","Lactobacillus",0.00245415197893891,"Day13","Minus",2
+"1663","m18_9N_S33","Enterococcus",8.83405470527866,"Day13","Minus",2
+"1664","m18_9N_S33","Turicibacter",0,"Day13","Minus",2
+"1665","m18_9N_S33","Clostridium sensu stricto 1",0.0495292490294944,"Day13","Minus",2
+"1666","m18_9N_S33","Paraclostridium",0,"Day13","Minus",2
+"1667","m18_9N_S33","Ileibacterium",0,"Day13","Minus",2
+"1668","m18_9N_S33","Klebsiella",0,"Day13","Minus",2
+"1669","m18_9N_S33","Lachnospiraceae UCG-001",0,"Day13","Minus",2
+"1670","m18_9N_S33","Lachnospiraceae NK4A136 group",7.337691312302,"Day13","Minus",2
+"1671","m18_9N_S33","Streptococcus",0,"Day13","Minus",2
+"1672","m18_9N_S33","Romboutsia",0,"Day13","Minus",2
+"1673","m18_9N_S33","Erysipelatoclostridium",0,"Day13","Minus",2
+"1674","m18_9N_S33","Bifidobacterium",0,"Day13","Minus",2
+"1675","m18_9N_S33","Lachnoclostridium",0.00334657088037125,"Day13","Minus",2
+"1676","m18_9N_S33","Anaerostipes",0,"Day13","Minus",2
+"1677","m18_9N_S33","Lachnospiraceae UCG-006",0.504662888759984,"Day13","Minus",2
+"1678","m18_9N_S33","Salmonella",0,"Day13","Minus",2
+"1679","m18_9N_S33","Parabacteroides",0,"Day13","Minus",2
+"1680","m18_9N_S33","Cutibacterium",0,"Day13","Minus",2
+"1681","m18_9N_S33","Unclassified",1.69403417964392,"Day13","Minus",2
+"1682","m18_9N_S33","Other",3.57413770023649,"Day13","Minus",2
+"1683","m18_BLB_S12","Escherichia-Shigella",0,"Ctrl","Blank",2
+"1684","m18_BLB_S12","Bacteroides",3.58455882352941,"Ctrl","Blank",2
+"1685","m18_BLB_S12","HT002",0,"Ctrl","Blank",2
+"1686","m18_BLB_S12","[Clostridium] innocuum group",0,"Ctrl","Blank",2
+"1687","m18_BLB_S12","Ligilactobacillus",0,"Ctrl","Blank",2
+"1688","m18_BLB_S12","Dubosiella",0,"Ctrl","Blank",2
+"1689","m18_BLB_S12","Blautia",0,"Ctrl","Blank",2
+"1690","m18_BLB_S12","Faecalibaculum",0,"Ctrl","Blank",2
+"1691","m18_BLB_S12","Lactobacillus",0,"Ctrl","Blank",2
+"1692","m18_BLB_S12","Enterococcus",0,"Ctrl","Blank",2
+"1693","m18_BLB_S12","Turicibacter",0,"Ctrl","Blank",2
+"1694","m18_BLB_S12","Clostridium sensu stricto 1",0,"Ctrl","Blank",2
+"1695","m18_BLB_S12","Paraclostridium",0,"Ctrl","Blank",2
+"1696","m18_BLB_S12","Ileibacterium",0,"Ctrl","Blank",2
+"1697","m18_BLB_S12","Klebsiella",0,"Ctrl","Blank",2
+"1698","m18_BLB_S12","Lachnospiraceae UCG-001",0.459558823529412,"Ctrl","Blank",2
+"1699","m18_BLB_S12","Lachnospiraceae NK4A136 group",0,"Ctrl","Blank",2
+"1700","m18_BLB_S12","Streptococcus",0.643382352941176,"Ctrl","Blank",2
+"1701","m18_BLB_S12","Romboutsia",0,"Ctrl","Blank",2
+"1702","m18_BLB_S12","Erysipelatoclostridium",0,"Ctrl","Blank",2
+"1703","m18_BLB_S12","Bifidobacterium",1.10294117647059,"Ctrl","Blank",2
+"1704","m18_BLB_S12","Lachnoclostridium",0,"Ctrl","Blank",2
+"1705","m18_BLB_S12","Anaerostipes",0,"Ctrl","Blank",2
+"1706","m18_BLB_S12","Lachnospiraceae UCG-006",0,"Ctrl","Blank",2
+"1707","m18_BLB_S12","Salmonella",0,"Ctrl","Blank",2
+"1708","m18_BLB_S12","Parabacteroides",0,"Ctrl","Blank",2
+"1709","m18_BLB_S12","Cutibacterium",11.2132352941176,"Ctrl","Blank",2
+"1710","m18_BLB_S12","Unclassified",46.6911764705882,"Ctrl","Blank",2
+"1711","m18_BLB_S12","Other",36.3051470588235,"Ctrl","Blank",2
+"1712","m18_neg_S38","Escherichia-Shigella",2.81815684581705,"Ctrl","Ctrl",2
+"1713","m18_neg_S38","Bacteroides",0.0854360659046188,"Ctrl","Ctrl",2
+"1714","m18_neg_S38","HT002",0.689879414056587,"Ctrl","Ctrl",2
+"1715","m18_neg_S38","[Clostridium] innocuum group",0.0140151026746422,"Ctrl","Ctrl",2
+"1716","m18_neg_S38","Ligilactobacillus",0,"Ctrl","Ctrl",2
+"1717","m18_neg_S38","Dubosiella",0,"Ctrl","Ctrl",2
+"1718","m18_neg_S38","Blautia",16.7246144445254,"Ctrl","Ctrl",2
+"1719","m18_neg_S38","Faecalibaculum",0,"Ctrl","Ctrl",2
+"1720","m18_neg_S38","Lactobacillus",0.600631240224466,"Ctrl","Ctrl",2
+"1721","m18_neg_S38","Enterococcus",0.496695238789319,"Ctrl","Ctrl",2
+"1722","m18_neg_S38","Turicibacter",0.230296167149721,"Ctrl","Ctrl",2
+"1723","m18_neg_S38","Clostridium sensu stricto 1",2.78261454543416,"Ctrl","Ctrl",2
+"1724","m18_neg_S38","Paraclostridium",0.0141272234960393,"Ctrl","Ctrl",2
+"1725","m18_neg_S38","Ileibacterium",0,"Ctrl","Ctrl",2
+"1726","m18_neg_S38","Klebsiella",0.157753995705773,"Ctrl","Ctrl",2
+"1727","m18_neg_S38","Lachnospiraceae UCG-001",0,"Ctrl","Ctrl",2
+"1728","m18_neg_S38","Lachnospiraceae NK4A136 group",0,"Ctrl","Ctrl",2
+"1729","m18_neg_S38","Streptococcus",24.0783948783209,"Ctrl","Ctrl",2
+"1730","m18_neg_S38","Romboutsia",5.54314128905308,"Ctrl","Ctrl",2
+"1731","m18_neg_S38","Erysipelatoclostridium",0.124229870108028,"Ctrl","Ctrl",2
+"1732","m18_neg_S38","Bifidobacterium",14.0384238054928,"Ctrl","Ctrl",2
+"1733","m18_neg_S38","Lachnoclostridium",0.00751209503360822,"Ctrl","Ctrl",2
+"1734","m18_neg_S38","Anaerostipes",10.7822109104771,"Ctrl","Ctrl",2
+"1735","m18_neg_S38","Lachnospiraceae UCG-006",0,"Ctrl","Ctrl",2
+"1736","m18_neg_S38","Salmonella",0,"Ctrl","Ctrl",2
+"1737","m18_neg_S38","Parabacteroides",0,"Ctrl","Ctrl",2
+"1738","m18_neg_S38","Cutibacterium",0.00190605396375134,"Ctrl","Ctrl",2
+"1739","m18_neg_S38","Unclassified",0.357104816149885,"Ctrl","Ctrl",2
+"1740","m18_neg_S38","Other",20.452855997623,"Ctrl","Ctrl",2
+"1741","m18_pos_S37","Escherichia-Shigella",0.941216333268794,"Ctrl","Ctrl",2
+"1742","m18_pos_S37","Bacteroides",68.3271596131702,"Ctrl","Ctrl",2
+"1743","m18_pos_S37","HT002",0.163556878050769,"Ctrl","Ctrl",2
+"1744","m18_pos_S37","[Clostridium] innocuum group",0.0036940416382183,"Ctrl","Ctrl",2
+"1745","m18_pos_S37","Ligilactobacillus",0,"Ctrl","Ctrl",2
+"1746","m18_pos_S37","Dubosiella",0,"Ctrl","Ctrl",2
+"1747","m18_pos_S37","Blautia",6.39285750680213,"Ctrl","Ctrl",2
+"1748","m18_pos_S37","Faecalibaculum",0,"Ctrl","Ctrl",2
+"1749","m18_pos_S37","Lactobacillus",0.182154466988006,"Ctrl","Ctrl",2
+"1750","m18_pos_S37","Enterococcus",0.198331821748479,"Ctrl","Ctrl",2
+"1751","m18_pos_S37","Turicibacter",0.0620344233728384,"Ctrl","Ctrl",2
+"1752","m18_pos_S37","Clostridium sensu stricto 1",0.909243765986284,"Ctrl","Ctrl",2
+"1753","m18_pos_S37","Paraclostridium",0.00394880313050922,"Ctrl","Ctrl",2
+"1754","m18_pos_S37","Ileibacterium",0,"Ctrl","Ctrl",2
+"1755","m18_pos_S37","Klebsiella",0.0402523157819649,"Ctrl","Ctrl",2
+"1756","m18_pos_S37","Lachnospiraceae UCG-001",0,"Ctrl","Ctrl",2
+"1757","m18_pos_S37","Lachnospiraceae NK4A136 group",0,"Ctrl","Ctrl",2
+"1758","m18_pos_S37","Streptococcus",7.65074237498854,"Ctrl","Ctrl",2
+"1759","m18_pos_S37","Romboutsia",1.55340819924387,"Ctrl","Ctrl",2
+"1760","m18_pos_S37","Erysipelatoclostridium",0.0328642325055283,"Ctrl","Ctrl",2
+"1761","m18_pos_S37","Bifidobacterium",3.59099061458662,"Ctrl","Ctrl",2
+"1762","m18_pos_S37","Lachnoclostridium",0.00382142238436376,"Ctrl","Ctrl",2
+"1763","m18_pos_S37","Anaerostipes",3.21419836748836,"Ctrl","Ctrl",2
+"1764","m18_pos_S37","Lachnospiraceae UCG-006",0,"Ctrl","Ctrl",2
+"1765","m18_pos_S37","Salmonella",0,"Ctrl","Ctrl",2
+"1766","m18_pos_S37","Parabacteroides",0,"Ctrl","Ctrl",2
+"1767","m18_pos_S37","Cutibacterium",0.000382142238436376,"Ctrl","Ctrl",2
+"1768","m18_pos_S37","Unclassified",0.519968205765764,"Ctrl","Ctrl",2
+"1769","m18_pos_S37","Other",6.20917447086038,"Ctrl","Ctrl",2
+"1770","m27_A1_S41","Escherichia-Shigella",0,"Baseline","Minus",3
+"1771","m27_A1_S41","Bacteroides",7.4564365587449,"Baseline","Minus",3
+"1772","m27_A1_S41","HT002",0.654501996495629,"Baseline","Minus",3
+"1773","m27_A1_S41","[Clostridium] innocuum group",0,"Baseline","Minus",3
+"1774","m27_A1_S41","Ligilactobacillus",3.18816854593496,"Baseline","Minus",3
+"1775","m27_A1_S41","Dubosiella",4.57809052232558,"Baseline","Minus",3
+"1776","m27_A1_S41","Blautia",0,"Baseline","Minus",3
+"1777","m27_A1_S41","Faecalibaculum",5.51782841030397,"Baseline","Minus",3
+"1778","m27_A1_S41","Lactobacillus",8.42231717982154,"Baseline","Minus",3
+"1779","m27_A1_S41","Enterococcus",0.00124489205229792,"Baseline","Minus",3
+"1780","m27_A1_S41","Turicibacter",2.40746561763763,"Baseline","Minus",3
+"1781","m27_A1_S41","Clostridium sensu stricto 1",6.60508600647966,"Baseline","Minus",3
+"1782","m27_A1_S41","Paraclostridium",0,"Baseline","Minus",3
+"1783","m27_A1_S41","Ileibacterium",0,"Baseline","Minus",3
+"1784","m27_A1_S41","Klebsiella",0,"Baseline","Minus",3
+"1785","m27_A1_S41","Lachnospiraceae UCG-001",0.782725877882314,"Baseline","Minus",3
+"1786","m27_A1_S41","Lachnospiraceae NK4A136 group",3.23236221379154,"Baseline","Minus",3
+"1787","m27_A1_S41","Streptococcus",0.0261427330982562,"Baseline","Minus",3
+"1788","m27_A1_S41","Romboutsia",2.39890698477808,"Baseline","Minus",3
+"1789","m27_A1_S41","Erysipelatoclostridium",0.249600856485732,"Baseline","Minus",3
+"1790","m27_A1_S41","Bifidobacterium",1.21376975099047,"Baseline","Minus",3
+"1791","m27_A1_S41","Lachnoclostridium",0.506671065285251,"Baseline","Minus",3
+"1792","m27_A1_S41","Anaerostipes",0,"Baseline","Minus",3
+"1793","m27_A1_S41","Lachnospiraceae UCG-006",0.139583521363904,"Baseline","Minus",3
+"1794","m27_A1_S41","Salmonella",0,"Baseline","Minus",3
+"1795","m27_A1_S41","Parabacteroides",1.06173730910358,"Baseline","Minus",3
+"1796","m27_A1_S41","Cutibacterium",0.00155611506537239,"Baseline","Minus",3
+"1797","m27_A1_S41","Unclassified",37.5579263833085,"Baseline","Minus",3
+"1798","m27_A1_S41","Other",13.9978774590508,"Baseline","Minus",3
+"1799","m27_A16_S56","Escherichia-Shigella",5.06128261353069,"Day13","Minus",3
+"1800","m27_A16_S56","Bacteroides",0,"Day13","Minus",3
+"1801","m27_A16_S56","HT002",0.0891139210274522,"Day13","Minus",3
+"1802","m27_A16_S56","[Clostridium] innocuum group",6.44889234530823,"Day13","Minus",3
+"1803","m27_A16_S56","Ligilactobacillus",0,"Day13","Minus",3
+"1804","m27_A16_S56","Dubosiella",0,"Day13","Minus",3
+"1805","m27_A16_S56","Blautia",7.56781688805829,"Day13","Minus",3
+"1806","m27_A16_S56","Faecalibaculum",0,"Day13","Minus",3
+"1807","m27_A16_S56","Lactobacillus",0,"Day13","Minus",3
+"1808","m27_A16_S56","Enterococcus",1.27386633508924,"Day13","Minus",3
+"1809","m27_A16_S56","Turicibacter",10.9353379238695,"Day13","Minus",3
+"1810","m27_A16_S56","Clostridium sensu stricto 1",4.57182776085227,"Day13","Minus",3
+"1811","m27_A16_S56","Paraclostridium",0.698282952372565,"Day13","Minus",3
+"1812","m27_A16_S56","Ileibacterium",0,"Day13","Minus",3
+"1813","m27_A16_S56","Klebsiella",0.00283612143973466,"Day13","Minus",3
+"1814","m27_A16_S56","Lachnospiraceae UCG-001",3.85145291515967,"Day13","Minus",3
+"1815","m27_A16_S56","Lachnospiraceae NK4A136 group",9.85626835082524,"Day13","Minus",3
+"1816","m27_A16_S56","Streptococcus",0,"Day13","Minus",3
+"1817","m27_A16_S56","Romboutsia",10.840999568611,"Day13","Minus",3
+"1818","m27_A16_S56","Erysipelatoclostridium",1.15758535606012,"Day13","Minus",3
+"1819","m27_A16_S56","Bifidobacterium",0,"Day13","Minus",3
+"1820","m27_A16_S56","Lachnoclostridium",0.324661270074889,"Day13","Minus",3
+"1821","m27_A16_S56","Anaerostipes",1.25520764140678,"Day13","Minus",3
+"1822","m27_A16_S56","Lachnospiraceae UCG-006",0.0159718417921899,"Day13","Minus",3
+"1823","m27_A16_S56","Salmonella",0,"Day13","Minus",3
+"1824","m27_A16_S56","Parabacteroides",0,"Day13","Minus",3
+"1825","m27_A16_S56","Cutibacterium",0.00119415639567775,"Day13","Minus",3
+"1826","m27_A16_S56","Unclassified",6.29887644810121,"Day13","Minus",3
+"1827","m27_A16_S56","Other",29.7485255900252,"Day13","Minus",3
+"1828","m27_A6_S49","Escherichia-Shigella",35.6421879078092,"Day2","Minus",3
+"1829","m27_A6_S49","Bacteroides",0,"Day2","Minus",3
+"1830","m27_A6_S49","HT002",0.00213059480880575,"Day2","Minus",3
+"1831","m27_A6_S49","[Clostridium] innocuum group",19.1661650891388,"Day2","Minus",3
+"1832","m27_A6_S49","Ligilactobacillus",0,"Day2","Minus",3
+"1833","m27_A6_S49","Dubosiella",0,"Day2","Minus",3
+"1834","m27_A6_S49","Blautia",0,"Day2","Minus",3
+"1835","m27_A6_S49","Faecalibaculum",0,"Day2","Minus",3
+"1836","m27_A6_S49","Lactobacillus",0.00146478393105395,"Day2","Minus",3
+"1837","m27_A6_S49","Enterococcus",6.90618991056828,"Day2","Minus",3
+"1838","m27_A6_S49","Turicibacter",0.049669491480284,"Day2","Minus",3
+"1839","m27_A6_S49","Clostridium sensu stricto 1",0.673667446109268,"Day2","Minus",3
+"1840","m27_A6_S49","Paraclostridium",7.33044460187173,"Day2","Minus",3
+"1841","m27_A6_S49","Ileibacterium",0,"Day2","Minus",3
+"1842","m27_A6_S49","Klebsiella",0.15952828630933,"Day2","Minus",3
+"1843","m27_A6_S49","Lachnospiraceae UCG-001",0,"Day2","Minus",3
+"1844","m27_A6_S49","Lachnospiraceae NK4A136 group",0,"Day2","Minus",3
+"1845","m27_A6_S49","Streptococcus",0.00159794610660431,"Day2","Minus",3
+"1846","m27_A6_S49","Romboutsia",0.0127835688528345,"Day2","Minus",3
+"1847","m27_A6_S49","Erysipelatoclostridium",12.6497408664064,"Day2","Minus",3
+"1848","m27_A6_S49","Bifidobacterium",0.000532648702201437,"Day2","Minus",3
+"1849","m27_A6_S49","Lachnoclostridium",0,"Day2","Minus",3
+"1850","m27_A6_S49","Anaerostipes",0,"Day2","Minus",3
+"1851","m27_A6_S49","Lachnospiraceae UCG-006",0,"Day2","Minus",3
+"1852","m27_A6_S49","Salmonella",0,"Day2","Minus",3
+"1853","m27_A6_S49","Parabacteroides",0,"Day2","Minus",3
+"1854","m27_A6_S49","Cutibacterium",0.00186427045770503,"Day2","Minus",3
+"1855","m27_A6_S49","Unclassified",1.06969175619604,"Day2","Minus",3
+"1856","m27_A6_S49","Other",16.3323408312516,"Day2","Minus",3
+"1857","m27_B1_S42","Escherichia-Shigella",0,"Baseline","Minus",3
+"1858","m27_B1_S42","Bacteroides",2.50025341962912,"Baseline","Minus",3
+"1859","m27_B1_S42","HT002",2.00201507002061,"Baseline","Minus",3
+"1860","m27_B1_S42","[Clostridium] innocuum group",0,"Baseline","Minus",3
+"1861","m27_B1_S42","Ligilactobacillus",1.65598208553604,"Baseline","Minus",3
+"1862","m27_B1_S42","Dubosiella",4.89407059502929,"Baseline","Minus",3
+"1863","m27_B1_S42","Blautia",0,"Baseline","Minus",3
+"1864","m27_B1_S42","Faecalibaculum",6.68444187782409,"Baseline","Minus",3
+"1865","m27_B1_S42","Lactobacillus",16.1776947721834,"Baseline","Minus",3
+"1866","m27_B1_S42","Enterococcus",0,"Baseline","Minus",3
+"1867","m27_B1_S42","Turicibacter",0.84288904520699,"Baseline","Minus",3
+"1868","m27_B1_S42","Clostridium sensu stricto 1",6.1097168765186,"Baseline","Minus",3
+"1869","m27_B1_S42","Paraclostridium",0,"Baseline","Minus",3
+"1870","m27_B1_S42","Ileibacterium",0,"Baseline","Minus",3
+"1871","m27_B1_S42","Klebsiella",0,"Baseline","Minus",3
+"1872","m27_B1_S42","Lachnospiraceae UCG-001",0.474278675582942,"Baseline","Minus",3
+"1873","m27_B1_S42","Lachnospiraceae NK4A136 group",3.81834266634311,"Baseline","Minus",3
+"1874","m27_B1_S42","Streptococcus",0.00967602220263126,"Baseline","Minus",3
+"1875","m27_B1_S42","Romboutsia",1.45508943409093,"Baseline","Minus",3
+"1876","m27_B1_S42","Erysipelatoclostridium",0.00875449627857114,"Baseline","Minus",3
+"1877","m27_B1_S42","Bifidobacterium",1.04731421269433,"Baseline","Minus",3
+"1878","m27_B1_S42","Lachnoclostridium",0.418833532485325,"Baseline","Minus",3
+"1879","m27_B1_S42","Anaerostipes",0,"Baseline","Minus",3
+"1880","m27_B1_S42","Lachnospiraceae UCG-006",0.131317444178567,"Baseline","Minus",3
+"1881","m27_B1_S42","Salmonella",0,"Baseline","Minus",3
+"1882","m27_B1_S42","Parabacteroides",0.394720270805752,"Baseline","Minus",3
+"1883","m27_B1_S42","Cutibacterium",0,"Baseline","Minus",3
+"1884","m27_B1_S42","Unclassified",39.8166777761736,"Baseline","Minus",3
+"1885","m27_B1_S42","Other",11.557931727216,"Baseline","Minus",3
+"1886","m27_B16_S57","Escherichia-Shigella",8.01478577884293,"Day13","Minus",3
+"1887","m27_B16_S57","Bacteroides",0,"Day13","Minus",3
+"1888","m27_B16_S57","HT002",5.66693408345435,"Day13","Minus",3
+"1889","m27_B16_S57","[Clostridium] innocuum group",4.68026768758949,"Day13","Minus",3
+"1890","m27_B16_S57","Ligilactobacillus",0,"Day13","Minus",3
+"1891","m27_B16_S57","Dubosiella",0,"Day13","Minus",3
+"1892","m27_B16_S57","Blautia",2.9526875387162,"Day13","Minus",3
+"1893","m27_B16_S57","Faecalibaculum",0,"Day13","Minus",3
+"1894","m27_B16_S57","Lactobacillus",0.000812405430930306,"Day13","Minus",3
+"1895","m27_B16_S57","Enterococcus",3.23093639880983,"Day13","Minus",3
+"1896","m27_B16_S57","Turicibacter",8.0669828277802,"Day13","Minus",3
+"1897","m27_B16_S57","Clostridium sensu stricto 1",9.785829618271,"Day13","Minus",3
+"1898","m27_B16_S57","Paraclostridium",0.140952342266408,"Day13","Minus",3
+"1899","m27_B16_S57","Ileibacterium",0,"Day13","Minus",3
+"1900","m27_B16_S57","Klebsiella",0,"Day13","Minus",3
+"1901","m27_B16_S57","Lachnospiraceae UCG-001",0.0310745077330842,"Day13","Minus",3
+"1902","m27_B16_S57","Lachnospiraceae NK4A136 group",12.0924517380399,"Day13","Minus",3
+"1903","m27_B16_S57","Streptococcus",0,"Day13","Minus",3
+"1904","m27_B16_S57","Romboutsia",11.8424339666711,"Day13","Minus",3
+"1905","m27_B16_S57","Erysipelatoclostridium",0.832512465345831,"Day13","Minus",3
+"1906","m27_B16_S57","Bifidobacterium",0,"Day13","Minus",3
+"1907","m27_B16_S57","Lachnoclostridium",1.34006275831954,"Day13","Minus",3
+"1908","m27_B16_S57","Anaerostipes",1.27771064149564,"Day13","Minus",3
+"1909","m27_B16_S57","Lachnospiraceae UCG-006",0.070476171133204,"Day13","Minus",3
+"1910","m27_B16_S57","Salmonella",0,"Day13","Minus",3
+"1911","m27_B16_S57","Parabacteroides",0,"Day13","Minus",3
+"1912","m27_B16_S57","Cutibacterium",0.000406202715465153,"Day13","Minus",3
+"1913","m27_B16_S57","Unclassified",8.15715983061347,"Day13","Minus",3
+"1914","m27_B16_S57","Other",21.8155230367715,"Day13","Minus",3
+"1915","m27_B6_S50","Escherichia-Shigella",34.7954558214355,"Day2","Minus",3
+"1916","m27_B6_S50","Bacteroides",0,"Day2","Minus",3
+"1917","m27_B6_S50","HT002",0,"Day2","Minus",3
+"1918","m27_B6_S50","[Clostridium] innocuum group",24.8647071890096,"Day2","Minus",3
+"1919","m27_B6_S50","Ligilactobacillus",0,"Day2","Minus",3
+"1920","m27_B6_S50","Dubosiella",0,"Day2","Minus",3
+"1921","m27_B6_S50","Blautia",0.000488201392838574,"Day2","Minus",3
+"1922","m27_B6_S50","Faecalibaculum",0,"Day2","Minus",3
+"1923","m27_B6_S50","Lactobacillus",0.00158665452672536,"Day2","Minus",3
+"1924","m27_B6_S50","Enterococcus",2.23083626457586,"Day2","Minus",3
+"1925","m27_B6_S50","Turicibacter",0.00671276915153039,"Day2","Minus",3
+"1926","m27_B6_S50","Clostridium sensu stricto 1",0.0141578403923186,"Day2","Minus",3
+"1927","m27_B6_S50","Paraclostridium",7.10284206440841,"Day2","Minus",3
+"1928","m27_B6_S50","Ileibacterium",0,"Day2","Minus",3
+"1929","m27_B6_S50","Klebsiella",1.01814400476485,"Day2","Minus",3
+"1930","m27_B6_S50","Lachnospiraceae UCG-001",0,"Day2","Minus",3
+"1931","m27_B6_S50","Lachnospiraceae NK4A136 group",0.0064686684551111,"Day2","Minus",3
+"1932","m27_B6_S50","Streptococcus",0.00158665452672536,"Day2","Minus",3
+"1933","m27_B6_S50","Romboutsia",0.000854352437467504,"Day2","Minus",3
+"1934","m27_B6_S50","Erysipelatoclostridium",16.427366617277,"Day2","Minus",3
+"1935","m27_B6_S50","Bifidobacterium",0.00036615104462893,"Day2","Minus",3
+"1936","m27_B6_S50","Lachnoclostridium",0,"Day2","Minus",3
+"1937","m27_B6_S50","Anaerostipes",0,"Day2","Minus",3
+"1938","m27_B6_S50","Lachnospiraceae UCG-006",0,"Day2","Minus",3
+"1939","m27_B6_S50","Salmonella",0,"Day2","Minus",3
+"1940","m27_B6_S50","Parabacteroides",0,"Day2","Minus",3
+"1941","m27_B6_S50","Cutibacterium",0.000732302089257861,"Day2","Minus",3
+"1942","m27_B6_S50","Unclassified",4.06537504851501,"Day2","Minus",3
+"1943","m27_B6_S50","Other",9.46231939599724,"Day2","Minus",3
+"1944","m27_BL1_S48","Escherichia-Shigella",5.55555555555556,"Ctrl","Blank",3
+"1945","m27_BL1_S48","Bacteroides",9.50854700854701,"Ctrl","Blank",3
+"1946","m27_BL1_S48","HT002",0,"Ctrl","Blank",3
+"1947","m27_BL1_S48","[Clostridium] innocuum group",0,"Ctrl","Blank",3
+"1948","m27_BL1_S48","Ligilactobacillus",0,"Ctrl","Blank",3
+"1949","m27_BL1_S48","Dubosiella",2.02991452991453,"Ctrl","Blank",3
+"1950","m27_BL1_S48","Blautia",0,"Ctrl","Blank",3
+"1951","m27_BL1_S48","Faecalibaculum",0,"Ctrl","Blank",3
+"1952","m27_BL1_S48","Lactobacillus",0,"Ctrl","Blank",3
+"1953","m27_BL1_S48","Enterococcus",0,"Ctrl","Blank",3
+"1954","m27_BL1_S48","Turicibacter",0,"Ctrl","Blank",3
+"1955","m27_BL1_S48","Clostridium sensu stricto 1",0,"Ctrl","Blank",3
+"1956","m27_BL1_S48","Paraclostridium",0,"Ctrl","Blank",3
+"1957","m27_BL1_S48","Ileibacterium",0,"Ctrl","Blank",3
+"1958","m27_BL1_S48","Klebsiella",0,"Ctrl","Blank",3
+"1959","m27_BL1_S48","Lachnospiraceae UCG-001",0,"Ctrl","Blank",3
+"1960","m27_BL1_S48","Lachnospiraceae NK4A136 group",0,"Ctrl","Blank",3
+"1961","m27_BL1_S48","Streptococcus",2.43055555555556,"Ctrl","Blank",3
+"1962","m27_BL1_S48","Romboutsia",0,"Ctrl","Blank",3
+"1963","m27_BL1_S48","Erysipelatoclostridium",0,"Ctrl","Blank",3
+"1964","m27_BL1_S48","Bifidobacterium",0,"Ctrl","Blank",3
+"1965","m27_BL1_S48","Lachnoclostridium",0,"Ctrl","Blank",3
+"1966","m27_BL1_S48","Anaerostipes",0,"Ctrl","Blank",3
+"1967","m27_BL1_S48","Lachnospiraceae UCG-006",0,"Ctrl","Blank",3
+"1968","m27_BL1_S48","Salmonella",0,"Ctrl","Blank",3
+"1969","m27_BL1_S48","Parabacteroides",0,"Ctrl","Blank",3
+"1970","m27_BL1_S48","Cutibacterium",32.6388888888889,"Ctrl","Blank",3
+"1971","m27_BL1_S48","Unclassified",14.6367521367521,"Ctrl","Blank",3
+"1972","m27_BL1_S48","Other",33.1997863247863,"Ctrl","Blank",3
+"1973","m27_C1_S43","Escherichia-Shigella",0,"Baseline","Plus",3
+"1974","m27_C1_S43","Bacteroides",3.60915106515612,"Baseline","Plus",3
+"1975","m27_C1_S43","HT002",0.9382856239775,"Baseline","Plus",3
+"1976","m27_C1_S43","[Clostridium] innocuum group",0,"Baseline","Plus",3
+"1977","m27_C1_S43","Ligilactobacillus",1.08959369247294,"Baseline","Plus",3
+"1978","m27_C1_S43","Dubosiella",2.33078811895097,"Baseline","Plus",3
+"1979","m27_C1_S43","Blautia",0,"Baseline","Plus",3
+"1980","m27_C1_S43","Faecalibaculum",3.39433458106396,"Baseline","Plus",3
+"1981","m27_C1_S43","Lactobacillus",8.43344932643033,"Baseline","Plus",3
+"1982","m27_C1_S43","Enterococcus",0,"Baseline","Plus",3
+"1983","m27_C1_S43","Turicibacter",2.09870436978873,"Baseline","Plus",3
+"1984","m27_C1_S43","Clostridium sensu stricto 1",5.36660745067855,"Baseline","Plus",3
+"1985","m27_C1_S43","Paraclostridium",0,"Baseline","Plus",3
+"1986","m27_C1_S43","Ileibacterium",0,"Baseline","Plus",3
+"1987","m27_C1_S43","Klebsiella",0,"Baseline","Plus",3
+"1988","m27_C1_S43","Lachnospiraceae UCG-001",2.53067866205036,"Baseline","Plus",3
+"1989","m27_C1_S43","Lachnospiraceae NK4A136 group",7.99386573091748,"Baseline","Plus",3
+"1990","m27_C1_S43","Streptococcus",0.0128772824251435,"Baseline","Plus",3
+"1991","m27_C1_S43","Romboutsia",2.0328546301147,"Baseline","Plus",3
+"1992","m27_C1_S43","Erysipelatoclostridium",0.0576551054034833,"Baseline","Plus",3
+"1993","m27_C1_S43","Bifidobacterium",0.381050493580382,"Baseline","Plus",3
+"1994","m27_C1_S43","Lachnoclostridium",1.73931112392336,"Baseline","Plus",3
+"1995","m27_C1_S43","Anaerostipes",0,"Baseline","Plus",3
+"1996","m27_C1_S43","Lachnospiraceae UCG-006",0.708250533382891,"Baseline","Plus",3
+"1997","m27_C1_S43","Salmonella",0,"Baseline","Plus",3
+"1998","m27_C1_S43","Parabacteroides",0.638303476573589,"Baseline","Plus",3
+"1999","m27_C1_S43","Cutibacterium",0,"Baseline","Plus",3
+"2000","m27_C1_S43","Unclassified",34.1625522773767,"Baseline","Plus",3
+"2001","m27_C1_S43","Other",22.4816864557329,"Baseline","Plus",3
+"2002","m27_C16_S58","Escherichia-Shigella",0.0172433193097412,"Day13","Plus",3
+"2003","m27_C16_S58","Bacteroides",31.8321903545548,"Day13","Plus",3
+"2004","m27_C16_S58","HT002",0.00993682807679999,"Day13","Plus",3
+"2005","m27_C16_S58","[Clostridium] innocuum group",0.0143207228165647,"Day13","Plus",3
+"2006","m27_C16_S58","Ligilactobacillus",3.22011681618183,"Day13","Plus",3
+"2007","m27_C16_S58","Dubosiella",0,"Day13","Plus",3
+"2008","m27_C16_S58","Blautia",0.00745262105759999,"Day13","Plus",3
+"2009","m27_C16_S58","Faecalibaculum",22.9906053135727,"Day13","Plus",3
+"2010","m27_C16_S58","Lactobacillus",0,"Day13","Plus",3
+"2011","m27_C16_S58","Enterococcus",0.00146129824658823,"Day13","Plus",3
+"2012","m27_C16_S58","Turicibacter",2.2648661523871,"Day13","Plus",3
+"2013","m27_C16_S58","Clostridium sensu stricto 1",0.0255727193152941,"Day13","Plus",3
+"2014","m27_C16_S58","Paraclostridium",0.00555293333703529,"Day13","Plus",3
+"2015","m27_C16_S58","Ileibacterium",0,"Day13","Plus",3
+"2016","m27_C16_S58","Klebsiella",0,"Day13","Plus",3
+"2017","m27_C16_S58","Lachnospiraceae UCG-001",1.77810770644856,"Day13","Plus",3
+"2018","m27_C16_S58","Lachnospiraceae NK4A136 group",15.3030074979213,"Day13","Plus",3
+"2019","m27_C16_S58","Streptococcus",0,"Day13","Plus",3
+"2020","m27_C16_S58","Romboutsia",0.341359270403011,"Day13","Plus",3
+"2021","m27_C16_S58","Erysipelatoclostridium",0.00321485614249411,"Day13","Plus",3
+"2022","m27_C16_S58","Bifidobacterium",0,"Day13","Plus",3
+"2023","m27_C16_S58","Lachnoclostridium",1.10401082529741,"Day13","Plus",3
+"2024","m27_C16_S58","Anaerostipes",0,"Day13","Plus",3
+"2025","m27_C16_S58","Lachnospiraceae UCG-006",0.216856659793694,"Day13","Plus",3
+"2026","m27_C16_S58","Salmonella",0,"Day13","Plus",3
+"2027","m27_C16_S58","Parabacteroides",0,"Day13","Plus",3
+"2028","m27_C16_S58","Cutibacterium",0,"Day13","Plus",3
+"2029","m27_C16_S58","Unclassified",6.64057762197091,"Day13","Plus",3
+"2030","m27_C16_S58","Other",14.2235464831666,"Day13","Plus",3
+"2031","m27_C6_S51","Escherichia-Shigella",7.61800830445883,"Day2","Plus",3
+"2032","m27_C6_S51","Bacteroides",60.832926827224,"Day2","Plus",3
+"2033","m27_C6_S51","HT002",1.20577255438381,"Day2","Plus",3
+"2034","m27_C6_S51","[Clostridium] innocuum group",7.58934333757441,"Day2","Plus",3
+"2035","m27_C6_S51","Ligilactobacillus",15.3862143301366,"Day2","Plus",3
+"2036","m27_C6_S51","Dubosiella",0,"Day2","Plus",3
+"2037","m27_C6_S51","Blautia",0,"Day2","Plus",3
+"2038","m27_C6_S51","Faecalibaculum",0,"Day2","Plus",3
+"2039","m27_C6_S51","Lactobacillus",0.00033526277057801,"Day2","Plus",3
+"2040","m27_C6_S51","Enterococcus",2.52067314059077,"Day2","Plus",3
+"2041","m27_C6_S51","Turicibacter",0,"Day2","Plus",3
+"2042","m27_C6_S51","Clostridium sensu stricto 1",1.26662274724372,"Day2","Plus",3
+"2043","m27_C6_S51","Paraclostridium",1.7929852970512,"Day2","Plus",3
+"2044","m27_C6_S51","Ileibacterium",0,"Day2","Plus",3
+"2045","m27_C6_S51","Klebsiella",0.0264857588756628,"Day2","Plus",3
+"2046","m27_C6_S51","Lachnospiraceae UCG-001",0,"Day2","Plus",3
+"2047","m27_C6_S51","Lachnospiraceae NK4A136 group",0,"Day2","Plus",3
+"2048","m27_C6_S51","Streptococcus",0,"Day2","Plus",3
+"2049","m27_C6_S51","Romboutsia",0.120359334637506,"Day2","Plus",3
+"2050","m27_C6_S51","Erysipelatoclostridium",0,"Day2","Plus",3
+"2051","m27_C6_S51","Bifidobacterium",0,"Day2","Plus",3
+"2052","m27_C6_S51","Lachnoclostridium",0,"Day2","Plus",3
+"2053","m27_C6_S51","Anaerostipes",0,"Day2","Plus",3
+"2054","m27_C6_S51","Lachnospiraceae UCG-006",0,"Day2","Plus",3
+"2055","m27_C6_S51","Salmonella",0,"Day2","Plus",3
+"2056","m27_C6_S51","Parabacteroides",0,"Day2","Plus",3
+"2057","m27_C6_S51","Cutibacterium",0,"Day2","Plus",3
+"2058","m27_C6_S51","Unclassified",0.37432088335035,"Day2","Plus",3
+"2059","m27_C6_S51","Other",1.26595222170256,"Day2","Plus",3
+"2060","m27_D1_S44","Escherichia-Shigella",0,"Baseline","Plus",3
+"2061","m27_D1_S44","Bacteroides",2.7123879373902,"Baseline","Plus",3
+"2062","m27_D1_S44","HT002",2.02802147655421,"Baseline","Plus",3
+"2063","m27_D1_S44","[Clostridium] innocuum group",0,"Baseline","Plus",3
+"2064","m27_D1_S44","Ligilactobacillus",1.3225512041506,"Baseline","Plus",3
+"2065","m27_D1_S44","Dubosiella",5.61155831092766,"Baseline","Plus",3
+"2066","m27_D1_S44","Blautia",0,"Baseline","Plus",3
+"2067","m27_D1_S44","Faecalibaculum",7.34796348218372,"Baseline","Plus",3
+"2068","m27_D1_S44","Lactobacillus",14.9505430805535,"Baseline","Plus",3
+"2069","m27_D1_S44","Enterococcus",0.00205556606178209,"Baseline","Plus",3
+"2070","m27_D1_S44","Turicibacter",0.6949183666198,"Baseline","Plus",3
+"2071","m27_D1_S44","Clostridium sensu stricto 1",4.47976363731044,"Baseline","Plus",3
+"2072","m27_D1_S44","Paraclostridium",0,"Baseline","Plus",3
+"2073","m27_D1_S44","Ileibacterium",0,"Baseline","Plus",3
+"2074","m27_D1_S44","Klebsiella",0,"Baseline","Plus",3
+"2075","m27_D1_S44","Lachnospiraceae UCG-001",0.371372268495298,"Baseline","Plus",3
+"2076","m27_D1_S44","Lachnospiraceae NK4A136 group",1.69351235943354,"Baseline","Plus",3
+"2077","m27_D1_S44","Streptococcus",0.0111000567336233,"Baseline","Plus",3
+"2078","m27_D1_S44","Romboutsia",1.77532388869247,"Baseline","Plus",3
+"2079","m27_D1_S44","Erysipelatoclostridium",0.023570490841768,"Baseline","Plus",3
+"2080","m27_D1_S44","Bifidobacterium",0.92870474671315,"Baseline","Plus",3
+"2081","m27_D1_S44","Lachnoclostridium",0.41440211805527,"Baseline","Plus",3
+"2082","m27_D1_S44","Anaerostipes",0,"Baseline","Plus",3
+"2083","m27_D1_S44","Lachnospiraceae UCG-006",0.1056560955756,"Baseline","Plus",3
+"2084","m27_D1_S44","Salmonella",0,"Baseline","Plus",3
+"2085","m27_D1_S44","Parabacteroides",0.514850779607688,"Baseline","Plus",3
+"2086","m27_D1_S44","Cutibacterium",0,"Baseline","Plus",3
+"2087","m27_D1_S44","Unclassified",41.4892713155349,"Baseline","Plus",3
+"2088","m27_D1_S44","Other",13.5224728185648,"Baseline","Plus",3
+"2089","m27_D16_S59","Escherichia-Shigella",0.00156726710410833,"Day13","Plus",3
+"2090","m27_D16_S59","Bacteroides",33.2482655577381,"Day13","Plus",3
+"2091","m27_D16_S59","HT002",0,"Day13","Plus",3
+"2092","m27_D16_S59","[Clostridium] innocuum group",0.00692209637647846,"Day13","Plus",3
+"2093","m27_D16_S59","Ligilactobacillus",1.63492080076901,"Day13","Plus",3
+"2094","m27_D16_S59","Dubosiella",0,"Day13","Plus",3
+"2095","m27_D16_S59","Blautia",0.0306923141221215,"Day13","Plus",3
+"2096","m27_D16_S59","Faecalibaculum",16.941112550675,"Day13","Plus",3
+"2097","m27_D16_S59","Lactobacillus",0,"Day13","Plus",3
+"2098","m27_D16_S59","Enterococcus",0.000914239144063192,"Day13","Plus",3
+"2099","m27_D16_S59","Turicibacter",1.82129498056589,"Day13","Plus",3
+"2100","m27_D16_S59","Clostridium sensu stricto 1",0.0229865841935888,"Day13","Plus",3
+"2101","m27_D16_S59","Paraclostridium",0,"Day13","Plus",3
+"2102","m27_D16_S59","Ileibacterium",0,"Day13","Plus",3
+"2103","m27_D16_S59","Klebsiella",0,"Day13","Plus",3
+"2104","m27_D16_S59","Lachnospiraceae UCG-001",1.93204852258954,"Day13","Plus",3
+"2105","m27_D16_S59","Lachnospiraceae NK4A136 group",15.2449377272537,"Day13","Plus",3
+"2106","m27_D16_S59","Streptococcus",0,"Day13","Plus",3
+"2107","m27_D16_S59","Romboutsia",2.10222760897731,"Day13","Plus",3
+"2108","m27_D16_S59","Erysipelatoclostridium",0.0129299536088937,"Day13","Plus",3
+"2109","m27_D16_S59","Bifidobacterium",0,"Day13","Plus",3
+"2110","m27_D16_S59","Lachnoclostridium",1.5466314205709,"Day13","Plus",3
+"2111","m27_D16_S59","Anaerostipes",0,"Day13","Plus",3
+"2112","m27_D16_S59","Lachnospiraceae UCG-006",0.766001797132946,"Day13","Plus",3
+"2113","m27_D16_S59","Salmonella",0,"Day13","Plus",3
+"2114","m27_D16_S59","Parabacteroides",0,"Day13","Plus",3
+"2115","m27_D16_S59","Cutibacterium",0,"Day13","Plus",3
+"2116","m27_D16_S59","Unclassified",11.3625558991934,"Day13","Plus",3
+"2117","m27_D16_S59","Other",13.3239906799849,"Day13","Plus",3
+"2118","m27_D6_S52","Escherichia-Shigella",8.14402321077369,"Day2","Plus",3
+"2119","m27_D6_S52","Bacteroides",48.3083228445799,"Day2","Plus",3
+"2120","m27_D6_S52","HT002",2.16640888586186,"Day2","Plus",3
+"2121","m27_D6_S52","[Clostridium] innocuum group",7.42663748317924,"Day2","Plus",3
+"2122","m27_D6_S52","Ligilactobacillus",23.1324643294874,"Day2","Plus",3
+"2123","m27_D6_S52","Dubosiella",0,"Day2","Plus",3
+"2124","m27_D6_S52","Blautia",3.03651286328716,"Day2","Plus",3
+"2125","m27_D6_S52","Faecalibaculum",0,"Day2","Plus",3
+"2126","m27_D6_S52","Lactobacillus",0.000600071708569174,"Day2","Plus",3
+"2127","m27_D6_S52","Enterococcus",2.11195237830921,"Day2","Plus",3
+"2128","m27_D6_S52","Turicibacter",0,"Day2","Plus",3
+"2129","m27_D6_S52","Clostridium sensu stricto 1",1.31055661151508,"Day2","Plus",3
+"2130","m27_D6_S52","Paraclostridium",2.21741498109024,"Day2","Plus",3
+"2131","m27_D6_S52","Ileibacterium",0,"Day2","Plus",3
+"2132","m27_D6_S52","Klebsiella",0.0415549658184153,"Day2","Plus",3
+"2133","m27_D6_S52","Lachnospiraceae UCG-001",0,"Day2","Plus",3
+"2134","m27_D6_S52","Lachnospiraceae NK4A136 group",0,"Day2","Plus",3
+"2135","m27_D6_S52","Streptococcus",0.000900107562853761,"Day2","Plus",3
+"2136","m27_D6_S52","Romboutsia",0.106662746198171,"Day2","Plus",3
+"2137","m27_D6_S52","Erysipelatoclostridium",0,"Day2","Plus",3
+"2138","m27_D6_S52","Bifidobacterium",0,"Day2","Plus",3
+"2139","m27_D6_S52","Lachnoclostridium",0,"Day2","Plus",3
+"2140","m27_D6_S52","Anaerostipes",0,"Day2","Plus",3
+"2141","m27_D6_S52","Lachnospiraceae UCG-006",0,"Day2","Plus",3
+"2142","m27_D6_S52","Salmonella",0,"Day2","Plus",3
+"2143","m27_D6_S52","Parabacteroides",0,"Day2","Plus",3
+"2144","m27_D6_S52","Cutibacterium",0,"Day2","Plus",3
+"2145","m27_D6_S52","Unclassified",0.221426460462027,"Day2","Plus",3
+"2146","m27_D6_S52","Other",1.77456206016619,"Day2","Plus",3
+"2147","m27_E1_S45","Escherichia-Shigella",0,"Baseline","Minus",3
+"2148","m27_E1_S45","Bacteroides",4.79394840565083,"Baseline","Minus",3
+"2149","m27_E1_S45","HT002",2.54321780007496,"Baseline","Minus",3
+"2150","m27_E1_S45","[Clostridium] innocuum group",0,"Baseline","Minus",3
+"2151","m27_E1_S45","Ligilactobacillus",1.47884857051171,"Baseline","Minus",3
+"2152","m27_E1_S45","Dubosiella",4.30806201512409,"Baseline","Minus",3
+"2153","m27_E1_S45","Blautia",0.00159226697172869,"Baseline","Minus",3
+"2154","m27_E1_S45","Faecalibaculum",6.59100540635878,"Baseline","Minus",3
+"2155","m27_E1_S45","Lactobacillus",13.3456468645814,"Baseline","Minus",3
+"2156","m27_E1_S45","Enterococcus",0,"Baseline","Minus",3
+"2157","m27_E1_S45","Turicibacter",1.77427533480475,"Baseline","Minus",3
+"2158","m27_E1_S45","Clostridium sensu stricto 1",4.0191268007927,"Baseline","Minus",3
+"2159","m27_E1_S45","Paraclostridium",0,"Baseline","Minus",3
+"2160","m27_E1_S45","Ileibacterium",0,"Baseline","Minus",3
+"2161","m27_E1_S45","Klebsiella",0,"Baseline","Minus",3
+"2162","m27_E1_S45","Lachnospiraceae UCG-001",3.38773170546491,"Baseline","Minus",3
+"2163","m27_E1_S45","Lachnospiraceae NK4A136 group",3.23989584124363,"Baseline","Minus",3
+"2164","m27_E1_S45","Streptococcus",0.00489928298993442,"Baseline","Minus",3
+"2165","m27_E1_S45","Romboutsia",1.60561751787626,"Baseline","Minus",3
+"2166","m27_E1_S45","Erysipelatoclostridium",0.131790712429236,"Baseline","Minus",3
+"2167","m27_E1_S45","Bifidobacterium",2.12089960634261,"Baseline","Minus",3
+"2168","m27_E1_S45","Lachnoclostridium",0.448039429429503,"Baseline","Minus",3
+"2169","m27_E1_S45","Anaerostipes",0,"Baseline","Minus",3
+"2170","m27_E1_S45","Lachnospiraceae UCG-006",0.0324577498083155,"Baseline","Minus",3
+"2171","m27_E1_S45","Salmonella",0,"Baseline","Minus",3
+"2172","m27_E1_S45","Parabacteroides",1.00459797708605,"Baseline","Minus",3
+"2173","m27_E1_S45","Cutibacterium",0,"Baseline","Minus",3
+"2174","m27_E1_S45","Unclassified",35.1080169417206,"Baseline","Minus",3
+"2175","m27_E1_S45","Other",14.0603297707381,"Baseline","Minus",3
+"2176","m27_E16_S60","Escherichia-Shigella",17.7758374649227,"Day13","Minus",3
+"2177","m27_E16_S60","Bacteroides",0,"Day13","Minus",3
+"2178","m27_E16_S60","HT002",7.98564665093843,"Day13","Minus",3
+"2179","m27_E16_S60","[Clostridium] innocuum group",8.2271570727596,"Day13","Minus",3
+"2180","m27_E16_S60","Ligilactobacillus",0,"Day13","Minus",3
+"2181","m27_E16_S60","Dubosiella",0,"Day13","Minus",3
+"2182","m27_E16_S60","Blautia",0.121473516857842,"Day13","Minus",3
+"2183","m27_E16_S60","Faecalibaculum",0,"Day13","Minus",3
+"2184","m27_E16_S60","Lactobacillus",0,"Day13","Minus",3
+"2185","m27_E16_S60","Enterococcus",0,"Day13","Minus",3
+"2186","m27_E16_S60","Turicibacter",4.86995469883826,"Day13","Minus",3
+"2187","m27_E16_S60","Clostridium sensu stricto 1",12.1403282498555,"Day13","Minus",3
+"2188","m27_E16_S60","Paraclostridium",8.42477102002637,"Day13","Minus",3
+"2189","m27_E16_S60","Ileibacterium",0,"Day13","Minus",3
+"2190","m27_E16_S60","Klebsiella",0.00702343592870574,"Day13","Minus",3
+"2191","m27_E16_S60","Lachnospiraceae UCG-001",0,"Day13","Minus",3
+"2192","m27_E16_S60","Lachnospiraceae NK4A136 group",24.6969547020307,"Day13","Minus",3
+"2193","m27_E16_S60","Streptococcus",0,"Day13","Minus",3
+"2194","m27_E16_S60","Romboutsia",4.7213451795286,"Day13","Minus",3
+"2195","m27_E16_S60","Erysipelatoclostridium",0,"Day13","Minus",3
+"2196","m27_E16_S60","Bifidobacterium",0,"Day13","Minus",3
+"2197","m27_E16_S60","Lachnoclostridium",2.77856702752229,"Day13","Minus",3
+"2198","m27_E16_S60","Anaerostipes",0,"Day13","Minus",3
+"2199","m27_E16_S60","Lachnospiraceae UCG-006",0,"Day13","Minus",3
+"2200","m27_E16_S60","Salmonella",0,"Day13","Minus",3
+"2201","m27_E16_S60","Parabacteroides",0,"Day13","Minus",3
+"2202","m27_E16_S60","Cutibacterium",0,"Day13","Minus",3
+"2203","m27_E16_S60","Unclassified",1.51578517224976,"Day13","Minus",3
+"2204","m27_E16_S60","Other",6.73515580854114,"Day13","Minus",3
+"2205","m27_E6_S53","Escherichia-Shigella",38.1494429308051,"Day2","Minus",3
+"2206","m27_E6_S53","Bacteroides",0.000619568130034959,"Day2","Minus",3
+"2207","m27_E6_S53","HT002",36.3358121221602,"Day2","Minus",3
+"2208","m27_E6_S53","[Clostridium] innocuum group",11.360401232321,"Day2","Minus",3
+"2209","m27_E6_S53","Ligilactobacillus",0,"Day2","Minus",3
+"2210","m27_E6_S53","Dubosiella",0,"Day2","Minus",3
+"2211","m27_E6_S53","Blautia",0,"Day2","Minus",3
+"2212","m27_E6_S53","Faecalibaculum",0,"Day2","Minus",3
+"2213","m27_E6_S53","Lactobacillus",0.000619568130034959,"Day2","Minus",3
+"2214","m27_E6_S53","Enterococcus",0,"Day2","Minus",3
+"2215","m27_E6_S53","Turicibacter",0,"Day2","Minus",3
+"2216","m27_E6_S53","Clostridium sensu stricto 1",0.431064526471823,"Day2","Minus",3
+"2217","m27_E6_S53","Paraclostridium",0,"Day2","Minus",3
+"2218","m27_E6_S53","Ileibacterium",0,"Day2","Minus",3
+"2219","m27_E6_S53","Klebsiella",0.0238533730063459,"Day2","Minus",3
+"2220","m27_E6_S53","Lachnospiraceae UCG-001",0,"Day2","Minus",3
+"2221","m27_E6_S53","Lachnospiraceae NK4A136 group",0,"Day2","Minus",3
+"2222","m27_E6_S53","Streptococcus",0.000619568130034959,"Day2","Minus",3
+"2223","m27_E6_S53","Romboutsia",0.00030978406501748,"Day2","Minus",3
+"2224","m27_E6_S53","Erysipelatoclostridium",0,"Day2","Minus",3
+"2225","m27_E6_S53","Bifidobacterium",0.000619568130034959,"Day2","Minus",3
+"2226","m27_E6_S53","Lachnoclostridium",0,"Day2","Minus",3
+"2227","m27_E6_S53","Anaerostipes",0,"Day2","Minus",3
+"2228","m27_E6_S53","Lachnospiraceae UCG-006",0,"Day2","Minus",3
+"2229","m27_E6_S53","Salmonella",0,"Day2","Minus",3
+"2230","m27_E6_S53","Parabacteroides",0,"Day2","Minus",3
+"2231","m27_E6_S53","Cutibacterium",0,"Day2","Minus",3
+"2232","m27_E6_S53","Unclassified",2.10281423333865,"Day2","Minus",3
+"2233","m27_E6_S53","Other",11.5938235253117,"Day2","Minus",3
+"2234","m27_F1_S46","Escherichia-Shigella",0,"Baseline","Plus",3
+"2235","m27_F1_S46","Bacteroides",2.67182662106317,"Baseline","Plus",3
+"2236","m27_F1_S46","HT002",1.29380595983112,"Baseline","Plus",3
+"2237","m27_F1_S46","[Clostridium] innocuum group",0,"Baseline","Plus",3
+"2238","m27_F1_S46","Ligilactobacillus",0.604446480370154,"Baseline","Plus",3
+"2239","m27_F1_S46","Dubosiella",3.48687968470463,"Baseline","Plus",3
+"2240","m27_F1_S46","Blautia",0.000418978613934949,"Baseline","Plus",3
+"2241","m27_F1_S46","Faecalibaculum",7.05029279622137,"Baseline","Plus",3
+"2242","m27_F1_S46","Lactobacillus",10.6075608880671,"Baseline","Plus",3
+"2243","m27_F1_S46","Enterococcus",0,"Baseline","Plus",3
+"2244","m27_F1_S46","Turicibacter",1.75216856347596,"Baseline","Plus",3
+"2245","m27_F1_S46","Clostridium sensu stricto 1",2.0752010748198,"Baseline","Plus",3
+"2246","m27_F1_S46","Paraclostridium",0,"Baseline","Plus",3
+"2247","m27_F1_S46","Ileibacterium",0,"Baseline","Plus",3
+"2248","m27_F1_S46","Klebsiella",0,"Baseline","Plus",3
+"2249","m27_F1_S46","Lachnospiraceae UCG-001",4.49424393214222,"Baseline","Plus",3
+"2250","m27_F1_S46","Lachnospiraceae NK4A136 group",8.97186837926503,"Baseline","Plus",3
+"2251","m27_F1_S46","Streptococcus",0.00516740290519771,"Baseline","Plus",3
+"2252","m27_F1_S46","Romboutsia",1.12104711135195,"Baseline","Plus",3
+"2253","m27_F1_S46","Erysipelatoclostridium",0.0187143780890944,"Baseline","Plus",3
+"2254","m27_F1_S46","Bifidobacterium",1.99014841619101,"Baseline","Plus",3
+"2255","m27_F1_S46","Lachnoclostridium",0.920077036201149,"Baseline","Plus",3
+"2256","m27_F1_S46","Anaerostipes",0,"Baseline","Plus",3
+"2257","m27_F1_S46","Lachnospiraceae UCG-006",0.146921833953189,"Baseline","Plus",3
+"2258","m27_F1_S46","Salmonella",0,"Baseline","Plus",3
+"2259","m27_F1_S46","Parabacteroides",0.331272424084567,"Baseline","Plus",3
+"2260","m27_F1_S46","Cutibacterium",0,"Baseline","Plus",3
+"2261","m27_F1_S46","Unclassified",35.5443300322474,"Baseline","Plus",3
+"2262","m27_F1_S46","Other",16.913608006402,"Baseline","Plus",3
+"2263","m27_F16_S61","Escherichia-Shigella",0.0015379737550694,"Day13","Plus",3
+"2264","m27_F16_S61","Bacteroides",39.599275022833,"Day13","Plus",3
+"2265","m27_F16_S61","HT002",2.24993729799306,"Day13","Plus",3
+"2266","m27_F16_S61","[Clostridium] innocuum group",7.58646961673694,"Day13","Plus",3
+"2267","m27_F16_S61","Ligilactobacillus",0,"Day13","Plus",3
+"2268","m27_F16_S61","Dubosiella",0,"Day13","Plus",3
+"2269","m27_F16_S61","Blautia",22.6896085028654,"Day13","Plus",3
+"2270","m27_F16_S61","Faecalibaculum",0,"Day13","Plus",3
+"2271","m27_F16_S61","Lactobacillus",0.00177458510200315,"Day13","Plus",3
+"2272","m27_F16_S61","Enterococcus",16.235205875533,"Day13","Plus",3
+"2273","m27_F16_S61","Turicibacter",0.0238977460403091,"Day13","Plus",3
+"2274","m27_F16_S61","Clostridium sensu stricto 1",0.0417619027338075,"Day13","Plus",3
+"2275","m27_F16_S61","Paraclostridium",0,"Day13","Plus",3
+"2276","m27_F16_S61","Ileibacterium",0,"Day13","Plus",3
+"2277","m27_F16_S61","Klebsiella",9.10941855127605,"Day13","Plus",3
+"2278","m27_F16_S61","Lachnospiraceae UCG-001",0,"Day13","Plus",3
+"2279","m27_F16_S61","Lachnospiraceae NK4A136 group",0.00118305673466877,"Day13","Plus",3
+"2280","m27_F16_S61","Streptococcus",0,"Day13","Plus",3
+"2281","m27_F16_S61","Romboutsia",0.00106475106120189,"Day13","Plus",3
+"2282","m27_F16_S61","Erysipelatoclostridium",0,"Day13","Plus",3
+"2283","m27_F16_S61","Bifidobacterium",0,"Day13","Plus",3
+"2284","m27_F16_S61","Lachnoclostridium",0,"Day13","Plus",3
+"2285","m27_F16_S61","Anaerostipes",0,"Day13","Plus",3
+"2286","m27_F16_S61","Lachnospiraceae UCG-006",0,"Day13","Plus",3
+"2287","m27_F16_S61","Salmonella",0,"Day13","Plus",3
+"2288","m27_F16_S61","Parabacteroides",0,"Day13","Plus",3
+"2289","m27_F16_S61","Cutibacterium",0.000473222693867507,"Day13","Plus",3
+"2290","m27_F16_S61","Unclassified",0.436429629419308,"Day13","Plus",3
+"2291","m27_F16_S61","Other",2.0219622652224,"Day13","Plus",3
+"2292","m27_F6_S54","Escherichia-Shigella",0,"Day2","Plus",3
+"2293","m27_F6_S54","Bacteroides",57.0412894622762,"Day2","Plus",3
+"2294","m27_F6_S54","HT002",0.595245640231304,"Day2","Plus",3
+"2295","m27_F6_S54","[Clostridium] innocuum group",7.67405484473672,"Day2","Plus",3
+"2296","m27_F6_S54","Ligilactobacillus",0,"Day2","Plus",3
+"2297","m27_F6_S54","Dubosiella",0,"Day2","Plus",3
+"2298","m27_F6_S54","Blautia",0,"Day2","Plus",3
+"2299","m27_F6_S54","Faecalibaculum",0,"Day2","Plus",3
+"2300","m27_F6_S54","Lactobacillus",0.000887291201366936,"Day2","Plus",3
+"2301","m27_F6_S54","Enterococcus",14.2450799702884,"Day2","Plus",3
+"2302","m27_F6_S54","Turicibacter",0.00519699132229205,"Day2","Plus",3
+"2303","m27_F6_S54","Clostridium sensu stricto 1",0.221949556227643,"Day2","Plus",3
+"2304","m27_F6_S54","Paraclostridium",12.2215490076282,"Day2","Plus",3
+"2305","m27_F6_S54","Ileibacterium",0,"Day2","Plus",3
+"2306","m27_F6_S54","Klebsiella",6.64695190121153,"Day2","Plus",3
+"2307","m27_F6_S54","Lachnospiraceae UCG-001",0,"Day2","Plus",3
+"2308","m27_F6_S54","Lachnospiraceae NK4A136 group",0,"Day2","Plus",3
+"2309","m27_F6_S54","Streptococcus",0.000253511771819124,"Day2","Plus",3
+"2310","m27_F6_S54","Romboutsia",0,"Day2","Plus",3
+"2311","m27_F6_S54","Erysipelatoclostridium",0,"Day2","Plus",3
+"2312","m27_F6_S54","Bifidobacterium",0,"Day2","Plus",3
+"2313","m27_F6_S54","Lachnoclostridium",0,"Day2","Plus",3
+"2314","m27_F6_S54","Anaerostipes",0,"Day2","Plus",3
+"2315","m27_F6_S54","Lachnospiraceae UCG-006",0,"Day2","Plus",3
+"2316","m27_F6_S54","Salmonella",0,"Day2","Plus",3
+"2317","m27_F6_S54","Parabacteroides",0,"Day2","Plus",3
+"2318","m27_F6_S54","Cutibacterium",0,"Day2","Plus",3
+"2319","m27_F6_S54","Unclassified",0.258708763141414,"Day2","Plus",3
+"2320","m27_F6_S54","Other",1.08883305996314,"Day2","Plus",3
+"2321","m27_G1_S47","Escherichia-Shigella",0,"Baseline","Minus",3
+"2322","m27_G1_S47","Bacteroides",2.98715383734481,"Baseline","Minus",3
+"2323","m27_G1_S47","HT002",1.85922438009013,"Baseline","Minus",3
+"2324","m27_G1_S47","[Clostridium] innocuum group",0,"Baseline","Minus",3
+"2325","m27_G1_S47","Ligilactobacillus",1.36599101374883,"Baseline","Minus",3
+"2326","m27_G1_S47","Dubosiella",9.33640509535261,"Baseline","Minus",3
+"2327","m27_G1_S47","Blautia",0.00121253763918922,"Baseline","Minus",3
+"2328","m27_G1_S47","Faecalibaculum",5.05331797452324,"Baseline","Minus",3
+"2329","m27_G1_S47","Lactobacillus",12.2346395058235,"Baseline","Minus",3
+"2330","m27_G1_S47","Enterococcus",0,"Baseline","Minus",3
+"2331","m27_G1_S47","Turicibacter",1.15420110610378,"Baseline","Minus",3
+"2332","m27_G1_S47","Clostridium sensu stricto 1",4.83074995452984,"Baseline","Minus",3
+"2333","m27_G1_S47","Paraclostridium",0,"Baseline","Minus",3
+"2334","m27_G1_S47","Ileibacterium",0,"Baseline","Minus",3
+"2335","m27_G1_S47","Klebsiella",0,"Baseline","Minus",3
+"2336","m27_G1_S47","Lachnospiraceae UCG-001",1.96458042829524,"Baseline","Minus",3
+"2337","m27_G1_S47","Lachnospiraceae NK4A136 group",2.48017837775937,"Baseline","Minus",3
+"2338","m27_G1_S47","Streptococcus",0.00902666909174194,"Baseline","Minus",3
+"2339","m27_G1_S47","Romboutsia",2.21975223814239,"Baseline","Minus",3
+"2340","m27_G1_S47","Erysipelatoclostridium",0,"Baseline","Minus",3
+"2341","m27_G1_S47","Bifidobacterium",3.84845974038222,"Baseline","Minus",3
+"2342","m27_G1_S47","Lachnoclostridium",0.328328247411569,"Baseline","Minus",3
+"2343","m27_G1_S47","Anaerostipes",0,"Baseline","Minus",3
+"2344","m27_G1_S47","Lachnospiraceae UCG-006",0.0270800072752258,"Baseline","Minus",3
+"2345","m27_G1_S47","Salmonella",0,"Baseline","Minus",3
+"2346","m27_G1_S47","Parabacteroides",0.519909194403465,"Baseline","Minus",3
+"2347","m27_G1_S47","Cutibacterium",0,"Baseline","Minus",3
+"2348","m27_G1_S47","Unclassified",33.7076032846297,"Baseline","Minus",3
+"2349","m27_G1_S47","Other",16.0721864074531,"Baseline","Minus",3
+"2350","m27_G16_S62","Escherichia-Shigella",0.00139990830600596,"Day13","Minus",3
+"2351","m27_G16_S62","Bacteroides",0.0103243237567939,"Day13","Minus",3
+"2352","m27_G16_S62","HT002",0,"Day13","Minus",3
+"2353","m27_G16_S62","[Clostridium] innocuum group",0.0183737965163282,"Day13","Minus",3
+"2354","m27_G16_S62","Ligilactobacillus",0.00122491976775521,"Day13","Minus",3
+"2355","m27_G16_S62","Dubosiella",0,"Day13","Minus",3
+"2356","m27_G16_S62","Blautia",0.0545964239342323,"Day13","Minus",3
+"2357","m27_G16_S62","Faecalibaculum",0.0062995873770268,"Day13","Minus",3
+"2358","m27_G16_S62","Lactobacillus",21.9530120777089,"Day13","Minus",3
+"2359","m27_G16_S62","Enterococcus",0.0138240945218088,"Day13","Minus",3
+"2360","m27_G16_S62","Turicibacter",3.65271074744604,"Day13","Minus",3
+"2361","m27_G16_S62","Clostridium sensu stricto 1",0,"Day13","Minus",3
+"2362","m27_G16_S62","Paraclostridium",0,"Day13","Minus",3
+"2363","m27_G16_S62","Ileibacterium",0,"Day13","Minus",3
+"2364","m27_G16_S62","Klebsiella",0,"Day13","Minus",3
+"2365","m27_G16_S62","Lachnospiraceae UCG-001",16.4373733520454,"Day13","Minus",3
+"2366","m27_G16_S62","Lachnospiraceae NK4A136 group",18.157335694512,"Day13","Minus",3
+"2367","m27_G16_S62","Streptococcus",0,"Day13","Minus",3
+"2368","m27_G16_S62","Romboutsia",0.000349977076501489,"Day13","Minus",3
+"2369","m27_G16_S62","Erysipelatoclostridium",0,"Day13","Minus",3
+"2370","m27_G16_S62","Bifidobacterium",3.01557747967508,"Day13","Minus",3
+"2371","m27_G16_S62","Lachnoclostridium",1.1865972778783,"Day13","Minus",3
+"2372","m27_G16_S62","Anaerostipes",0,"Day13","Minus",3
+"2373","m27_G16_S62","Lachnospiraceae UCG-006",0.292755824493496,"Day13","Minus",3
+"2374","m27_G16_S62","Salmonella",0,"Day13","Minus",3
+"2375","m27_G16_S62","Parabacteroides",0,"Day13","Minus",3
+"2376","m27_G16_S62","Cutibacterium",0,"Day13","Minus",3
+"2377","m27_G16_S62","Unclassified",14.7550335453028,"Day13","Minus",3
+"2378","m27_G16_S62","Other",20.4432109696815,"Day13","Minus",3
+"2379","m27_G6_S55","Escherichia-Shigella",42.0744117342352,"Day2","Minus",3
+"2380","m27_G6_S55","Bacteroides",0,"Day2","Minus",3
+"2381","m27_G6_S55","HT002",0,"Day2","Minus",3
+"2382","m27_G6_S55","[Clostridium] innocuum group",23.607161118482,"Day2","Minus",3
+"2383","m27_G6_S55","Ligilactobacillus",0,"Day2","Minus",3
+"2384","m27_G6_S55","Dubosiella",0,"Day2","Minus",3
+"2385","m27_G6_S55","Blautia",0,"Day2","Minus",3
+"2386","m27_G6_S55","Faecalibaculum",0,"Day2","Minus",3
+"2387","m27_G6_S55","Lactobacillus",0.00668388882019336,"Day2","Minus",3
+"2388","m27_G6_S55","Enterococcus",0,"Day2","Minus",3
+"2389","m27_G6_S55","Turicibacter",0,"Day2","Minus",3
+"2390","m27_G6_S55","Clostridium sensu stricto 1",0,"Day2","Minus",3
+"2391","m27_G6_S55","Paraclostridium",0,"Day2","Minus",3
+"2392","m27_G6_S55","Ileibacterium",0,"Day2","Minus",3
+"2393","m27_G6_S55","Klebsiella",11.0310901088471,"Day2","Minus",3
+"2394","m27_G6_S55","Lachnospiraceae UCG-001",0,"Day2","Minus",3
+"2395","m27_G6_S55","Lachnospiraceae NK4A136 group",0,"Day2","Minus",3
+"2396","m27_G6_S55","Streptococcus",0.00601549993817403,"Day2","Minus",3
+"2397","m27_G6_S55","Romboutsia",0.001002583323029,"Day2","Minus",3
+"2398","m27_G6_S55","Erysipelatoclostridium",0,"Day2","Minus",3
+"2399","m27_G6_S55","Bifidobacterium",0.00334194441009668,"Day2","Minus",3
+"2400","m27_G6_S55","Lachnoclostridium",0,"Day2","Minus",3
+"2401","m27_G6_S55","Anaerostipes",0.00334194441009668,"Day2","Minus",3
+"2402","m27_G6_S55","Lachnospiraceae UCG-006",0,"Day2","Minus",3
+"2403","m27_G6_S55","Salmonella",19.0995464981435,"Day2","Minus",3
+"2404","m27_G6_S55","Parabacteroides",0,"Day2","Minus",3
+"2405","m27_G6_S55","Cutibacterium",0.00334194441009668,"Day2","Minus",3
+"2406","m27_G6_S55","Unclassified",3.79043334993166,"Day2","Minus",3
+"2407","m27_G6_S55","Other",0.373629385048801,"Day2","Minus",3
+"2408","m27_neg_S40","Escherichia-Shigella",4.04144374441516,"Ctrl","Ctrl",3
+"2409","m27_neg_S40","Bacteroides",0.245450123856168,"Ctrl","Ctrl",3
+"2410","m27_neg_S40","HT002",0.840412175231029,"Ctrl","Ctrl",3
+"2411","m27_neg_S40","[Clostridium] innocuum group",0.0158354918616883,"Ctrl","Ctrl",3
+"2412","m27_neg_S40","Ligilactobacillus",0,"Ctrl","Ctrl",3
+"2413","m27_neg_S40","Dubosiella",0,"Ctrl","Ctrl",3
+"2414","m27_neg_S40","Blautia",19.6050929958111,"Ctrl","Ctrl",3
+"2415","m27_neg_S40","Faecalibaculum",0,"Ctrl","Ctrl",3
+"2416","m27_neg_S40","Lactobacillus",0.620600466769974,"Ctrl","Ctrl",3
+"2417","m27_neg_S40","Enterococcus",0.486752856986657,"Ctrl","Ctrl",3
+"2418","m27_neg_S40","Turicibacter",0.188517760258194,"Ctrl","Ctrl",3
+"2419","m27_neg_S40","Clostridium sensu stricto 1",2.93522152722008,"Ctrl","Ctrl",3
+"2420","m27_neg_S40","Paraclostridium",0,"Ctrl","Ctrl",3
+"2421","m27_neg_S40","Ileibacterium",0,"Ctrl","Ctrl",3
+"2422","m27_neg_S40","Klebsiella",0.173813374958055,"Ctrl","Ctrl",3
+"2423","m27_neg_S40","Lachnospiraceae UCG-001",0,"Ctrl","Ctrl",3
+"2424","m27_neg_S40","Lachnospiraceae NK4A136 group",0,"Ctrl","Ctrl",3
+"2425","m27_neg_S40","Streptococcus",23.5458682562484,"Ctrl","Ctrl",3
+"2426","m27_neg_S40","Romboutsia",5.21779456842629,"Ctrl","Ctrl",3
+"2427","m27_neg_S40","Erysipelatoclostridium",0.179845943286317,"Ctrl","Ctrl",3
+"2428","m27_neg_S40","Bifidobacterium",12.0074502218854,"Ctrl","Ctrl",3
+"2429","m27_neg_S40","Lachnoclostridium",0,"Ctrl","Ctrl",3
+"2430","m27_neg_S40","Anaerostipes",10.37526345357,"Ctrl","Ctrl",3
+"2431","m27_neg_S40","Lachnospiraceae UCG-006",0,"Ctrl","Ctrl",3
+"2432","m27_neg_S40","Salmonella",0,"Ctrl","Ctrl",3
+"2433","m27_neg_S40","Parabacteroides",0,"Ctrl","Ctrl",3
+"2434","m27_neg_S40","Cutibacterium",0,"Ctrl","Ctrl",3
+"2435","m27_neg_S40","Unclassified",0.353282282723853,"Ctrl","Ctrl",3
+"2436","m27_neg_S40","Other",19.1673547564916,"Ctrl","Ctrl",3
+"2437","m27_pos_S39","Escherichia-Shigella",0.346869736142786,"Ctrl","Ctrl",3
+"2438","m27_pos_S39","Bacteroides",87.6441541130849,"Ctrl","Ctrl",3
+"2439","m27_pos_S39","HT002",0.0762072950909566,"Ctrl","Ctrl",3
+"2440","m27_pos_S39","[Clostridium] innocuum group",0.0123731401623693,"Ctrl","Ctrl",3
+"2441","m27_pos_S39","Ligilactobacillus",0,"Ctrl","Ctrl",3
+"2442","m27_pos_S39","Dubosiella",0,"Ctrl","Ctrl",3
+"2443","m27_pos_S39","Blautia",2.44819450576335,"Ctrl","Ctrl",3
+"2444","m27_pos_S39","Faecalibaculum",0,"Ctrl","Ctrl",3
+"2445","m27_pos_S39","Lactobacillus",0.0703019327407349,"Ctrl","Ctrl",3
+"2446","m27_pos_S39","Enterococcus",0.0947670053345107,"Ctrl","Ctrl",3
+"2447","m27_pos_S39","Turicibacter",0.0165912561268134,"Ctrl","Ctrl",3
+"2448","m27_pos_S39","Clostridium sensu stricto 1",0.293159059528865,"Ctrl","Ctrl",3
+"2449","m27_pos_S39","Paraclostridium",0.0118107247004435,"Ctrl","Ctrl",3
+"2450","m27_pos_S39","Ileibacterium",0,"Ctrl","Ctrl",3
+"2451","m27_pos_S39","Klebsiella",0.0212311836877019,"Ctrl","Ctrl",3
+"2452","m27_pos_S39","Lachnospiraceae UCG-001",0,"Ctrl","Ctrl",3
+"2453","m27_pos_S39","Lachnospiraceae NK4A136 group",0.00548355075377732,"Ctrl","Ctrl",3
+"2454","m27_pos_S39","Streptococcus",2.65417916869371,"Ctrl","Ctrl",3
+"2455","m27_pos_S39","Romboutsia",0.571414109316693,"Ctrl","Ctrl",3
+"2456","m27_pos_S39","Erysipelatoclostridium",0.0118107247004435,"Ctrl","Ctrl",3
+"2457","m27_pos_S39","Bifidobacterium",1.52119322064402,"Ctrl","Ctrl",3
+"2458","m27_pos_S39","Lachnoclostridium",0.00126543478933323,"Ctrl","Ctrl",3
+"2459","m27_pos_S39","Anaerostipes",1.20469391944523,"Ctrl","Ctrl",3
+"2460","m27_pos_S39","Lachnospiraceae UCG-006",0,"Ctrl","Ctrl",3
+"2461","m27_pos_S39","Salmonella",0,"Ctrl","Ctrl",3
+"2462","m27_pos_S39","Parabacteroides",0,"Ctrl","Ctrl",3
+"2463","m27_pos_S39","Cutibacterium",0,"Ctrl","Ctrl",3
+"2464","m27_pos_S39","Unclassified",0.689802564052087,"Ctrl","Ctrl",3
+"2465","m27_pos_S39","Other",2.3044973552413,"Ctrl","Ctrl",3

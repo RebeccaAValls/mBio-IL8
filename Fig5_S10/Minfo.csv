@@ -1,0 +1,86 @@
+﻿SampleID,Sample,Day,Condition,Experiment,DayGraph,OrdAll
+26_2A_S2,26_2A,Baseline,Minus,1,Baseline,Baseline
+26_3A_S3,26_3A,Baseline,Minus,1,Baseline,Baseline
+26_5A_S5,26_5A,Baseline,Minus,1,Baseline,Baseline
+m18_10B_S9,m18_10B,Baseline,Minus,2,Baseline,Baseline
+m18_3B_S3,m18_3B,Baseline,Minus,2,Baseline,Baseline
+m18_6B_S5,m18_6B,Baseline,Minus,2,Baseline,Baseline
+m18_7B_S6,m18_7B,Baseline,Minus,2,Baseline,Baseline
+m18_9B_S8,m18_9B,Baseline,Minus,2,Baseline,Baseline
+m27_A1_S41,m27_A1,Baseline,Minus,3,Baseline,Baseline
+m27_B1_S42,m27_B1,Baseline,Minus,3,Baseline,Baseline
+m27_E1_S45,m27_E1,Baseline,Minus,3,Baseline,Baseline
+m27_G1_S47,m27_G1,Baseline,Minus,3,Baseline,Baseline
+26_1A_S1,26_1A,Baseline,Plus,1,Baseline,Baseline
+26_4A_S4,26_4A,Baseline,Plus,1,Baseline,Baseline
+26_6A_S6,26_6A,Baseline,Plus,1,Baseline,Baseline
+26_7A_S7,26_7A,Baseline,Plus,1,Baseline,Baseline
+m18_11B_S10,m18_11B,Baseline,Plus,2,Baseline,Baseline
+m18_12B_S11,m18_12B,Baseline,Plus,2,Baseline,Baseline
+m18_1B_S1,m18_1B,Baseline,Plus,2,Baseline,Baseline
+m18_2B_S2,m18_2B,Baseline,Plus,2,Baseline,Baseline
+m18_5B_S4,m18_5B,Baseline,Plus,2,Baseline,Baseline
+m18_8B_S7,m18_8B,Baseline,Plus,2,Baseline,Baseline
+m27_C1_S43,m27_C1,Baseline,Plus,3,Baseline,Baseline
+m27_D1_S44,m27_D1,Baseline,Plus,3,Baseline,Baseline
+m27_F1_S46,m27_F1,Baseline,Plus,3,Baseline,Baseline
+m18_BLB_S12,m18_BLB,Ctrl,Blank,2,Ctrl,NA
+m27_BL1_S48,m27_BL1,Ctrl,Blank,3,Ctrl,NA
+26_Bt_neg_S23,26_Bt_neg,Ctrl,Ctrl,1,Ctrl,Ctrl
+26_Bt_pos_S22,26_Bt_pos,Ctrl,Ctrl,1,Ctrl,Ctrl
+m18_neg_S38,m18_neg,Ctrl,Ctrl,2,Ctrl,Ctrl
+m18_pos_S37,m18_pos,Ctrl,Ctrl,2,Ctrl,Ctrl
+m27_neg_S40,m27_neg,Ctrl,Ctrl,3,Ctrl,Ctrl
+m27_pos_S39,m27_pos,Ctrl,Ctrl,3,Ctrl,Ctrl
+m18_10F_S22,m18_10F,Day2,Minus,2,Early,Early Minus
+m18_3F_S15,m18_3F,Day2,Minus,2,Early,Early Minus
+m18_4F_S16,m18_4F,Day2,Minus,2,Early,Early Minus
+m18_6F_S18,m18_6F,Day2,Minus,2,Early,Early Minus
+m18_7F_S19,m18_7F,Day2,Minus,2,Early,Early Minus
+m18_9F_S21,m18_9F,Day2,Minus,2,Early,Early Minus
+m27_A6_S49,m27_A6,Day2,Minus,3,Early,Early Minus
+m27_B6_S50,m27_B6,Day2,Minus,3,Early,Early Minus
+m27_E6_S53,m27_E6,Day2,Minus,3,Early,Early Minus
+m27_G6_S55,m27_G6,Day2,Minus,3,Early,Early Minus
+26_2H_S9,26_2H,Day4,Minus,1,Early,Early Minus
+26_3H_S10,26_3H,Day4,Minus,1,Early,Early Minus
+26_5H_S12,26_5H,Day4,Minus,1,Early,Early Minus
+m18_11F_S23,m18_11F,Day2,Plus,2,Early,Early Plus
+m18_12F_S24,m18_12F,Day2,Plus,2,Early,Early Plus
+m18_1F_S13,m18_1F,Day2,Plus,2,Early,Early Plus
+m18_2F_S14,m18_2F,Day2,Plus,2,Early,Early Plus
+m18_5F_S17,m18_5F,Day2,Plus,2,Early,Early Plus
+m18_8F_S20,m18_8F,Day2,Plus,2,Early,Early Plus
+m27_C6_S51,m27_C6,Day2,Plus,3,Early,Early Plus
+m27_D6_S52,m27_D6,Day2,Plus,3,Early,Early Plus
+m27_F6_S54,m27_F6,Day2,Plus,3,Early,Early Plus
+26_1H_S8,26_1H,Day4,Plus,1,Early,Early Plus
+26_4H_S11,26_4H,Day4,Plus,1,Early,Early Plus
+26_6H_S13,26_6H,Day4,Plus,1,Early,Early Plus
+26_7H_S14,26_7H,Day4,Plus,1,Early,Early Plus
+26_2L_S16,26_2L,Day12,Minus,1,Late,Late Minus
+26_3L_S17,26_3L,Day12,Minus,1,Late,Late Minus
+26_5L_S19,26_5L,Day12,Minus,1,Late,Late Minus
+m18_10N_S34,m18_10N,Day13,Minus,2,Late,Late Minus
+m18_3N_S27,m18_3N,Day13,Minus,2,Late,Late Minus
+m18_4N_S28,m18_4N,Day13,Minus,2,Late,Late Minus
+m18_6N_S30,m18_6N,Day13,Minus,2,Late,Late Minus
+m18_7N_S31,m18_7N,Day13,Minus,2,Late,Late Minus
+m18_9N_S33,m18_9N,Day13,Minus,2,Late,Late Minus
+m27_A16_S56,m27_A16,Day13,Minus,3,Late,Late Minus
+m27_B16_S57,m27_B16,Day13,Minus,3,Late,Late Minus
+m27_E16_S60,m27_E16,Day13,Minus,3,Late,Late Minus
+m27_G16_S62,m27_G16,Day13,Minus,3,Late,Late Minus
+26_1L_S15,26_1L,Day12,Plus,1,Late,Late Plus
+26_4L_S18,26_4L,Day12,Plus,1,Late,Late Plus
+26_6L_S20,26_6L,Day12,Plus,1,Late,Late Plus
+26_7L_S21,26_7L,Day12,Plus,1,Late,Late Plus
+m18_11N_S35,m18_11N,Day13,Plus,2,Late,Late Plus
+m18_12N_S36,m18_12N,Day13,Plus,2,Late,Late Plus
+m18_1N_S25,m18_1N,Day13,Plus,2,Late,Late Plus
+m18_2N_S26,m18_2N,Day13,Plus,2,Late,Late Plus
+m18_5N_S29,m18_5N,Day13,Plus,2,Late,Late Plus
+m18_8N_S32,m18_8N,Day13,Plus,2,Late,Late Plus
+m27_C16_S58,m27_C16,Day13,Plus,3,Late,Late Plus
+m27_D16_S59,m27_D16,Day13,Plus,3,Late,Late Plus
+m27_F16_S61,m27_F16,Day13,Plus,3,Late,Late Plus
